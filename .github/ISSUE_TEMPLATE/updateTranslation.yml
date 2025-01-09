@@ -1,0 +1,48 @@
+name: "Add/Update Translation"
+title: Additional translations
+description: Add one or more translation strings for a single language.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us improve translations!
+        
+        You can review our existing translations [here](../tree/main/translations).
+        Any entry that mentions `<missing>` is in need of translating.
+        Refer to the English file as the source of truth.
+        
+        Note that you need to quote strings if they start/end with whitespace, or contain a ':'.
+        E.g.:
+        ```
+        partnersYouListed: 'Your partners:'
+        ```
+  - type: dropdown
+    id: language
+    validations:
+      required: true
+    attributes:
+      label: "Language"
+      options:
+        - de
+        - en
+        - es
+        - fr
+        - nl
+  - type: textarea
+    id: translations
+    validations:
+      required: true
+    attributes:
+      label: Translations
+      render: YAML
+      placeholder: |
+        section:
+          hello: bonjour
+        
+        yes: oui
+        no: non
+        
+        multilineExample: |-
+          Omelette
+          du
+          fromage

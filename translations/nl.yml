@@ -1,0 +1,804 @@
+formatters:
+  bdsmTestFormatterMsg: Ongeldig test resultaat
+carousel:
+  createProfile: Maak een profiel
+  tellUs: Vertel ons wie je bent en wat je zoekt.
+  discover: Ontdek mensen in je  buurt
+  compatibleResults: We zullen je mensen met compatiebele BDSMTest resultaten tonen.
+  matchAndChat: Match & chat
+  createConnections: Leer elkaar kennen en maak diepe verbinding.
+  getStartedBtn: Aan de slag
+  resumeSignupBtn: Ga verder met registreren
+inputPlaceholders:
+  name: Voornaam of bijnaam
+phoneVerificationCode:
+  requestAgain: Opnieuw aanvragen
+  enterCode: Vul de code in.
+personalName:
+  title: Wat is je naam?
+  btnText: Volgende
+  errorMsg: Vul je naam in (of een bijnaam die je wilt)
+  instruction: Als je oncomfortabel bent met je echte naam, kan je een alias
+    gebruiken. Maar doe je niet voor als een ander.
+personalBirthday:
+  title: Je geboortedatum
+  btnText: Volgende
+  errorMsg: ’Vul een geldige geboortedatum in
+  warningText: Waarschuwing, je kan dit later niet meer veranderen!
+gender:
+  title: Jouw gender
+  btnText: Volgende
+  errorMsg: Kies alsjeblieft je gender
+openTo:
+  title: Open tot
+  btnText: volgende
+  warnLookingFor: je kunt zo geen andere profielen zien
+  errorMsg: Kies minstens één connectie type
+  errorMsgFriend: Kies minstens één optie voor vrienden connecties
+  errorMsgPartner: Kies minstens één optie voor partner connecties
+  profileUpdatedToast: Profiel opgeslagen
+  emptyFieldMsg: Veld kan niet leeg zijn
+lookingFor:
+  title: Opzoek naar
+  btnText: Volgende
+  btnUpdate: Update
+  partnerOpenTo: Partner(s)
+  friendOpenTo: Vriendschap
+  openTo: Open voor
+  updateMsg: |-
+    Opgeslaan
+    wat je zoekt
+ChooseUnitSystem:
+  title: Lengte-eenheidssysteem
+  errorMsg: Selecteer het gewenste lengte-eenheidssysteem.
+  btnText: Next
+AddBDSMTestResult:
+  title: Voeg BDSMTest resultaten toe
+  editTitle: Update BDSMTest resultaten
+  infoBeforeImage: Wij stellen de overeenkomstigheid met je potentiële matches
+    vast door middel van de officiële BDSMTest. We zullen je alleen profielen
+    laten zien die passen bij jouw profiel. En we zullen jouw profiel alleen
+    laten zien aan mensen die passen bij jouw voorkeuren. Dit voor maximale
+    privacy.
+  infoAfterImage: "Beantwoord de vragen alsjeblieft met je beoogde match in
+    gedachten. b.v. het eens zijn met: 'Ik vind het fijn om vastgebonden te
+    worden.' Zal leiden tot matches met mensen die graag mensen vastbinden."
+BDSMTestResult:
+  buttonText: Update je BDSMTest resultaten
+BDSMTestButton:
+  takeTest: Doe een nieuwe BDSMTest
+  addResult: Voeg een bestaande test resultaat toe
+Premium:
+  buyWhipsHeader: Whips kopen
+  title: Ervaar BeeDee op de Premium manier
+  subTitle: |-
+    ➔ Get unlimited daily likes
+    ➔ Get 1 whip per week
+    ➔ Be shown more to other users
+    ➔ See who sent you a like
+  premiumNotAvailable: Premium is nog niet voor aankoop beschikbaar in het land
+    waar jouw account aan is gelinkt.
+  premiumNotAvailableIOS: Premium kopen is nu nog niet mogelijk op iOS.
+  productNotAvailableIOS: Whips kopen is nu nog niet mogelijk op iOS.
+  productNotAvailable: Dit product is nog niet voor aankoop beschikbaar in het
+    land waar jouw account aan is gelinkt.
+  failedToFetch: Failed to check with [platform] for the most up-to-date prices,
+    please check your internet connection and try again later
+  cancelAnyTimeAndroid: Doorlopend abonnement, je kan dit op ieder moment
+    beëindigen in de Play Store.
+  cancelAnyTimeIos: Doorlopend abonnement, je kan dit op ieder moment beëindigen in de App Store.
+  purchaseSuccess: Aankoop succesvol
+  purchaseFailed: Verificatie van je aankoop mislukt.
+  paymentVerificationIssue: Onze servers konden je aankoop op dit moment niet
+    verifiëren. Dit is waarschijnlijk een probleem aan onze kant.
+  contactSupportText: "Contacteer ons via "
+  contactSupportInstructions: |2
+     en voeg toe:
+  supportDetailsBeeDee: >
+    - Het telefoonnummer en/of e-mailadres waar jouw BeeDee account aan gelinkt
+    is.
+  supportDetailsOtherAccount: "- Het email-adress waar jouw "
+  supportDetailsOtherAccountSuffix: " account mee gelinkt is."
+  orText: "or "
+  paymentVerificationFollowUp: >-
+    We gaan zo spoedig mogelijk onderzoeken waarom we je betaling niet konden
+    verifiëren. Kort daarna zou je van de voordelen gebruik moeten kunnen maken.
+
+
+    Onze excuses voor het ongemak!
+  doubleMatchChance: krijg twee keer zoveel kans op een match
+  productUnavailable: Product niet beschikbaar
+  productUnavailableDes: Dit product is momenteel niet beschikbaar om te kopen.
+    Probeer het alsjeblieft later nog een keer..
+  purchaseError: Aankoop Error
+  purchaseErrorDes: Er heeft een error plaatsgevonden tijdens het initialiseren
+    van de aankoop. Probeer het later nog een keer a.u.b.
+  purchaseFailedAlert: Aankoop Error
+  purchaseFailedDes: Er heeft een error plaatsgevonden tijdens het initialiseren
+    van de aankoop. Probeer het later nog een keer a.u.b.
+  whipSubtitle1: Laat iemand speciaal
+  whipSubtitle2: weten dat hij/zij
+  whipSubtitle3: opviel
+  whipsDescription: |-
+    ➔ Voeg een persoonlijk bericht toe aan je like 
+    ➔ Word bij hun volgende bezoek als eerste getoond
+  errorMsgToast: Er is een fout opgetreden. Probeer later opnieuw.
+  oneMonth: 1 maand
+  threeMonths: 3 maanden
+  sixMonths: 6 maanden
+  perMonth: per maand
+  discountCodeInvalid: no active discount found for this code
+  discountDescription: Discount applies to the initial period only, full price
+    will charged when the subscription renews
+PrivacyAndTerms:
+  privacyPolicy: Privacy Beleid
+  termsConditions: Algemene Voorwaarden
+profileComponent:
+  premiumUser: Premium gebruiker
+  profileCompletion: Wijzig profiel
+  premium: Premium
+  whipCounter: Whips
+  verfication: Verificatie
+  bdsmTest: BDSMTest
+  viewProfile: Bekijk profiel
+  myPartners: Mijn Partners
+  settings: Instellingen
+  partnerPreference: Discovery preferences
+  devPartnerPreference: Partner voorkeuren
+  friendPreference: Vriendschap voorkeuren
+  beedee: BeeDee
+  version: Versie
+  barPremium: Premium
+  barNotPremium: gratis account
+  barPlatinum: Platinum
+  barVerified: Goedgekeurd
+  barAlmostVerified: Verificatie in behandeling
+  barNotVerified: Niet geverifieerd
+  updateTestResult: Update resultaten
+addPhotos:
+  atleastTwoPhotos: Upload ten minste twee foto's
+  addPhotos: Voeg foto’s toe
+  instruction: "Upload minimaal twee foto's die jou representeren. Onze
+    aanbeveling: 1 gezichtsfoto, 1 foto die je lichaam laat zien en 1 die jou
+    laat zien in een sociale setting of tijdens het doen van een hobby.
+    Naaktheid en reclame zijn niet toegestaan."
+  imageUploaded: Afbeelding succesvol geüpload
+  imageUploadFailed: Het uploaden van de afbeelding is mislukt. Probeer het opnieuw
+  errorFallbackImageAdded: Issue selecting your picture, we had to replace it with a black image
+bdsmNotification:
+  permission: Rechten
+  notificationOn: Maak mijn account!
+  text1: Om ervoor te zorgen dat BeeDee goed functioneert, moeten we toegang
+    hebben tot je locatie en je meldingen sturen.
+  text2: Om dit te accepteren, druk je op de onderstaande knop en accepteer je de
+    vervolgschermen die worden weergegeven.
+bdsmNavigation:
+  ThankYou: Je BeeDee account is succesvol aangemaakt!
+  caption: >-
+    Je kunt je profiel compleet maken met aanvullende informatie, maar we
+    begrijpen ook je enthousiasme om contact te leggen met andere
+    BeeDee-gebruikers.
+
+    De keuze is aan jou!
+  completeProfile: Maak mijn profiel compleet
+  discoverOthers: Ontdek andere BeeDee gebruikers
+enableLocation:
+  whereAreYou: Waar ben je?
+  locationText1: "Je GPS moet aangezet worden "
+  locationText2: om dit te laten werken
+  enableGps: Zet GPS aan
+  permissionTitle: Locatie toestemming
+  permissionMessage: BeeDee wil toegang tot je locatie
+  buttonNeutral: Vraag het me later
+  buttonNegative: Annuleren
+  buttonPositive: OK
+  gpsRequired: BeeDee heeft toegang tot je GPS nodig
+itsMatch:
+  startChatting: Begin te chatten
+  discoverPartners: Ontdek meer partners
+  discoverFriends: Ontdek meer vrienden
+deleteAccount:
+  title: Account verwijderen
+  info: Laat ons alsjeblieft weten waarom je je account wilt verwijderen.
+  modalTitle: Zo jammer...
+  ButtonText: Ja
+  confirmationText: Wil je echt je account verwijderen?
+  tryAgain: Technische storing. Probeer opnieuw.
+  accDeletedText: Je bent altijd welkom in de toekomst!
+  deletionReasonFewUsers: Er zijn te weinig andere gebruikers.
+  deletionReasonPictures: Ik vind het vervelend dat mijn foto's op BeeDee staan.
+  deletionReasonNotDating: Ik ben op dit moment niet van plan om te daten.
+  deletionReasonNoLongerLooking: Ik heb een nieuwe relatie(s) gevonden en ben niet
+    langer op zoek naar nieuwe partners.
+  otherReason: Ander
+  bulletPointFewUsers: Heb je geprobeerd je criteria te verbreden? BeeDee is een
+    jonge, snelgroeiende app, er komen elke dag nieuwe mensen bij!
+  bulletPointPictures: Wist je dat je niet verplicht bent om gezichtsfoto's te
+    hebben op BeeDee? Je kunt je huidige foto's vervangen door anonieme foto's,
+    houd je gewoon aan onze communityregels (geen naaktheid, geen catfishing,
+    geen commerciële profielen)
+  bulletPointNotDating: Wist je dat je je profiel eenvoudig kunt verbergen en
+    meldingen kunt uitschakelen? Op die manier is je profiel hier wanneer je in
+    de toekomst weer klaar bent om te daten.
+  bulletPointNoLongerLooking: We zijn blij dat je nieuwe relatie(s) hebt gevonden
+    en hopen dat ze bevredigend zijn! Altijd welkom om in de toekomst terug te
+    komen 🙂.
+profileVisibility:
+  headerTitle: Zichtbaarheid profiel
+  hideYourProfile: Verberg je profiel
+  modalTitle: Verborgen profiel
+  modalText: Weet je zeker dat je je profiel wilt verbergen?
+  instruction: Als je door wilt gaan met chatten zonder nieuwe matches te krijgen,
+    kan je je profiel hier verbergen voor nieuwe mensen. Je kan niet naar nieuwe
+    profielen kijken terwijl je eigen profiel verborgen is. Je kan dit op elk
+    moment aanpassen.
+profileSafeSearch:
+  headerTitle: <missing>
+  instruction: <missing>
+  modalTitle: <missing>
+  modalDescription: <missing>
+  tapToUnblur: <missing>
+notificationSetting:
+  headerTitle: Notificaties
+  hideYourProfile: Zet notificaties aan
+  instruction: Als je BeeDee wilt blijven gebruiken zonder notificaties te
+    ontvangen, kan je hier notificaties voor dit apparaat uitschakelen. Merk op
+    dat je dit voor elk apparaat moet doen. Je kan deze instelling op elk moment
+    aanpassen.
+moreAboutYou:
+  add: Toevoegen
+thankYouModal:
+  thankYou: Dankjewel!
+  appreciation: Je feedback wordt gewaardeerd!
+  unmatch: Unmatch
+addBio:
+  addBiography: Voeg een biografie toe
+  inputPlaceholder: >-
+    Vertel ons iets over jezelf. We raden aan tenminste 3 volle zinnen te
+    gebruiken. 
+
+
+    Let op dat adverteren voor commerciële diensten (b.v. OnlyFans) niet is
+    toegestaan.
+  profileUpdatedToast: Profiel opgeslaan
+  writeBioToast: Schrijf een biografie
+  fillBio: Fill in your bio
+outOfLikes:
+  titleLine1: Je hebt geen gratis likes meer voor vandaag :-(
+  subtitle: Dit moedigt je aan om selectief te zijn, en houdt het systeem leuk
+    voor iedereen. Maar als je niet kan wachten... premium bevat ongelimiteerde
+    likes, just saying.
+  premiumButton: Ontdek premium
+  waitButton: Ik wacht wel, breng me terug
+messageRules:
+  headerMatch: Hoeraa, het is een match! Je kunt hieronder chatten, maar hou je
+    alsjeblieft aan onze chatregels.
+  headerGeneral: "Respect voor andere leden is een sleutelwaarde op BeeDee. Hou je
+    alsjeblieft aan de onderstaande regels:"
+  rule1_title: Nee is nee.
+  rule1_text: Is iemand niet geïnteresseerd? Accepteer het stijlvol en laat ze met
+    rust. Beledig of intimideer nooit een match!
+  rule2_title: Vraag altijd toestemming.
+  rule2_text: Stuur zonder toestemming geen seksuele afbeeldingen of scenario’s,
+    geef ze geen bijnamen en geen opdrachten.
+  rule3_title: Maak connectie.
+  rule3_text: Dit is geen sexting-app. Leer elkaar eerst kennen. Vraag niet om
+    seks in de eerste paar berichten..
+  footer: Als iemand je een ongemakkelijk gevoel geeft, verwijder dan de match
+    en/of meld het gesprek..
+  closeRulesButtonText: Gotcha
+discoverInfoModal:
+  title: "Your options after viewing a profile:"
+  buttonsInfo: "You can take three different actions after viewing a profile. From
+    left to right:"
+  dislikeButton: "the red cross: you don't want to connect to this person. You
+    won't see their profile again. They won't be able to send you a message."
+  skipButton: 'the grey clock: "skip" this profile. You will see this profile
+    again tomorrow, if they still meet your criteria then'
+  whipButton: "the multi-colored heart with a whip: you are super interested in
+    this person and want to skip the queue"
+  likeButton: "the green heart: you are interested in connecting with this person."
+  footer: If you select option 3 or 4 AND they do the same on your profile, you'll
+    have a match! You'll be able to chat to this person when this happens.
+chatFooterComp:
+  inputPlaceholder: Voer bericht in
+menuPopUp:
+  profile: Bekijk profiel
+  unmatch: Unmatch & delete
+  report: Rapporteer
+seeWhoLikedYou:
+  title: Your likes
+  theyLikedYou: They liked you
+  youLikedThem: You liked them
+  compatible: Compatible
+  notPremium: Premium BeeDee users can see who sent them a like here
+  upgradeButton: See who liked you
+  nonLikedYou: You don't have any outstanding likes
+  nonYouLiked: You did not send any unresponsed likes in the past 7 days
+  youLikedInfo: You can see the likes you sent in the past 7 days here, so you can
+    upgrade them to a Whip if you want to
+chat:
+  conversations: Conversaties
+  noUserFound: Geen gebruiker gevonden
+  recentChat: Recente chats
+  noMatch: Nog geen matches
+  creditTitle: Je hebt op dit moment geen matches
+  creditSubtitle: Begin met swipen om er een paar te vinden!
+  findButton: Vind matches
+  textCopied: Tekst gekopieerd naar klembord
+  chatRuleLinkText1: "Volg alsjeblieft onze "
+  chatRuleLinkText2: Berichten Regels
+  chatRuleLinkText3: " te allen tijde"
+  all: Alle
+  partners: Partners
+  friendship: Vriendschap
+  loadingConversations: Conversaties aan het bijwerken...
+matchedChatComp:
+  noMatchUserFound: Geen matches
+prompts:
+  editPrompt: Wijzig vraag
+  choosePrompt: Kies een vraag uit de lijst
+  inputPlaceholder: Voeg hier een leuk antwoord toe...
+  profileUpdatedToast: Profiel opgeslagen
+  selectPromptToast: Selecteer een vraag.
+  addYourAnswerToast: Voeg een antwoord toe.
+  threePromptToast: Je hebt reeds drie vragen geselecteerd
+creditTextData:
+  noProfileText1: Je hebt iedereen gezien!
+  noProfileText2: (nou ja… binnen je zoekcriteria)
+  noProfileText3: "Je kunt wachten tot er meer mensen binnen je zoekcriteria
+    meedoen, of een van de volgende opties kiezen:"
+  notLiveText1: We maken ‘Ontdekken’ regio voor regio mogelijk, zodat we je een
+    veilige en nuttige matchingervaring kunnen bieden.
+  notLiveText2: >-
+    Houd BeeDee op je apparaat en zorg ervoor dat meldingen zijn ingeschakeld.
+
+
+    Zo ben je als eerste op de hoogte wanneer we Discover in jouw regio
+    inschakelen.
+partnerDiscover:
+  title: Ontdek profielen
+  devTitle: Ontdek partners
+  titleFriends: Ontdek Vrienden
+  outOfLikes: Je hebt geen gratis likes meer
+  creditTitle: Geen andere potentiële matches in
+  creditSubtitle: je gebied zijn nu beschikbaar
+  creditSmallTitle: Verbreed je voorkeuren of
+  creditSmallSubtitle: kijk morgen nog eens
+  creditButtonText: Vergroot je afstand/leeftijdsbereik
+  clearDislike: Heroverweeg profielen die je niet leuk vond
+  wrong: Er is iets misgegaan, probeer het alsjeblieft over een paar minuten nog
+    een keer
+  failedToLoadProfile: Profielen laden mislukt.
+  tryAgain: Probeer het alsjeblieft over een minuut nog een keer.
+  loadProfiles: Laad profielen
+  notLiveTitle: Jouw gebied wordt snel beschikbaar
+  notLiveSubtitle: Kom alsjeblieft later terug.
+  profileHiddenTitle: Je kunt geen profielen zien als je onzichtbaar bent
+  profileHiddenSubtitle: Wijzig de zichtbaarheid van je profiel als je profielen wilt ontdekken
+  buttonTextUnhide: Ga naar instellingen
+  enableToGetLocationTitle: Het controleren van je locatie is mislukt
+  enableToGetLocationSubtitle: Zet alsjeblieft je locatie aan voor BeeDee
+  enableLocation: Zet locatie aan
+  discoverLoading: Wacht even terwijl we zoeken naar de meest overeenstemmende
+    profielen in jouw omgeving.
+  modalPlaceHolder: Wat wekt je interesse in deze persoon?
+  modalMsgTitle: Stuur Whip
+  modalMsgDescription: "Optioneel: voeg een bericht toe aan je Whip."
+  modalMsgDescription1: "Hou je alsjeblieft aan onze "
+  modalMsgDescription2: Berichten Regels
+  modalMsgDescription3: .
+  modalYes: Verzenden
+  modalNo: Annuleren
+  tryAgainButton: Probeer nog een keer
+  addPhotosTitle: Voeg meer foto’s toe
+  editProfile: Wijzig profiel
+Preferences:
+  title: Ontdekkingsvoorkeuren
+  devTitle: Partnervoorkeuren
+  titleFriendship: Vriendschapsvoorkeuren
+  errorMsg: Selecteer ten minste één geslacht waarvoor je openstaat
+  ageRange: Leeftijdscategorie
+  maximumMiles: Maximale afstand
+  openToMeeting: "Open voor het ontmoeten van mensen van deze geslachten:"
+  selectOneItemToast: Selecteer minstens één optie
+bdsmUpdate:
+  headerTitle: Verbind je BDSMTest resultaten
+  pasteLink: "Plak de link naar je resultaten hier:"
+  pasteId: "Voer hier je BDSMTest resultaat ID in:"
+  whereToFindId: Je vindt dit ID op elk resultaat
+  clickUrl: Klik hier om in te loggen op bdsmtest.org
+  searchResult: "Selecteer een resultaat van je BDSMTest account:"
+  invalidId: Dit is niet het formaat van een resultaat IDa
+  invalidLink: Link moet starten met https://bdsmtest.org/r/
+  resultsAdded: BDSMTest resultaat succesvol toegevoegd
+  resultNotFoundPrefix: "We konden dit BDSMTest resultaat niet vinden: "
+  resultNotFoundSuffix: . Probeer een andere url.
+  serverContactFailed: Kon de BDSMTest server niet bereiken. Controleer je
+    internet verbinding of probeer het later opnieuw.
+  updateFailed: Kon je BDSMTest resultaten niet bijwerken, probeer het later opnieuw.
+report:
+  headerTitle: Rapporteer deze persoon
+  info: Geen zorgen, je feedback is anoniem en zij weten niet dat je hen hebt
+    gerapporteerd.
+  buttonText: Rapporteer en blokkeer
+  extraInfo: Extra info
+  pleaseSelectValue: Selecteer een reden om verder te gaan alsjeblieft
+  pleaseAddMotivation: Voer alsjeblieft meer informatie in
+  reportingFailed: Technische fout, probeer opnieuw
+unsubscribe:
+  headerTitle: PREMIUM
+  premiumUser: Je bent een PREMIUM BeeDee Gebruiker!
+  modalTitle: Zo jammer… weet je het zeker?
+  modalText: Je zal al je PREMIUM functies verliezen
+  modalButtonText: Uitschrijven
+  instructionToUnsubscribe: Om uit te schrijven, bezoek de app store waar je
+    BeeDee Premium hebt gekocht en annuleer je inschrijving daar.
+  instructionToUnsubscribe2: Om je abonnement te annuleren,, ga naar de
+  playStore: Play Store
+  appStore: App Store
+editProfile:
+  headerTitle: Wijzig je profiel
+  yourPhotos: Jouw foto’s
+  photosInfo: "Upload ten minste twee foto’s die jou representeren. Onze
+    aanbeveling: 1 foto van je gezicht, 1 foto dat je lichaam laat zien en 1
+    foto in een sociale setting of terwijl je een hobby uitvoert. Naaktheid en
+    adverteren zijn niet toegestaan."
+  yourBio: Jouw bio
+  bioInfo: Door meer informatie over jezelf toe te voegen, krijg je meer en betere
+    matches, maar we begrijpen het als je wat mysterie en anonimiteit wilt
+    behouden. Vaag en mysterieus zijn is toegestaan, doen alsof je iemand anders
+    bent of commerciële activiteiten zijn niet toegestaan.
+  profileSubtitle: "Schrijf een leuke en krachtige intro. Let op: langere bio's
+    dragen meer bij aan de voltooiings-%."
+  profileButton: Wijzig
+  notAddedYet: Nog niet toegevoegd
+  profilePrompt: Profielvragen
+  promptSubtitle: "Laat je persoonlijkheid opvallen door deze vragen te beantwoorden:"
+  partnerTitle: Partners
+  partnerSubTitle: Beheer je partners
+  manage: Beheren
+  moreAboutYou: Meer over jou
+  aboutSubtitle: Mensen zijn nieuwsgierig naar jouw…
+  yourGender: Jouw gender
+  addAnotherPrompt: Voeg nog een vraag toe
+  noPromptsYet: Nog geen vraag gekozen. Tik om toe te voegen
+  lookingFor: Op zoek naar
+  lookingForSubtitle: Ben je op zoek naar vrienden, een partner of beide? En in
+    welk type vriendschap/relatie ben je geïnteresseerd?
+  deletePrompt: Delete prompt
+  deletePromptConfirmation: Are you sure you want to delete this prompt?
+  deletePhoto: Delete picture
+  deletePhotoConfirmation: Are you sure you want to delete this picture?
+myPartners:
+  headerTitle: Beheer je partners
+  addButton: Voeg een partner toe
+  modalTitle: Weet je het zeker?
+  modalDes: Dit zal een partner verwijderen, je kunt hen altijd later weer toevoegen.
+  noPartners: Voeg een partner toe om hier te laten zien
+  noPartnersListed: Je bent op dit moment niet geregistreerd als iemands partner
+  unknownPartner: Nog niet gekoppeld
+  partnersYouListed: "Jouw partners:"
+  partnersNotYouListed: "Je bent genoemd door:"
+  youAre: Jij bent
+  ofYou: " jij"
+  pending: behandeling
+  notOnBeeDee: Niet op BeeDee
+addPartner:
+  headerTitle: Voeg een partner toe
+  confirm: Bevestig
+  choosePartner: "Je partner is:"
+  option1: iemand op BeeDee
+  option2: niet iemand op BeeDee
+  firstName: Hun naam
+  partnerRole: Jij bent ...
+  chooseRole: Kies uit de lijst
+  success: Gelukt!
+  partnerAdded: Een nieuwe partner is toegevoegd!!
+  nameError: Voer een naam voor je partner in
+  roleError: Selecteer het type relatie
+shareLink:
+  headerTitle: Partnerschapslink delen
+  yourLink: Deel deze link met je partner
+  description: |-
+    Of laat je partner deze
+     QR code scannen:
+  copy: De link is gekopieerd naar je klembord
+settings:
+  headerTitle: Instellingen
+  profileVisibility: Zichtbaarheid profiel
+  notification: Notificaties
+  language: Taal
+  units: Lengtematen
+  email: E-mailadres
+  updateEmail: Update e-mailadres
+  Relation: Toon mij voor
+  phoneNumber: Telefoonnummer
+  contactBeedee: Neem contact op met BeeDee
+  tipsForSuccess: Tips voor succes
+  faqInnerTitle: FAQ's
+  faq: Vaak gestelde vragen
+  deleteAccount: Verwijder account
+  logoutConfirmation: Weet je zeker dat je wilt uitloggen?
+  logout: Log uit
+  visible: Zichtbaar
+  safeSearch: <missing>
+  hidden: Verborgen
+  enabled: Ingeschakeld
+  disabled: Uitgeschakeld
+  everything: Alles
+  nothing: Niets
+  errorMsg: Het laden van de FAQs is mislukt, probeer later opnieuw
+  tipsErrorMsgToast: Het laden van de tips voor success is mislukt, probeer later opnieuw
+  phoneCannotChanged: Contacteer de helpdesk als je teloonnummer veranderd is
+homeComp:
+  compatible: "BDSMTest Overeenstemming: "
+  similar: "BDSMTest Gelijkenis: "
+  sentWhip: Heeft je een Whip gestuurd
+  away: van jou
+  superlikeMsgTitle: "Het bericht met de Whip is gestuurd.:"
+preference:
+  preferences: Voorkeuren
+  ageRange: Leeftijd van - tot
+  maxDistance: Maximum afstand
+  openToMeeting: "Open tot ontmoeten van mensen met deze genders:"
+  matchAnywhere: Zie profielen van overal
+  update: Update
+  PreferencesUpdatedToast: Voorkeuren opgeslaan
+signupWithPhone:
+  welcomeMsg: Welkom bij BeeDee!
+  subTitle: "Log in of meld je aan met je telefoonnummer:"
+  whyWeNeedThis: |-
+    Wij gebruiken dit alleen voor authenticatiedoeleinden.
+    Jouw nummer zal nooit zichtbaar zijn voor andere gebruikers.
+  privacyText1: "Ik ga akkoord met de "
+  privacyText2: " en "
+  tncText: Algemene Voorwaarden
+  privacyText: het privacy beleid
+  continue: Doorgaan
+  countrySearchPlaceholder: Voer landnaam of landcode in
+  registerError: Er is iets misgegaan, probeer het nog een keer
+  loginError: Inloggen mislukt, probeer het nog een keer
+  errorMsgAcceptTerms: Je moet de Algemene Voorwaarden accepteren
+  errorConsent: Geef toestemming om een bericht te krijgen met de inlogcode
+  consent: Ik ga akkoord met het ontvangen van een inlogcode via sms of e-mail. Ik
+    begrijp dat ik op elk moment kan afzien van het ontvangen van inlogcodes
+    door te antwoorden met 'STOP' op de sms of door de afmeldlink in de e-mail
+    te gebruiken.
+  modalTitle: Waarom hebben we je telefoonnummer nodig?
+  modalDescription: We gebruiken je telefoonnummer om spammers en misdragingen tegen te gaan.
+  errorCaptcha: Er is iets misgegaan bij het vaststellen dat je geen robot bent.
+    Probeer het alsjeblieft nog een keer.
+  modalPhoneReqTitle: "Elke grote dating app vraagt vandaag je telefoonnummer. Met goede reden:"
+  modalPhoneReqReason: We hebben dit nodig om bots, scammers, en mensen met
+    slechte bedoelingen buiten te houden. Valse email adressen zijn eenvoudig om
+    te maken, valse telefoonnummers veel minder. BeeDee is een app voor echte
+    mensen.
+  modalPhoneSafety: Het houdt mensen met slechte bedoelingen tegen, die weten dat
+    de politie hen eenvoudig kan vinden via hun telefoonnummer. We hebben dit
+    nodig om onze community veilig te houden.
+  modalReminderTitle: "Herinnering, we zullen:"
+  modalPrivacyAssurance: Je telefoonnummer niet weergeven, doorverkopen of op
+    enige andere manier met anderen delen. Andere BeeDee leden zullen dit niet
+    zien. We verkopen nooit jouw gegevens, nooit.
+  modalNoMarketing: Je nooit contacteren via SMS voor marketing doeleinden. We
+    gebruiken dit enkel voor een éénmalige SMS-verificatie.
+  modalContactFooter: Heb je hier verder vragen over? We beantwoorden ze graag op help@beedee.com.
+codeVerification:
+  title: Verificatie code
+  subTitle: Verifieer je telefoonnummer door de 6 cijfers in te voeren die
+    gestuurd zijn naar
+  subTitle2: Verifieer dat jij het bent door de 6 cijfers die verzonden zijn naar
+    je email adres als je al een account hebt, of verzonden zijn naar
+  pleaseWait: Het kan tot 30 seconden duren voordat je het bericht ontvangt. Zie
+    je het na 30 seconden nog niet, kijk dan even in spam.
+  btnText: Verifieer
+  notReceivedCode: Geen SMS ontvangen?
+  sendMeCode: Stuur het opnieuw
+  requestAgain: Controleer alsjeblieft je berichten. Geen SMS ontvangen?
+personalEmail:
+  enterYourEmail: E-mailadres
+  subTitleText: Voer alsjeblieft je e-mailadres in. We gebruiken dit zodat je in
+    de toekomst makkelijker in kunt loggen.
+  emailPlaceholder: E-mail
+  emailError: Voer alsjeblieft een geldig e-mailadres in.
+toast:
+  profileFailedToLoad: Profiel laden mislukt, probeer het later nog een keer
+  wrongCode: Verkeerde verificatiecode, probeer het nog een keer
+  twoImagesRequired: Je moet minstens twee foto’s op je profiel houden
+  pleaseWriteMessage: Schrijf eerst een bericht
+  tookTooLongToEnterOtp: Authenticatie mislukt, probeer het nog een keer
+  banned: Je bent verbannen van BeeDee
+  userNotFound: Dit profiel bestaat niet meer
+  bannerMatchToast: Hoera, je hebt een nieuwe match!
+  createSessionFailed: Notificaties inschakelen mislukt, probeer later opnieuw
+  updatedEmail: E-mail adres opgeslagen
+  bioCopied: Bio gekopieerd
+  promptCopied: Prompt gekopieerd
+unmatch:
+  success: Match verwijderd
+  error: Er is iets misgegaan bij het verwijderen van je match, probeer het later
+    nog een keer.
+Units:
+  Metric: Metrisch
+  Imperial: Imperiaal
+permissionsRequired:
+  required: Permission needed
+  photoSettingDes: We need access to your photo library to do this. Please enable
+    it in the app settings or upload pictures using your camera.
+  cameraSettingDes: The BeeDee app needs permission to your camera to do this.
+    Please enable it in the app settings or upload pictures from your library.
+  openSetting: Open settings
+  permissionDenied: Permission denied
+commonText:
+  next: Volgende
+  retry: Retry
+  skip: Overslaan
+  bdsmTest: BDSMTest
+  bdsmTestResult: BDSMTest resultaten
+  moreInfo: Meer informatie
+  details: Details
+  cancel: Annuleren
+  ok: Ok
+  save: Opslaan
+  uploadPhoto: Upload foto
+  takePhoto: Neem foto
+  yourMsg: Je bericht...
+  submit: Opslaan
+  continue: Doorgaan
+  basics: Basisgegevens
+  gender: Gender
+  partner: Partners
+  bio: Bio
+  yes: Ja
+  no: Nee
+  somethingWentWrong: Er is iets misgegaan!
+  unlimited: Ongelimiteerd
+  profileLoading: Klaar! Je kunt de nieuwe resultaten hieronder bekijken.
+  profileLoadingSmall: Klik op de terugknop (links bovenin) om terug te gaan naar BeeDee.
+  userBdsmTestResult: Dit zijn de BDSMTest resultaten van
+  errorRefreshToken: Er is iets misgegaan, probeer het opnieuw
+  networkError: Kan de BeeDee-server niet bereiken, controleer je internetverbinding.
+  reqTimeout: De connectie met de BeeDee-server is verlopen, controleer je
+    internetverbinding.
+  sessionExp: Sessie is verlopen.
+  deleteAccountLogout: Verwijder account
+  userLogout: Gebruiker handmatig uitgelogd
+  cropImageError: Afbeelding bijsnijden mislukt
+  selectImageError: Afbeelding selecteren mislukt
+  versionStatus: Deze appversie wordt niet langer ondersteund. Ga naar de Store en
+    update BeeDee.
+  updateAlertTitle: Update Vereist
+  updateAlertDes: Een nieuwe versie van de app is beschikbaar. Voer de update uit
+    om de app te kunnen blijven gebruiken.
+  scrollToBottom: Scroll naar beneden om dit profiel leuk of niet leuk te vinden
+  feedback: "Vertel ons gerust meer of geef ons extra feedback:"
+  selectAll: Selecteer alles
+  clearAll: Alles wissen
+  showMore: Meer weergeven
+  showLess: Minder weergeven
+  Read more...: Lees verder...
+  Show less...: Minder weergeven...
+  multiple: Meerdere
+  Close: Sluiten
+additionalInfo:
+  mainRole: Voornaamste rol
+  height: Lengte
+  pronouns: Voornaamwoorden
+  familyPlans: Familieplannen
+  hometown: Woonplaats
+  educationLevel: Opleidingsniveau
+  schoolUniversity: School / Universiteit
+  occupation: Beroep
+  occupationOrSector: Beroep of sector
+  politicalOrientation: Politieke oriëntatie
+  alcohol: Alcohol
+  smoking: Roken
+  drugs: Drugs
+  gender: Gender
+  imageUploadMsg: Afbeelding succesvol geüpload
+  imageFailedToUploadMsg: Afbeelding kon niet worden geüpload, probeer het later opnieuw
+  unsaved: Niet opgeslaan
+  unsavedDescription: Je hebt nog niet-opgeslagen wijzigingen. Weet je zeker dat je wilt afsluiten?
+reportUserData:
+  fakeProfile: Nep profiel
+  inappropriateContent: Ongepaste inhoud
+  scamOrCommercial: Oplichterij of commercieel
+  hateSpeech: Haatdragende taal
+  underage: Minderjarig
+  nudity: Nudity
+MAIN_ROLES: MAIN_ROLES
+Master/Mistress: Meester/Meesteres
+Dominant: Dominant
+Top: Top
+Switch: Switch
+Brat: Brat
+Bottom: Bottom
+Submissive: Onderdanig
+Slave: Slaaf
+Rigger: Rigger
+Rope bunny: Rope bunny
+Other: Anders
+PRONOUNS: PRONOUNS
+he/him: hij/hem
+she/her: zij/haar
+they/them: die/hen
+Family_Plans: Family_Plans
+Wants kids: Wil kinderen
+Unsure about kids: Wil misschien kinderen
+Doesn't want kids: Wil geen kinderen
+Has kids, wants more: Heb kinderen, wil meer kinderen
+Has kids, unsure about more: Heb kinderen, wil misschien meer kinderen
+Has kids, doesn't want more: Heb kinderen, wil geen kinderen meer
+Education_Level: Education_Level
+High school: Middelbare school
+In college: Studerend
+Trade school: Beroepsopleiding
+Bachelors: Bachelor
+Masters: Master
+PhD: Doctoraat
+Left-leaning: Links leunend
+Central: Centrum
+Right-leaning: Rechts leunend
+I don't follow politics: Ik volg de politiek niet
+Regularly: Regelmatig
+Socially: Met vrienden
+Rarely: Zelden
+Never: Nooit
+OpenTo_Data: OpenTo_Data
+Friendship: Vriendschap
+A monogamous relationship: Een monogame relatie
+An open relationship: Een open relatie
+A polyamourous relationship: Een polyamoreuze relatie
+A one night stand: Een one night stand
+A play partner: Een speelpartner
+A friends with benefits: Een vriend met benefits
+A 24/7 lifestyle dynamic: Een 24/7 levensstijl
+A mentor: Een mentor
+A mentee: Een leerling
+Someone similar to me: Iemand zoals ik
+Someone to go to events with: Iemand om mee naar evenementen te gaan
+A penpal: Een penvriend
+A friend group to join: Een vriendengroep om deel te nemen
+Looking_For: Looking_For
+partners: partners
+friends: vrienden
+Roles_Data: Roles_Data
+Dominant of: Dominant van
+Daddy of: Daddy van
+Mommy of: Mommy van
+babyboy of: babyboy van
+babygirl of: babygirl van
+Switch of: Switch van
+submissive of: onderdanige van
+Master of: Meester van
+Mistress of: Meesteres van
+Owner of: Eigenaar van
+slave of: slaaf van
+owned by: eigendom van
+owned and collared by: eigendom en voorzien van een halsband door
+Degrader of: Degrader van
+degradee of: degradee van
+brat of: brat van
+Brat tamer of: Brat tamer van
+pet of: pet van
+Rigger to: Rigger van
+Rope Bunny to: Rope Bunny van
+In a relationship with: In a relationship with
+Engaged with: Betrokken bij
+Married to: Getrouwd met
+Dating: Daten
+In an open relationship with: In een open relatie met
+In a poly relationship with: In een poly relatie met
+Non-monogamous with: Niet monogaam met
+Nesting partner of: Nestpartner van
+Matamour of: Matamour van
+Friends with Benefits with: Vrienden met voordelen met
+Play partners with: Speel partners met
+It's complicated with: Het is ingewikkeld met
+Gender_Data: Gender_Data
+Man: Man
+Woman: Vrouw
+Man - Trans FtM: Man - Trans FtM
+Woman - Trans MtF: Vrouw - Trans MtF
+Non-binary: Non-binair

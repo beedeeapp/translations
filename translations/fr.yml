@@ -1,0 +1,802 @@
+formatters:
+  bdsmTestFormatterMsg: Résultat du test invalide
+carousel:
+  createProfile: Créez votre profil
+  tellUs: Dites nous ce que vous recherchez.
+  discover: Découvrir des personnes aux alentours
+  compatibleResults: Nous vous présenterons des profils compatibles avec vos
+    résultats au BDSMTest.
+  matchAndChat: Matchez & Discutez
+  createConnections: Faites connaissance et créez des connexions.
+  getStartedBtn: C'est parti
+  resumeSignupBtn: Continuer Inscription
+inputPlaceholders:
+  name: Prénom ou pseudonyme
+phoneVerificationCode:
+  requestAgain: réessayer
+  enterCode: Veuillez saisir le code
+personalName:
+  title: Quel est votre nom ?
+  btnText: Suivant
+  errorMsg: Veuillez entrer votre nom (ou un pseudonyme de votre choix)
+  instruction: Si vous n'êtes pas à l'aise avec l'utilisation de votre prénom
+    réel, vous pouvez utiliser un alias. Ne prétendez simplement pas être
+    quelqu'un d'autre.
+personalBirthday:
+  title: Votre date de naissance
+  btnText: Suivant
+  errorMsg: "'Veuillez entrer une date de naissance valide"
+  warningText: "Attention : vous ne pourrez plus le changer plus tard !"
+gender:
+  title: Votre genre
+  btnText: Suivant
+  errorMsg: Veuillez sélectionner votre genre
+openTo:
+  title: Ouvert·e à
+  btnText: Suivant
+  warnLookingFor: Vous ne verrez aucun profil
+  errorMsg: Veuillez sélectionner au moins un type de connexion
+  errorMsgFriend: Veuillez sélectionner au moins un type de connexion d'ami
+  errorMsgPartner: Veuillez sélectionner au moins un type de connexion de partenaire
+  profileUpdatedToast: Profil mis à jour
+  emptyFieldMsg: Ce champ ne peut pas être vide
+lookingFor:
+  title: Recherche
+  btnText: Suivant
+  btnUpdate: Mettre à jour
+  partnerOpenTo: Partenaire(s)
+  friendOpenTo: Amitié
+  openTo: Ouvert·e à
+  updateMsg: |-
+    Paramètres de recherche 
+    mis à jour
+ChooseUnitSystem:
+  title: Système d'unités de longueur
+  errorMsg: Veuillez sélectionner le système d'unités de longueur souhaité.
+  btnText: Suivant
+AddBDSMTestResult:
+  title: Ajouter les résultats du BDSMtest
+  editTitle: Mettre à jour les résultats du BDSMTest
+  infoBeforeImage: Nous déterminons la compatibilité avec vos partenaires
+    potentiels grâce au BDSMtest officiel. Nous ne vous montrerons que des
+    profils compatibles et ne montrerons votre profil qu'à des personnes
+    compatibles, pour une confidentialité maximale.
+  infoAfterImage: Veuillez répondre aux questions en pensant à votre partenaire
+    souhaitée. Par exemple, accepter 'J'aime être attaché·e' se traduira par des
+    partenaires qui aiment vous attacher.
+BDSMTestResult:
+  buttonText: Mettre à jour les résultats de votre BDSMTest
+BDSMTestButton:
+  takeTest: "Passer un nouveau BDSMtest "
+  addResult: Ajouter un résultat précédent
+Premium:
+  buyWhipsHeader: Acheter des Whips
+  title: Découvrez BeeDee en version Premium
+  subTitle: |-
+    ➔ Get unlimited daily likes
+    ➔ Get 1 whip per week
+    ➔ Be shown more to other users
+    ➔ See who sent you a like
+  premiumNotAvailable: Premium n'est pas encore disponible à l'achat dans votre pays.
+  premiumNotAvailableIOS: L'achat de premium est indisponible sur iOS pour le moment.
+  productNotAvailableIOS: L'achat de Whips est indisponible sur iOS pour le moment.
+  productNotAvailable: Le produit n'est pas encore disponible à l'achat dans le
+    pays lié à votre store.
+  failedToFetch: Failed to check with [platform] for the most up-to-date prices,
+    please check your internet connection and try again later
+  cancelAnyTimeAndroid: Abonnement récurrent, vous pouvez l'annuler à tout moment dans le Play Store
+  cancelAnyTimeIos: Abonnement récurrent, vous pouvez l'annuler à tout moment dans l'App Store
+  purchaseSuccess: Achat réussi
+  purchaseFailed: Échec de la vérification de votre achat
+  paymentVerificationIssue: Nos serveurs n'ont pas pu vérifier votre paiement pour
+    le moment. Il s'agit probablement d'un problème de notre côté.
+  contactSupportText: "Please get in touch via "
+  contactSupportInstructions: |2
+     and include:
+  supportDetailsBeeDee: |
+    - Le numéro de téléphone et/ou l'adresse e-mail liés à votre compte BeeDee.
+  supportDetailsOtherAccount: "- L’adresse mail "
+  supportDetailsOtherAccountSuffix: " liée à votre compte."
+  orText: "ou "
+  paymentVerificationFollowUp: >-
+    Nous allons examiner pourquoi nous n'avons pas pu vérifier votre paiement
+    dès que possible, et vous recevrez vos avantages peu de temps après.
+
+
+    Nous nous excusons pour ce désagrément !
+  doubleMatchChance: Doublez vos chances de match
+  productUnavailable: Produit indisponible
+  productUnavailableDes: Ce produit n'est pas disponible à l'achat pour le moment.
+    Veuillez réessayer plus tard.
+  purchaseError: Erreur d'achat
+  purchaseErrorDes: Une erreur s'est produite lors de l'initialisation de l'achat.
+    Veuillez réessayer plus tard.
+  purchaseFailedAlert: Erreur d'achat
+  purchaseFailedDes: Une erreur s'est produite lors du traitement de votre achat.
+    Veuillez réessayer.
+  whipSubtitle1: Faites savoir à
+  whipSubtitle2: quelqu'un de spécial
+  whipSubtitle3: qu'il s'est démarqué
+  whipsDescription: |-
+    ➔ Ajouter une note personnalisée à votre like 
+    ➔ Soyez montré·e en premier lors de leur prochaine visite
+  errorMsgToast: Une erreur s'est produite, veuillez réessayer.
+  oneMonth: 1 mois
+  threeMonths: 3 mois
+  sixMonths: 6 mois
+  perMonth: par mois
+  discountCodeInvalid: no active discount found for this code
+  discountDescription: Discount applies to the initial period only, full price
+    will charged when the subscription renews
+PrivacyAndTerms:
+  privacyPolicy: Politique de confidentialité
+  termsConditions: Conditions générales
+profileComponent:
+  premiumUser: Utilisateur·rice Premium
+  profileCompletion: Éditer le profil
+  premium: Premium
+  whipCounter: Whips
+  verfication: Vérification
+  bdsmTest: BDSMTest
+  viewProfile: Aperçu du profil
+  myPartners: Mes partenaires
+  settings: Paramètres
+  partnerPreference: Préférences de découverte
+  devPartnerPreference: Préférences de partenaire
+  friendPreference: Préférences d'amitié
+  beedee: BeeDee
+  version: Version
+  barPremium: Premium
+  barNotPremium: Compte gratuit
+  barPlatinum: Platinum
+  barVerified: Vérifié
+  barAlmostVerified: Vérification en attente
+  barNotVerified: Non vérifié
+  updateTestResult: Mettre à jour les résultats
+addPhotos:
+  atleastTwoPhotos: Téléchargez au moins deux photos
+  addPhotos: Ajouter des photos
+  instruction: "Téléchargez au moins deux photos qui vous représentent. Notre
+    recommandation : 1 photo de visage, 1 photo montrant votre corps et 1 photo
+    vous montrant dans un cadre social ou pratiquant un hobby. La nudité et la
+    publicité ne sont pas autorisées."
+  imageUploaded: Image chargée avec succès
+  imageUploadFailed: Échec du chargement, veuillez réessayer
+  errorFallbackImageAdded: Issue selecting your picture, we had to replace it with a black image
+bdsmNotification:
+  permission: Permissions
+  notificationOn: Créer mon compte !
+  text1: Pour que BeeDee fonctionne correctement, nous avons besoin d'accéder à
+    votre localisation et de vous envoyer des notifications.
+  text2: Pour les accorder, veuillez cliquer sur le bouton ci-dessous et acceptez
+    les écrans suivants qui s'affichent.
+bdsmNavigation:
+  ThankYou: Votre compte BeeDee a été créé avec succès !
+  caption: Vous pouvez améliorer votre profil en y ajoutant des informations
+    supplémentaires, mais nous comprenons également votre enthousiasme à entrer
+    immédiatement en contact avec d'autres utilisateurs de BeeDee. À vous de
+    choisir !
+  completeProfile: Compléter mon profil
+  discoverOthers: Découvrir d'autres utilisateurs·trices de BeeDee
+enableLocation:
+  whereAreYou: Où êtes-vous ?
+  locationText1: "Votre GPS doit être activé "
+  locationText2: pour que cela fonctionne
+  enableGps: Activer le GPS
+  permissionTitle: Autorisation de localisation
+  permissionMessage: BeeDee souhaite accéder à votre localisation
+  buttonNeutral: Me demander plus tard
+  buttonNegative: Annuler
+  buttonPositive: OK
+  gpsRequired: BeeDee a besoin de la géolocalisation
+itsMatch:
+  startChatting: Commencer à discuter
+  discoverPartners: Découvrir plus de partenaires
+  discoverFriends: Découvrir plus d'ami·e·s
+deleteAccount:
+  title: Supprimer Compte
+  info: Avez vous une raison de supprimer votre compte ?
+  modalTitle: C'est triste...
+  ButtonText: Oui
+  confirmationText: Voulez-vous vraiment supprimer votre compte ?
+  tryAgain: Erreur technique. Veuillez réessayer.
+  accDeletedText: Toujours bienvenu·e à l'avenir !
+  deletionReasonFewUsers: Il y a trop peu d'autres utilisateurs.
+  deletionReasonPictures: Je ne me sens pas à l'aise avec le fait que mes photos soient sur BeeDee.
+  deletionReasonNotDating: Je ne pense pas à sortir avec quelqu'un en ce moment.
+  deletionReasonNoLongerLooking: J'ai trouvé de nouvelles relations et je ne
+    cherche plus de nouveaux partenaires.
+  otherReason: Other
+  bulletPointFewUsers: Avez-vous essayé d'élargir vos critères ? BeeDee est une
+    application jeune et en pleine croissance, de nouvelles personnes la
+    rejoignent chaque jour !
+  bulletPointPictures: Saviez-vous que vous n'êtes pas obligé d'avoir des photos
+    de visage sur BeeDee ? Vous pouvez remplacer vos photos actuelles par des
+    photos anonymes, il vous suffit de respecter nos règles communautaires (pas
+    de nudité, pas de catfishing, pas de profils commerciaux)
+  bulletPointNotDating: Did you know you can simply hide your profile and disable
+    notifications? That way your profile will be here when you're ready to date
+    again in the future.
+  bulletPointNoLongerLooking: Nous sommes heureux que vous ayez trouvé de
+    nouvelles relations et espérons qu'elles soient épanouissantes ! Nous serons
+    toujours les bienvenus à l'avenir 🙂.
+profileVisibility:
+  headerTitle: Visibilité du profil
+  hideYourProfile: Masquer votre profil
+  modalTitle: Masquer le profil
+  modalText: Êtes-vous sûr·e de vouloir masquer votre profil ?
+  instruction: Si vous souhaitez continuer à discuter sans obtenir de nouvelles
+    correspondances, vous pouvez masquer votre profil ici. Vous ne pourrez pas
+    voir de nouveaux profils tant que votre propre profil est masqué. Vous
+    pouvez changer cela à tout moment.
+profileSafeSearch:
+  headerTitle: <missing>
+  instruction: <missing>
+  modalTitle: <missing>
+  modalDescription: <missing>
+  tapToUnblur: <missing>
+notificationSetting:
+  headerTitle: Notifications
+  hideYourProfile: Activer les notifications
+  instruction: Si vous souhaitez continuer à utiliser BeeDee sans recevoir de
+    notifications, vous pouvez les désactiver pour cet appareil ici. Veuillez
+    noter que vous devez faire cela pour chaque appareil. Vous pouvez modifier
+    ce paramètre à tout moment..
+moreAboutYou:
+  add: Ajouter
+thankYouModal:
+  thankYou: Merci !
+  appreciation: Vos commentaires sont appréciés !
+  unmatch: Supprimer mon match
+addBio:
+  addBiography: Ajouter une présentation
+  inputPlaceholder: >-
+    Parlez-nous de vous. Nous vous recommandons d'écrire au moins 3 phrases
+    complètes.
+
+
+    Veuillez noter que la publicité de services commerciaux (par exemple,
+    OnlyFans) n'est pas autorisée.
+  profileUpdatedToast: Profil mis à jour
+  writeBioToast: Veuillez écrire une bio
+  fillBio: Remplissez votre bio
+outOfLikes:
+  titleLine1: Vous n'avez plus de mentions “j'aime” gratuites pour aujourd'hui :-(
+  subtitle: Cela vous encourage à être sélectif·ve, et rend le système amusant
+    pour tout le monde. Mais si vous ne pouvez pas attendre... le premium inclut
+    des mentions « j'aime » illimitées. Je dis ça, je dis rien.
+  premiumButton: Explorer le premium
+  waitButton: Je vais attendre, ramenez-moi
+messageRules:
+  headerMatch: "Hourra, c'est un match ! Vous pouvez discuter ci-dessous, mais
+    veuillez respecter nos règles de chat :"
+  headerGeneral: "Le respect des autres membres est une valeur clé de BeeDee.
+    Veuillez respecter les règles suivantes :"
+  rule1_title: Non, c'est non.
+  rule1_text: Ils·elles ne sont pas intéressé·e·s ? Acceptez-le avec grâce et
+    laissez-les tranquilles. Ne jamais insulter ou harceler un match !
+  rule2_title: Toujours obtenir le consentement.
+  rule2_text: Sans consentement, n'envoyez pas de photos ou scénarios sexuels, et
+    ne les appelez pas par des surnoms ou ne leur donnez pas d'ordres.
+  rule3_title: Créez une connexion.
+  rule3_text: Ce n'est pas une application de sexting. Apprenez à vous connaître
+    d'abord. Ne demandez pas de sexe dans les premiers messages.
+  footer: Si quelqu'un vous met mal à l'aise, veuillez supprimer la correspondance
+    et/ou signaler la conversation.
+  closeRulesButtonText: Gotcha
+discoverInfoModal:
+  title: "Your options after viewing a profile:"
+  buttonsInfo: "You can take three different actions after viewing a profile. From
+    left to right:"
+  dislikeButton: "the red cross: you don't want to connect to this person. You
+    won't see their profile again. They won't be able to send you a message."
+  skipButton: 'the grey clock: "skip" this profile. You will see this profile
+    again tomorrow, if they still meet your criteria then'
+  whipButton: "the multi-colored heart with a whip: you are super interested in
+    this person and want to skip the queue"
+  likeButton: "the green heart: you are interested in connecting with this person."
+  footer: If you select option 3 or 4 AND they do the same on your profile, you'll
+    have a match! You'll be able to chat to this person when this happens.
+chatFooterComp:
+  inputPlaceholder: Entrez le message
+menuPopUp:
+  profile: Voir le profil
+  unmatch: Retirer le match et supprimer
+  report: Signaler
+seeWhoLikedYou:
+  title: Your likes
+  theyLikedYou: They liked you
+  youLikedThem: You liked them
+  compatible: Compatible
+  notPremium: Premium BeeDee users can see who sent them a like here
+  upgradeButton: Upgrade to premium to see who liked you
+  nonLikedYou: You don't have any outstanding likes
+  nonYouLiked: You did not send any unresponsed likes in the past 7 days
+  youLikedInfo: You can see the likes you sent in the past 7 days here, so you can
+    upgrade them to a Whip if you want to
+chat:
+  conversations: Conversations
+  noUserFound: Aucun utilisateur trouvé
+  recentChat: Recents
+  noMatch: Pas encore de match
+  creditTitle: Vous n'avez pas encore de match
+  creditSubtitle: Allez parcourir les profils pour en trouver !
+  findButton: Trouver des matches
+  textCopied: Texte copé sur le Presse-papier
+  chatRuleLinkText1: "Veuillez suivre nos "
+  chatRuleLinkText2: "règles relatives aux messages "
+  chatRuleLinkText3: en tout temps
+  all: Tout
+  partners: Partenaires
+  friendship: Amitié
+  loadingConversations: Chargement des conversations…
+matchedChatComp:
+  noMatchUserFound: Pas de matchs
+prompts:
+  editPrompt: Éditer accroches
+  choosePrompt: Choisissez une accroche dans cette liste
+  inputPlaceholder: Ajoutez une réponse fun ici ...
+  profileUpdatedToast: Profil mis à jour
+  selectPromptToast: Veuillez sélectionner une accroche.
+  addYourAnswerToast: Ajoutez vos réponses.
+  threePromptToast: Vous avez déjà 3 accroches
+creditTextData:
+  noProfileText1: Vous avez vu tout le monde !
+  noProfileText2: (du moins dans vos critères de recherche…)
+  noProfileText3: "Vous pouvez attendre que d'autres personnes correspondant à vos
+    critères de recherche nous rejoignent, ou sélectionnez l'une des options
+    suivantes:"
+  notLiveText1: Nous activons la découverte région par région,afin de nous assurer
+    que nous pouvons vous offrir la meilleure expérience possible.
+  notLiveText2: >-
+    Veuillez conserver BeeDee sur votre appareil, ainsi que les notifications
+    actives.
+
+
+    De cette façon, vous serez avertis dès que votre région sera activée.
+partnerDiscover:
+  title: Découvrir des profils
+  devTitle: Découvrir des profils
+  titleFriends: Découvrir les amis
+  outOfLikes: Plus aucun like gratuit
+  creditTitle: Plus aucun match potentiel
+  creditSubtitle: dans votre zone géographique
+  creditSmallTitle: Élargissez vos préférences ou bien
+  creditSmallSubtitle: revenez demain
+  creditButtonText: Élargissez vos critères de recherche
+  clearDislike: Redonnez une chance aux profils que vous avez passés
+  wrong: Quelque chose à planté, veuillez réessayer dans quelques minutes
+  failedToLoadProfile: Échec du chargement des profils.
+  tryAgain: Veuillez réessayer dans quelques minutes.
+  loadProfiles: Chargement des profils
+  notLiveTitle: Votre zone sera activée prochainement.
+  notLiveSubtitle: Revenez plus tard.
+  profileHiddenTitle: Tant que votre profil est masqué, vous ne pourrez pas voir d'autres personnes
+  profileHiddenSubtitle: Modifiez votre visibilité si vous voulez parcourir des profils
+  buttonTextUnhide: Aller aux paramètres
+  enableToGetLocationTitle: Échec de localisation
+  enableToGetLocationSubtitle: Veuillez activer l'accès à la localisation pour BeeDee
+  enableLocation: Activer Localisation
+  discoverLoading: Veuillez patienter quelques instants pendant que nous
+    recherchons les profils les plus compatibles dans votre secteur.
+  modalPlaceHolder: Qu'est ce qui éveille votre intérêt pour cette personne ?
+  modalMsgTitle: Envoyez le Whip
+  modalMsgDescription: "Optionnel : Ajoutez un message au Whip."
+  modalMsgDescription1: Veuillez respecter les
+  modalMsgDescription2: Règles de Messagerie
+  modalMsgDescription3: .
+  modalYes: Envoyer
+  modalNo: Annuler
+  tryAgainButton: Réessayez
+  addPhotosTitle: Ajouter des photos
+  editProfile: Éditer Profil
+Preferences:
+  title: Préférences de découverte
+  devTitle: Préférences de partenaires
+  titleFriendship: Préférences d'ami
+  errorMsg: Veuillez sélectionner au moins un genre auquel vous êtes ouvert
+  ageRange: Age range
+  maximumMiles: Distance maximale
+  openToMeeting: "Ouvert à la rencontre de ces genres :"
+  selectOneItemToast: Veuillez sélectionner au moins un item
+bdsmUpdate:
+  headerTitle: Liez vos résultats BDSMTest
+  pasteLink: "Collez le lien de vos résultats ici :"
+  pasteId: "Entrez votre identifiant de vos résultats au BDSMTest ici :"
+  whereToFindId: Vous trouverez cet identifiant sur n'importe quelle capture
+    d'écran des résultats
+  clickUrl: Cliquez pour vous connecter à bdsmtest.org
+  searchResult: "Rechercher un résultat depuis votre compte BDSMTest :"
+  invalidId: Ce n'est pas un format d'identification valide
+  invalidLink: Le lien devrait démarrer par https://bdsmtest.org/r/
+  resultsAdded: Résultats ajoutés avec succès !
+  resultNotFoundPrefix: "Nous n’avons pas pu trouver vos résultats au BDSMTest "
+  resultNotFoundSuffix: . Veuillez essayer avec une autre URL.
+  serverContactFailed: Échec du contact avec le serveur de BDSMTest. Vérifiez
+    votre connexion ou essayez plus tard.
+  updateFailed: Échec de la mise à jour de vos résultats, veuillez réessayer plus tard.
+report:
+  headerTitle: Signaler cette personne
+  info: Pas d'inquiétude, votre signalement est anonyme et personne ne saura rien.
+  buttonText: Signaler et bloquer
+  extraInfo: Informations supplémentaires
+  pleaseSelectValue: Veuillez sélectionner un motif pour continuer
+  pleaseAddMotivation: Entrez des informations additionnelles
+  reportingFailed: Erreur technique, veuillez réessayer
+unsubscribe:
+  headerTitle: PREMIUM
+  premiumUser: Vous êtes un utilisateur PREMIUM BeeDee !
+  modalTitle: Tristesse... en êtes vous sûr·e ?
+  modalText: Vous allez perdre toutes vos fonctionnalités PREMIUM
+  modalButtonText: Se désabonner
+  instructionToUnsubscribe: Pour vous désabonner, veuillez vous rendre sur le
+    Store où vous avez acheté BeeDee Premium et annulez votre abonnement sur
+    celle-ci
+  instructionToUnsubscribe2: "Pour arrêter votre abonnement, rendez vous sur "
+  playStore: Play Store
+  appStore: App Store
+editProfile:
+  headerTitle: Éditer votre profil
+  yourPhotos: Vos photos
+  photosInfo: "Téléversez au moins deux photos qui vous représentent. Notre
+    recommandation : Une photo de votre visage, une de plain-pied, une qui vous
+    montre dans une situation sociale. La nudité et la publicité ne sont pas
+    autorisées."
+  yourBio: Votre bio
+  bioInfo: Si vous donnez plus d'informations sur vous, vous serez davantage mis
+    en relation avec des partenaires compatibles, mais nous comprenons que vous
+    souhaitiez garder une part d'anonymat. Il est permis d'être vague et
+    mystérieux, mais pas de se faire passer pour quelqu'un d'autre ou de se
+    livrer à des activités commerciales (Publicité, OnlyFans, MYM…).
+  profileSubtitle: "Rédigez une présentation amusante et accrocheuse. Remarque :
+    les biographies plus longues contribuent davantage à l'obtention du %."
+  profileButton: Modifier
+  notAddedYet: Pas encore ajouté
+  profilePrompt: Accroches
+  promptSubtitle: "Montrez nous votre personnalité en utilisant jusqu'à 3 courtes accroches :"
+  partnerTitle: Partenaires
+  partnerSubTitle: Gérer vos partenaires
+  manage: Gérer
+  moreAboutYou: À propos de vous
+  aboutSubtitle: Les gens sont curieux à propos de votre
+  yourGender: Votre genre
+  addAnotherPrompt: Ajouter une autre accroche
+  noPromptsYet: Vous n'avez pas encore choisi d'accroche, touchez pour en ajouter une
+  lookingFor: Je recherche
+  lookingForSubtitle: Vous êtes à la recherche de contacts ? d'un·e partenaire ?
+    Des deux ? Quel genre de relation cherchez-vous ?
+  deletePrompt: Delete prompt
+  deletePromptConfirmation: Are you sure you want to delete this prompt?
+  deletePhoto: Delete picture
+  deletePhotoConfirmation: Are you sure you want to delete this picture?
+myPartners:
+  headerTitle: Gérer vos partenaires
+  addButton: Ajouter un·e partenaire
+  modalTitle: En êtes-vous sur ?
+  modalDes: Ce·tte partenaire va être supprimé·e, vous pourrez toujours les
+    ré-ajouter plus tard
+  noPartners: Ajoutez un·e partenaire pour leur montrer que vous êtes la
+  noPartnersListed: Vous n'avez pas de partenaire listé
+  unknownPartner: Pas encore lié
+  partnersYouListed: "Vos partenaires :"
+  partnersNotYouListed: "Vous avez été mentionné par :"
+  youAre: "Vous êtes "
+  ofYou: " vous"
+  pending: En attente
+  notOnBeeDee: Not on BeeDee
+addPartner:
+  headerTitle: Ajouter un Partenaire
+  confirm: Confirmer
+  choosePartner: "Votre partenaire est :"
+  option1: quelqu'un sur BeeDee
+  option2: quelqu'un hors de BeeDee
+  firstName: Leur nom
+  partnerRole: Vous êtes ...
+  chooseRole: Choisir dans la liste
+  success: Succès !
+  partnerAdded: Nouveau partenaire ajouté !
+  nameError: Entrez un nom pour votre partenaire
+  roleError: Sélectionnez une relation
+shareLink:
+  headerTitle: Partage du lien de partenariat
+  yourLink: Partagez ce lien à votre partenaire
+  description: |-
+    Ou faîtes scanner
+    ce QR code:
+  copy: Lien copié dans le presse-papier
+settings:
+  headerTitle: Paramètres
+  profileVisibility: Visibilité du profil
+  notification: Notifications
+  language: Langue
+  units: Unités
+  email: Adresse mail
+  updateEmail: Modifier adresse mail
+  Relation: Me montrer pour
+  phoneNumber: Numéro de téléphone
+  contactBeedee: Contacter BeeDee
+  tipsForSuccess: Conseils pour réussir
+  faqInnerTitle: FAQ
+  faq: Questions Fréquemment Posées
+  deleteAccount: Supprimer le compte
+  logoutConfirmation: Etes-vous sûr de vouloir vous déconnecter ?
+  logout: Se déconnecter
+  visible: Visible
+  safeSearch: <missing>
+  hidden: Caché
+  enabled: Activés
+  disabled: Désactivées
+  everything: Tout
+  nothing: Rien
+  errorMsg: Échec du chargement de la FAQ, Veuillez réessayer
+  tipsErrorMsgToast: Échec du chargement, Veuillez réessayer
+  phoneCannotChanged: Contactez nous si vous avez changé de numéro de téléphone
+homeComp:
+  compatible: "Compatibilité BDSMTest : "
+  similar: "BDSMTest Similarité : "
+  sentWhip: Vous a offert un Whip
+  away: de vous
+  superlikeMsgTitle: "Ce message était accroché au Whip :"
+preference:
+  preferences: Préférences
+  ageRange: Limites d'age
+  maxDistance: Distance maximale
+  openToMeeting: "Voir des profils de ces genres :"
+  matchAnywhere: Voir des profils quelle que soit la distance
+  update: Mettre à jour
+  PreferencesUpdatedToast: Préférences mises à jour
+signupWithPhone:
+  welcomeMsg: Bienvenue sur BeeDee!
+  subTitle: "Connexion ou Inscription avec votre numéro de téléphone :"
+  whyWeNeedThis: |-
+    Nous n'utilisons ces informations que pour l'authentification/.
+    Votre numéro ne sera jamais visible pour les autres utilisateurs.
+  privacyText1: "J'accepte les "
+  privacyText2: " et "
+  tncText: Termes et Conditions
+  privacyText: Politique de confidentialité
+  continue: Continuer
+  countrySearchPlaceholder: Entrez un nom ou code de pays
+  registerError: Quelque chose à planté, veuillez réessayer
+  loginError: Échec de l'authentification, veuillez réessayer
+  errorMsgAcceptTerms: Vous devez accepter les Termes et conditions
+  errorConsent: Veuillez consentir à être contacté avec le code de connexion
+  consent: Je consens à recevoir un code de connexion par SMS ou email. Je
+    comprends que je peux me désengager à tout moment en répondant “STOP” au SMS
+    ou en utilisant le lien prévu à cet effet du mail.
+  modalTitle: Pourquoi avons-nous besoin de votre numéro de téléphone ?
+  modalDescription: Nous utilisons votre numéro de téléphone pour lutter contre le
+    spam et les acteurs malveillants.
+  errorCaptcha: Quelque chose s'est mal passé. Veuillez réessayer.
+  modalPhoneReqTitle: "Nous avons besoin d’un numéro de téléphone pour plusieurs raisons :"
+  modalPhoneReqReason: Afin de détecter les bots, les scammeurs et les personnes
+    qui enfraignent les règles. Il est facile de créer une fausse adresse mail,
+    il est plus compliqué d’avoir de faux numéros de téléphone. Nous souhaitons
+    avoir une application pour les êtres humains seulement.
+  modalPhoneSafety: Pour dissuader les personnes mal intentionnées d'accéder à
+    l’application, sachant que les forces de l’ordre pourraient facilement les
+    retrouver via leur numéro de téléphone. Ceci est une sécurité pour protéger
+    notre communauté.
+  modalReminderTitle: "Bien entendu :"
+  modalPrivacyAssurance: Nous ne montrerons ni ne vendrons aucun numéro. Les
+    autres membres n’y auront jamais accès. Nous ne monétisons pas les données
+    de nos utilisateurs. Jamais
+  modalNoMarketing: Nous ne vous contacterons jamais par SMS à des fins
+    commerciales. La vérification par SMS est unique.
+  modalContactFooter: Une question ? Écrivez nous sur help@beedee.com !
+codeVerification:
+  title: Code de verification
+  subTitle: Vérifiez votre numéro en entrant les 6 chiffres de confirmation
+  subTitle2: Continuez en entrant les 6 chiffres envoyés par mail, ou bien de
+  pleaseWait: Il peut s'écouler jusqu'à 30 secondes pour que votre message arrive,
+    n’oubliez pas de vérifier le dossier spam !
+  btnText: Verifier
+  notReceivedCode: Vous n'avez pas reçu de message ?
+  sendMeCode: Ré-envoyer
+  requestAgain: Vérifiez vos messages. Vous n'avez encore rien reçu ?
+personalEmail:
+  enterYourEmail: Adresse e-mail
+  subTitleText: Veuillez entrer votre adresse email. Nous l'utiliserons pour vous
+    connecter dans le futur.
+  emailPlaceholder: Email
+  emailError: Veuillez introduire une adresse e-mail valide
+toast:
+  profileFailedToLoad: Échec du chargement, veuillez réessayer plus tard
+  wrongCode: Code de vérification erroné, veuillez réessayer
+  twoImagesRequired: Vous devez garder au moins 2 photos dans votre profil
+  pleaseWriteMessage: Veuillez d'abord écrire un message
+  tookTooLongToEnterOtp: Échec de l'authentification, veuillez réessayer
+  banned: Vous avez été banni de BeeDee
+  userNotFound: Ce profile n'existe plus
+  bannerMatchToast: Hourra, vous avez un nouveau match !
+  createSessionFailed: Échec de l'activation des notifications
+  updatedEmail: Email mis à jour
+  bioCopied: Copié vers le presse-papier
+  promptCopied: Accroche copiée vers le presse-papier
+unmatch:
+  success: Match supprimé
+  error: Quelque chose ne s'est pas bien passé lors de la suppression de votre
+    match, veuillez réessayer plus tard
+Units:
+  Metric: Métrique
+  Imperial: Impérial
+permissionsRequired:
+  required: Permission needed
+  photoSettingDes: We need access to your photo library to do this. Please enable
+    it in the app settings or upload pictures using your camera.
+  cameraSettingDes: The BeeDee app needs permission to your camera to do this.
+    Please enable it in the app settings or upload pictures from your library.
+  openSetting: Open settings
+  permissionDenied: Permission denied
+commonText:
+  next: Suivant
+  retry: Retry
+  skip: Passer
+  bdsmTest: BDSMTest
+  bdsmTestResult: Résultats BDSMTest
+  moreInfo: Plus d'informations
+  details: Détails
+  cancel: Annuler
+  ok: OK
+  save: Sauvergarder
+  uploadPhoto: Mettre en ligne une photo
+  takePhoto: Prendre une photo
+  yourMsg: Votre message...
+  submit: Envoyer
+  continue: Continue
+  basics: À propos de moi
+  gender: Genre
+  partner: Partenaires
+  bio: Bio
+  yes: Oui
+  no: Non
+  somethingWentWrong: Quelque chose ne s'est pas bien passé !
+  unlimited: Illimité
+  profileLoading: Fini ! Vous pouvez consulter vos nouveaux résultats ci-dessous.
+  profileLoadingSmall: Cliquez sur le bouton 'retour' (en haut à gauche) pour revenir à BeeDee.
+  userBdsmTestResult: Voici les résultats BDSMTest de
+  errorRefreshToken: Quelque chose s'est mal passé, veuillez réessayer.
+  networkError: Impossible de contacter le serveur de BeeDee, vérifiez votre connexion.
+  reqTimeout: Connexion expirée,vérifiez votre connexion.
+  sessionExp: session expirée
+  deleteAccountLogout: Supprimer le compte
+  userLogout: Déconnexion manuelle
+  cropImageError: Échec du rognage de l'image
+  selectImageError: Échec de la sélection de l'image
+  versionStatus: Cette version de l'application n'est plus supportée. Veuillez
+    mettre à jour BeeDee.
+  updateAlertTitle: Mise à jour requise
+  updateAlertDes: Une nouvelle version de l'application est disponible. Veuillez
+    mettre à jour pour continuer à utiliser l'application
+  scrollToBottom: Défilez jusqu'en bas pour aimer ou passer un profil
+  feedback: "N'hésitez pas à nous en dire plus ou à nous donner votre avis
+    supplémentaire:"
+  selectAll: Sélectionner tout
+  clearAll: Tout effacer
+  showMore: Afficher plus
+  showLess: Afficher moins
+  Read more...: En savoir plus...
+  Show less...: Afficher moins...
+  multiple: Multiple
+  Close: Fermer
+additionalInfo:
+  mainRole: Rôle principal
+  height: Taille
+  pronouns: Pronoms
+  familyPlans: Projets familiaux
+  hometown: Ville d’origine
+  educationLevel: Niveau d'études
+  schoolUniversity: École / Université
+  occupation: Profession
+  occupationOrSector: Profession ou secteur
+  politicalOrientation: Orientation politique
+  alcohol: Alcool
+  smoking: Cigarette
+  drugs: Drogues
+  gender: Genre
+  imageUploadMsg: Image envoyée avec succès
+  imageFailedToUploadMsg: Échec du chargement de l'image, veuillez réessayer.
+  unsaved: Attention !
+  unsavedDescription: Vous avez des changements non sauvegardés, êtes vous sûr de vouloir quitter ?
+reportUserData:
+  fakeProfile: Faux profil
+  inappropriateContent: Contenu inapproprié
+  scamOrCommercial: Arnaque ou publicité
+  hateSpeech: Discours de haine
+  underage: Mineur
+  nudity: Nudity
+MAIN_ROLES: MAIN_ROLES
+Master/Mistress: Maitre(sse)
+Dominant: Dominant.e
+Top: Top
+Switch: Switch
+Brat: Brat
+Bottom: Bottom
+Submissive: Soumis.e
+Slave: Esclave
+Rigger: Rigger
+Rope bunny: Rope bunny
+Other: Autre
+PRONOUNS: PRONOUNS
+he/him: il/lui
+she/her: elle/elle
+they/them: iel/ellui
+Family_Plans: Family_Plans
+Wants kids: Veut des enfants
+Unsure about kids: Indécis.e
+Doesn't want kids: Ne veut pas d'enfants
+Has kids, wants more: A des enfants, en veut plus
+Has kids, unsure about more: A des enfants, indécis.e
+Has kids, doesn't want more: A des enfants, n'en veut plus
+Education_Level: Education_Level
+High school: Enseignement secondaire
+In college: Enseignement supérieur
+Trade school: Enseignement professionnel
+Bachelors: License
+Masters: Master
+PhD: Doctorat
+Left-leaning: Gauche
+Central: Centre
+Right-leaning: Droite
+I don't follow politics: Je ne suis pas la politique
+Regularly: Régulièrement
+Socially: Socialement
+Rarely: Rarement
+Never: Jamais
+OpenTo_Data: OpenTo_Data
+Friendship: Amitié
+A monogamous relationship: Une relation monogame
+An open relationship: Une relation ouverte
+A polyamourous relationship: Une relation polyamoureuse
+A one night stand: Une rencontre sans lendemain
+A play partner: Un·e partenaire de jeu
+A friends with benefits: Un·e sex-friend
+A 24/7 lifestyle dynamic: Une dynamique de vie 24h/24 et 7j/7
+A mentor: Un mentor
+A mentee: Un protégé
+Someone similar to me: Quelqu'un qui me ressemble
+Someone to go to events with: Quelqu'un avec qui aller en événements
+A penpal: Un correspondant
+A friend group to join: Un groupe d'ami.e.s à rejoindre
+Looking_For: Looking_For
+partners: partenaires
+friends: amis
+Roles_Data: Roles_Data
+Dominant of: Dominant de
+Daddy of: Papa de
+Mommy of: Maman def
+babyboy of: petit garçon de
+babygirl of: petite fille de
+Switch of: Switch de
+submissive of: Soumis.e de
+Master of: Maitre de
+Mistress of: Maîtresse de
+Owner of: Propriétaire de
+slave of: Esclave de
+owned by: appartenant à
+owned and collared by: appartenant à et mis.e en collier par
+Degrader of: Degrader de
+degradee of: degradee de
+brat of: Brat de
+Brat tamer of: Brat tamer de
+pet of: Animal de compagnie de
+Rigger to: Rigger de
+Rope Bunny to: Rope Bunny de
+In a relationship with: Dans une relation avec
+Engaged with: Engagé.e avec
+Married to: Marié.e avec
+Dating: Dating
+In an open relationship with: En relation ouverte avec
+In a poly relationship with: En relation Poly avec
+Non-monogamous with: Non-monogame avec
+Nesting partner of: Nesting partner de
+Matamour of: Metamour de
+Friends with Benefits with: Sex-friend avec
+Play partners with: Partenaire de jeu avec
+It's complicated with: C'est compliqué avec
+Gender_Data: Gender_Data
+Man: Homme
+Woman: Femme
+Man - Trans FtM: Homme - Trans FtH
+Woman - Trans MtF: Femme - Trans HtF
+Non-binary: Non-binaire

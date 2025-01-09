@@ -1,0 +1,681 @@
+formatters:
+  bdsmTestFormatterMsg: <missing>
+carousel:
+  createProfile: <missing>
+  tellUs: <missing>
+  discover: <missing>
+  compatibleResults: <missing>
+  matchAndChat: <missing>
+  createConnections: <missing>
+  getStartedBtn: <missing>
+  resumeSignupBtn: <missing>
+inputPlaceholders:
+  name: <missing>
+phoneVerificationCode:
+  requestAgain: <missing>
+  enterCode: <missing>
+personalName:
+  title: <missing>
+  btnText: <missing>
+  errorMsg: <missing>
+  instruction: <missing>
+personalBirthday:
+  title: <missing>
+  btnText: <missing>
+  errorMsg: <missing>
+  warningText: <missing>
+gender:
+  title: <missing>
+  btnText: <missing>
+  errorMsg: <missing>
+openTo:
+  title: <missing>
+  btnText: <missing>
+  warnLookingFor: <missing>
+  errorMsg: <missing>
+  errorMsgFriend: <missing>
+  errorMsgPartner: <missing>
+  profileUpdatedToast: <missing>
+  emptyFieldMsg: <missing>
+lookingFor:
+  title: <missing>
+  btnText: <missing>
+  btnUpdate: <missing>
+  partnerOpenTo: <missing>
+  friendOpenTo: <missing>
+  openTo: <missing>
+  updateMsg: <missing>
+ChooseUnitSystem:
+  title: <missing>
+  errorMsg: <missing>
+  btnText: <missing>
+AddBDSMTestResult:
+  title: <missing>
+  editTitle: <missing>
+  infoBeforeImage: <missing>
+  infoAfterImage: <missing>
+BDSMTestResult:
+  buttonText: <missing>
+BDSMTestButton:
+  takeTest: <missing>
+  addResult: <missing>
+Premium:
+  buyWhipsHeader: <missing>
+  title: <missing>
+  subTitle: <missing>
+  premiumNotAvailable: <missing>
+  premiumNotAvailableIOS: <missing>
+  productNotAvailableIOS: <missing>
+  productNotAvailable: <missing>
+  failedToFetch: <missing>
+  cancelAnyTimeAndroid: <missing>
+  cancelAnyTimeIos: <missing>
+  purchaseSuccess: <missing>
+  purchaseFailed: <missing>
+  paymentVerificationIssue: <missing>
+  contactSupportText: <missing>
+  contactSupportInstructions: <missing>
+  supportDetailsBeeDee: <missing>
+  supportDetailsOtherAccount: <missing>
+  supportDetailsOtherAccountSuffix: <missing>
+  orText: <missing>
+  paymentVerificationFollowUp: <missing>
+  doubleMatchChance: <missing>
+  productUnavailable: <missing>
+  productUnavailableDes: <missing>
+  purchaseError: <missing>
+  purchaseErrorDes: <missing>
+  purchaseFailedAlert: <missing>
+  purchaseFailedDes: <missing>
+  whipSubtitle1: <missing>
+  whipSubtitle2: <missing>
+  whipSubtitle3: <missing>
+  whipsDescription: <missing>
+  errorMsgToast: <missing>
+  oneMonth: <missing>
+  threeMonths: <missing>
+  sixMonths: <missing>
+  perMonth: <missing>
+  discountCodeInvalid: <missing>
+  discountDescription: <missing>
+PrivacyAndTerms:
+  privacyPolicy: <missing>
+  termsConditions: <missing>
+profileComponent:
+  premiumUser: <missing>
+  profileCompletion: <missing>
+  premium: <missing>
+  whipCounter: <missing>
+  verfication: <missing>
+  bdsmTest: <missing>
+  viewProfile: <missing>
+  myPartners: <missing>
+  settings: <missing>
+  partnerPreference: <missing>
+  devPartnerPreference: <missing>
+  friendPreference: <missing>
+  beedee: <missing>
+  version: <missing>
+  barPremium: <missing>
+  barNotPremium: <missing>
+  barPlatinum: <missing>
+  barVerified: <missing>
+  barAlmostVerified: <missing>
+  barNotVerified: <missing>
+  updateTestResult: <missing>
+addPhotos:
+  atleastTwoPhotos: <missing>
+  addPhotos: <missing>
+  instruction: <missing>
+  imageUploaded: <missing>
+  imageUploadFailed: <missing>
+  errorFallbackImageAdded: <missing>
+bdsmNotification:
+  permission: <missing>
+  notificationOn: <missing>
+  text1: <missing>
+  text2: <missing>
+bdsmNavigation:
+  ThankYou: <missing>
+  caption: <missing>
+  completeProfile: <missing>
+  discoverOthers: <missing>
+enableLocation:
+  whereAreYou: <missing>
+  locationText1: <missing>
+  locationText2: <missing>
+  enableGps: <missing>
+  permissionTitle: <missing>
+  permissionMessage: <missing>
+  buttonNeutral: <missing>
+  buttonNegative: <missing>
+  buttonPositive: <missing>
+  gpsRequired: <missing>
+itsMatch:
+  startChatting: <missing>
+  discoverPartners: <missing>
+  discoverFriends: <missing>
+deleteAccount:
+  title: <missing>
+  info: <missing>
+  modalTitle: <missing>
+  ButtonText: <missing>
+  confirmationText: <missing>
+  tryAgain: <missing>
+  accDeletedText: <missing>
+  deletionReasonFewUsers: <missing>
+  deletionReasonPictures: <missing>
+  deletionReasonNotDating: <missing>
+  deletionReasonNoLongerLooking: <missing>
+  otherReason: <missing>
+  bulletPointFewUsers: <missing>
+  bulletPointPictures: <missing>
+  bulletPointNotDating: <missing>
+  bulletPointNoLongerLooking: <missing>
+profileVisibility:
+  headerTitle: <missing>
+  hideYourProfile: <missing>
+  modalTitle: <missing>
+  modalText: <missing>
+  instruction: <missing>
+profileSafeSearch:
+  headerTitle: <missing>
+  instruction: <missing>
+  modalTitle: <missing>
+  modalDescription: <missing>
+  tapToUnblur: <missing>
+notificationSetting:
+  headerTitle: <missing>
+  hideYourProfile: <missing>
+  instruction: <missing>
+moreAboutYou:
+  add: <missing>
+thankYouModal:
+  thankYou: <missing>
+  appreciation: <missing>
+  unmatch: <missing>
+addBio:
+  addBiography: <missing>
+  inputPlaceholder: <missing>
+  profileUpdatedToast: <missing>
+  writeBioToast: <missing>
+  fillBio: <missing>
+outOfLikes:
+  titleLine1: <missing>
+  subtitle: <missing>
+  premiumButton: <missing>
+  waitButton: <missing>
+messageRules:
+  headerMatch: <missing>
+  headerGeneral: <missing>
+  rule1_title: <missing>
+  rule1_text: <missing>
+  rule2_title: <missing>
+  rule2_text: <missing>
+  rule3_title: <missing>
+  rule3_text: <missing>
+  footer: <missing>
+  closeRulesButtonText: <missing>
+discoverInfoModal:
+  title: <missing>
+  buttonsInfo: <missing>
+  dislikeButton: <missing>
+  skipButton: <missing>
+  whipButton: <missing>
+  likeButton: <missing>
+  footer: <missing>
+chatFooterComp:
+  inputPlaceholder: <missing>
+menuPopUp:
+  profile: <missing>
+  unmatch: <missing>
+  report: <missing>
+seeWhoLikedYou:
+  title: <missing>
+  theyLikedYou: <missing>
+  youLikedThem: <missing>
+  compatible: <missing>
+  notPremium: <missing>
+  upgradeButton: <missing>
+  nonLikedYou: <missing>
+  nonYouLiked: <missing>
+  youLikedInfo: <missing>
+chat:
+  conversations: <missing>
+  noUserFound: <missing>
+  recentChat: <missing>
+  noMatch: <missing>
+  creditTitle: <missing>
+  creditSubtitle: <missing>
+  findButton: <missing>
+  textCopied: <missing>
+  chatRuleLinkText1: <missing>
+  chatRuleLinkText2: <missing>
+  chatRuleLinkText3: <missing>
+  all: <missing>
+  partners: <missing>
+  friendship: <missing>
+  loadingConversations: <missing>
+matchedChatComp:
+  noMatchUserFound: <missing>
+prompts:
+  editPrompt: <missing>
+  choosePrompt: <missing>
+  inputPlaceholder: <missing>
+  profileUpdatedToast: <missing>
+  selectPromptToast: <missing>
+  addYourAnswerToast: <missing>
+  threePromptToast: <missing>
+creditTextData:
+  noProfileText1: <missing>
+  noProfileText2: <missing>
+  noProfileText3: <missing>
+  notLiveText1: <missing>
+  notLiveText2: <missing>
+partnerDiscover:
+  title: <missing>
+  devTitle: <missing>
+  titleFriends: <missing>
+  outOfLikes: <missing>
+  creditTitle: <missing>
+  creditSubtitle: <missing>
+  creditSmallTitle: <missing>
+  creditSmallSubtitle: <missing>
+  creditButtonText: <missing>
+  clearDislike: <missing>
+  wrong: <missing>
+  failedToLoadProfile: <missing>
+  tryAgain: <missing>
+  loadProfiles: <missing>
+  notLiveTitle: <missing>
+  notLiveSubtitle: <missing>
+  profileHiddenTitle: <missing>
+  profileHiddenSubtitle: <missing>
+  buttonTextUnhide: <missing>
+  enableToGetLocationTitle: <missing>
+  enableToGetLocationSubtitle: <missing>
+  enableLocation: <missing>
+  discoverLoading: <missing>
+  modalPlaceHolder: <missing>
+  modalMsgTitle: <missing>
+  modalMsgDescription: <missing>
+  modalMsgDescription1: <missing>
+  modalMsgDescription2: <missing>
+  modalMsgDescription3: <missing>
+  modalYes: <missing>
+  modalNo: <missing>
+  tryAgainButton: <missing>
+  addPhotosTitle: <missing>
+  editProfile: <missing>
+Preferences:
+  title: <missing>
+  devTitle: <missing>
+  titleFriendship: <missing>
+  errorMsg: <missing>
+  ageRange: <missing>
+  maximumMiles: <missing>
+  openToMeeting: <missing>
+  selectOneItemToast: <missing>
+bdsmUpdate:
+  headerTitle: <missing>
+  pasteLink: <missing>
+  pasteId: <missing>
+  whereToFindId: <missing>
+  clickUrl: <missing>
+  searchResult: <missing>
+  invalidId: <missing>
+  invalidLink: <missing>
+  resultsAdded: <missing>
+  resultNotFoundPrefix: <missing>
+  resultNotFoundSuffix: <missing>
+  serverContactFailed: <missing>
+  updateFailed: <missing>
+report:
+  headerTitle: <missing>
+  info: <missing>
+  buttonText: <missing>
+  extraInfo: <missing>
+  pleaseSelectValue: <missing>
+  pleaseAddMotivation: <missing>
+  reportingFailed: <missing>
+unsubscribe:
+  headerTitle: <missing>
+  premiumUser: <missing>
+  modalTitle: <missing>
+  modalText: <missing>
+  modalButtonText: <missing>
+  instructionToUnsubscribe: <missing>
+  instructionToUnsubscribe2: <missing>
+  playStore: <missing>
+  appStore: <missing>
+editProfile:
+  headerTitle: <missing>
+  yourPhotos: <missing>
+  photosInfo: <missing>
+  yourBio: <missing>
+  bioInfo: <missing>
+  profileSubtitle: <missing>
+  profileButton: <missing>
+  notAddedYet: <missing>
+  profilePrompt: <missing>
+  promptSubtitle: <missing>
+  partnerTitle: <missing>
+  partnerSubTitle: <missing>
+  manage: <missing>
+  moreAboutYou: <missing>
+  aboutSubtitle: <missing>
+  yourGender: <missing>
+  addAnotherPrompt: <missing>
+  noPromptsYet: <missing>
+  lookingFor: <missing>
+  lookingForSubtitle: <missing>
+  deletePrompt: <missing>
+  deletePromptConfirmation: <missing>
+  deletePhoto: <missing>
+  deletePhotoConfirmation: <missing>
+myPartners:
+  headerTitle: <missing>
+  addButton: <missing>
+  modalTitle: <missing>
+  modalDes: <missing>
+  noPartners: <missing>
+  noPartnersListed: <missing>
+  unknownPartner: <missing>
+  partnersYouListed: <missing>
+  partnersNotYouListed: <missing>
+  youAre: <missing>
+  ofYou: <missing>
+  pending: <missing>
+  notOnBeeDee: <missing>
+addPartner:
+  headerTitle: <missing>
+  confirm: <missing>
+  choosePartner: <missing>
+  option1: <missing>
+  option2: <missing>
+  firstName: <missing>
+  partnerRole: <missing>
+  chooseRole: <missing>
+  success: <missing>
+  partnerAdded: <missing>
+  nameError: <missing>
+  roleError: <missing>
+shareLink:
+  headerTitle: <missing>
+  yourLink: <missing>
+  description: <missing>
+  copy: <missing>
+settings:
+  headerTitle: <missing>
+  profileVisibility: <missing>
+  notification: <missing>
+  language: <missing>
+  units: <missing>
+  email: <missing>
+  updateEmail: <missing>
+  Relation: <missing>
+  phoneNumber: <missing>
+  contactBeedee: <missing>
+  tipsForSuccess: <missing>
+  faqInnerTitle: <missing>
+  faq: <missing>
+  deleteAccount: <missing>
+  logoutConfirmation: <missing>
+  logout: <missing>
+  visible: <missing>
+  safeSearch: <missing>
+  hidden: <missing>
+  enabled: <missing>
+  disabled: <missing>
+  everything: <missing>
+  nothing: <missing>
+  errorMsg: <missing>
+  tipsErrorMsgToast: <missing>
+  phoneCannotChanged: <missing>
+homeComp:
+  compatible: <missing>
+  similar: <missing>
+  sentWhip: <missing>
+  away: <missing>
+  superlikeMsgTitle: <missing>
+preference:
+  preferences: <missing>
+  ageRange: <missing>
+  maxDistance: <missing>
+  openToMeeting: <missing>
+  matchAnywhere: <missing>
+  update: <missing>
+  PreferencesUpdatedToast: <missing>
+signupWithPhone:
+  welcomeMsg: <missing>
+  subTitle: <missing>
+  whyWeNeedThis: <missing>
+  privacyText1: <missing>
+  privacyText2: <missing>
+  tncText: <missing>
+  privacyText: <missing>
+  continue: <missing>
+  countrySearchPlaceholder: <missing>
+  registerError: <missing>
+  loginError: <missing>
+  errorMsgAcceptTerms: <missing>
+  errorConsent: <missing>
+  consent: <missing>
+  modalTitle: <missing>
+  modalDescription: <missing>
+  errorCaptcha: <missing>
+  modalPhoneReqTitle: <missing>
+  modalPhoneReqReason: <missing>
+  modalPhoneSafety: <missing>
+  modalReminderTitle: <missing>
+  modalPrivacyAssurance: <missing>
+  modalNoMarketing: <missing>
+  modalContactFooter: <missing>
+codeVerification:
+  title: <missing>
+  subTitle: <missing>
+  subTitle2: <missing>
+  pleaseWait: <missing>
+  btnText: <missing>
+  notReceivedCode: <missing>
+  sendMeCode: <missing>
+  requestAgain: <missing>
+personalEmail:
+  enterYourEmail: <missing>
+  subTitleText: <missing>
+  emailPlaceholder: <missing>
+  emailError: <missing>
+toast:
+  profileFailedToLoad: <missing>
+  wrongCode: <missing>
+  twoImagesRequired: <missing>
+  pleaseWriteMessage: <missing>
+  tookTooLongToEnterOtp: <missing>
+  banned: <missing>
+  userNotFound: <missing>
+  bannerMatchToast: <missing>
+  createSessionFailed: <missing>
+  updatedEmail: <missing>
+  bioCopied: <missing>
+  promptCopied: <missing>
+unmatch:
+  success: <missing>
+  error: <missing>
+Units:
+  Metric: <missing>
+  Imperial: <missing>
+permissionsRequired:
+  required: <missing>
+  photoSettingDes: <missing>
+  cameraSettingDes: <missing>
+  openSetting: <missing>
+  permissionDenied: <missing>
+commonText:
+  next: <missing>
+  retry: <missing>
+  skip: <missing>
+  bdsmTest: <missing>
+  bdsmTestResult: <missing>
+  moreInfo: <missing>
+  details: <missing>
+  cancel: <missing>
+  ok: <missing>
+  save: <missing>
+  uploadPhoto: <missing>
+  takePhoto: <missing>
+  yourMsg: <missing>
+  submit: <missing>
+  continue: <missing>
+  basics: <missing>
+  gender: <missing>
+  partner: <missing>
+  bio: <missing>
+  yes: <missing>
+  no: <missing>
+  somethingWentWrong: <missing>
+  unlimited: <missing>
+  profileLoading: <missing>
+  profileLoadingSmall: <missing>
+  userBdsmTestResult: <missing>
+  errorRefreshToken: <missing>
+  networkError: <missing>
+  reqTimeout: <missing>
+  sessionExp: <missing>
+  deleteAccountLogout: <missing>
+  userLogout: <missing>
+  cropImageError: <missing>
+  selectImageError: <missing>
+  versionStatus: <missing>
+  updateAlertTitle: <missing>
+  updateAlertDes: <missing>
+  scrollToBottom: <missing>
+  feedback: <missing>
+  selectAll: <missing>
+  clearAll: <missing>
+  showMore: <missing>
+  showLess: <missing>
+  Read more...: <missing>
+  Show less...: <missing>
+  multiple: <missing>
+  Close: <missing>
+additionalInfo:
+  mainRole: <missing>
+  height: <missing>
+  pronouns: <missing>
+  familyPlans: <missing>
+  hometown: <missing>
+  educationLevel: <missing>
+  schoolUniversity: <missing>
+  occupation: <missing>
+  occupationOrSector: <missing>
+  politicalOrientation: <missing>
+  alcohol: <missing>
+  smoking: <missing>
+  drugs: <missing>
+  gender: <missing>
+  imageUploadMsg: <missing>
+  imageFailedToUploadMsg: <missing>
+  unsaved: <missing>
+  unsavedDescription: <missing>
+reportUserData:
+  fakeProfile: <missing>
+  inappropriateContent: <missing>
+  scamOrCommercial: <missing>
+  hateSpeech: <missing>
+  underage: <missing>
+  nudity: <missing>
+MAIN_ROLES: <missing>
+Master/Mistress: <missing>
+Dominant: <missing>
+Top: <missing>
+Switch: <missing>
+Brat: <missing>
+Bottom: <missing>
+Submissive: <missing>
+Slave: <missing>
+Rigger: <missing>
+Rope bunny: <missing>
+Other: <missing>
+PRONOUNS: <missing>
+he/him: <missing>
+she/her: <missing>
+they/them: <missing>
+Family_Plans: <missing>
+Wants kids: <missing>
+Unsure about kids: <missing>
+Doesn't want kids: <missing>
+Has kids, wants more: <missing>
+Has kids, unsure about more: <missing>
+Has kids, doesn't want more: <missing>
+Education_Level: <missing>
+High school: <missing>
+In college: <missing>
+Trade school: <missing>
+Bachelors: <missing>
+Masters: <missing>
+PhD: <missing>
+Left-leaning: <missing>
+Central: <missing>
+Right-leaning: <missing>
+I don't follow politics: <missing>
+Regularly: <missing>
+Socially: <missing>
+Rarely: <missing>
+Never: <missing>
+OpenTo_Data: <missing>
+Friendship: <missing>
+A monogamous relationship: <missing>
+An open relationship: <missing>
+A polyamourous relationship: <missing>
+A one night stand: <missing>
+A play partner: <missing>
+A friends with benefits: <missing>
+A 24/7 lifestyle dynamic: <missing>
+A mentor: <missing>
+A mentee: <missing>
+Someone similar to me: <missing>
+Someone to go to events with: <missing>
+A penpal: <missing>
+A friend group to join: <missing>
+Looking_For: <missing>
+partners: <missing>
+friends: <missing>
+Roles_Data: <missing>
+Dominant of: <missing>
+Daddy of: <missing>
+Mommy of: <missing>
+babyboy of: <missing>
+babygirl of: <missing>
+Switch of: <missing>
+submissive of: <missing>
+Master of: <missing>
+Mistress of: <missing>
+Owner of: <missing>
+slave of: <missing>
+owned by: <missing>
+owned and collared by: <missing>
+Degrader of: <missing>
+degradee of: <missing>
+brat of: <missing>
+Brat tamer of: <missing>
+pet of: <missing>
+Rigger to: <missing>
+Rope Bunny to: <missing>
+In a relationship with: <missing>
+Engaged with: <missing>
+Married to: <missing>
+Dating: <missing>
+In an open relationship with: <missing>
+In a poly relationship with: <missing>
+Non-monogamous with: <missing>
+Nesting partner of: <missing>
+Matamour of: <missing>
+Friends with Benefits with: <missing>
+Play partners with: <missing>
+It's complicated with: <missing>
+Gender_Data: <missing>
+Man: <missing>
+Woman: <missing>
+Man - Trans FtM: <missing>
+Woman - Trans MtF: <missing>
+Non-binary: <missing>
