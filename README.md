@@ -10,7 +10,7 @@ You can contribute by adding missing translations, or improving existing transla
 3. Go to the [translation file](./tree/main/translations) of a language you are proficient in. (Entries where the English and "translated" values are the same, are not translated yet.)
 4. click the pencil icon on the top left (it looks like this: ![pencil](https://raw.githubusercontent.com/beedeeapp/translations/refs/heads/main/images/pencil.png))
 5. Make any adjustments, improvements...
-6. Click "Commit changes" in the top left (TODO Pieter: image). `Create a new branch for this commit and start a pull request` will be auto-selected. Enter a sensible name for your contributions, preferably starting with the language you're contributing to (e.g. `de-improvements-myname-2`). The name doesn't matter that much. Click `Propose changes` and that's it!
+6. Click "Commit changes" in the top left. `Create a new branch for this commit and start a pull request` will be auto-selected. Enter a sensible name for your contributions, preferably starting with the language you're contributing to (e.g. `de-improvements-myname-2`). The name doesn't matter that much. Click `Propose changes` and that's it!
 
 Step 6 looks like this:
 
@@ -22,7 +22,7 @@ Step 6 looks like this:
 
 If the above 6 steps are easier to follow through a video, you can watch the video below:
 
-(VIDEO HERE)
+(Pieter to add the video he's recording now, here.)
 
 ## Translations format details
 
