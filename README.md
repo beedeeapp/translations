@@ -7,7 +7,7 @@ You can contribute by adding missing translations, or improving existing transla
 
 1. Create a GitHub account [here](https://github.com/signup?source_repo=beedeeapp%2FTranslations), or sign in [here](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbeedeeapp%2Ftranslations), and come back to `https://github.com/beedeeapp/translations` afterwards.
 2. Click [here](https://beedee.com/translate/) or go to `https://beedee.com/translate/` and enter the email address of your GitHub account to receive an invite to this repository.
-3. Go to the [translation file](./tree/main/translations) of a language you are proficient in. (Entries where the English and "translated" values are the same, are not translated yet.)
+3. Go to the [translation file](https://github.com/beedeeapp/translations/tree/main/translations) of a language you are proficient in. (Entries where the English and "translated" values are the same, are not translated yet.)
 4. click the pencil icon on the top left (it looks like this: ![pencil](https://raw.githubusercontent.com/beedeeapp/translations/refs/heads/main/images/pencil.png))
 5. Make any adjustments, improvements...
 6. Click "Commit changes" in the top left. `Create a new branch for this commit and start a pull request` will be auto-selected. Enter a sensible name for your contributions, preferably starting with the language you're contributing to (e.g. `de-improvements-myname-2`). The name doesn't matter that much. Click `Propose changes` and that's it!
