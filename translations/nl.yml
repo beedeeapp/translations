@@ -10,97 +10,97 @@
 # Thank you for helping to make BeeDee available in different languages! ❤
 
 formatters:
-# English for ↓: Invalid test result
+# English for ⤵: Invalid test result
   bdsmTestFormatterMsg: Ongeldig test resultaat
 
 carousel:
-# English for ↓: Create your profile
+# English for ⤵: Create your profile
   createProfile: Maak een profiel
-# English for ↓: Tell us who you are and what you're looking for.
+# English for ⤵: Tell us who you are and what you're looking for.
   tellUs: Vertel ons wie je bent en wat je zoekt.
-# English for ↓: Discover people nearby
+# English for ⤵: Discover people nearby
   discover: Ontdek mensen in je  buurt
-# English for ↓: We'll present you with people having compatible BDSMTest results.
+# English for ⤵: We'll present you with people having compatible BDSMTest results.
   compatibleResults: We zullen je mensen met compatiebele BDSMTest resultaten tonen.
-# English for ↓: Match & chat
+# English for ⤵: Match & chat
   matchAndChat: Match & chat
-# English for ↓: Get to know each other and create meaningful connections.
+# English for ⤵: Get to know each other and create meaningful connections.
   createConnections: Leer elkaar kennen en maak diepe verbinding.
-# English for ↓: Get Started
+# English for ⤵: Get Started
   getStartedBtn: Aan de slag
-# English for ↓: Resume Signup
+# English for ⤵: Resume Signup
   resumeSignupBtn: Ga verder met registreren
 
 inputPlaceholders:
-# English for ↓: First name or nickname
+# English for ⤵: First name or nickname
   name: Voornaam of bijnaam
 
 phoneVerificationCode:
-# English for ↓: Request again
+# English for ⤵: Request again
   requestAgain: Opnieuw aanvragen
-# English for ↓: Please enter code
+# English for ⤵: Please enter code
   enterCode: Vul de code in.
 
 personalName:
-# English for ↓: What's your name?
+# English for ⤵: What's your name?
   title: Wat is je naam?
-# English for ↓: Next
+# English for ⤵: Next
   btnText: Volgende
-# English for ↓: Please enter your name (or a nickname of your choice)
+# English for ⤵: Please enter your name (or a nickname of your choice)
   errorMsg: Vul je naam in (of een bijnaam die je wilt)
-# English for ↓: If you are uncomfortable with using your real first name, you can use an alias. Just don't impersonate someone you're not.
+# English for ⤵: If you are uncomfortable with using your real first name, you can use an alias. Just don't impersonate someone you're not.
   instruction: Als je oncomfortabel bent met je echte naam, kan je een alias gebruiken. Maar doe je niet voor als een ander.
 
 personalBirthday:
-# English for ↓: Your birthday
+# English for ⤵: Your birthday
   title: Je geboortedatum
-# English for ↓: Next
+# English for ⤵: Next
   btnText: Volgende
-# English for ↓: 'Please enter a valid birthday
+# English for ⤵: 'Please enter a valid birthday
   errorMsg: Vul een geldige geboortedatum in
-# English for ↓: Warning: you won't be able to change this later!
+# English for ⤵: Warning: you won't be able to change this later!
   warningText: Waarschuwing, je kan dit later niet meer veranderen!
 
 gender:
-# English for ↓: Your gender
+# English for ⤵: Your gender
   title: Jouw gender
-# English for ↓: Next
+# English for ⤵: Next
   btnText: Volgende
-# English for ↓: Please select your gender
+# English for ⤵: Please select your gender
   errorMsg: Kies alsjeblieft je gender
 
 openTo:
-# English for ↓: Open to
+# English for ⤵: Open to
   title: Open tot
-# English for ↓: Next
+# English for ⤵: Next
   btnText: volgende
-# English for ↓: You won't see any profiles
+# English for ⤵: You won't see any profiles
   warnLookingFor: je kunt zo geen andere profielen zien
-# English for ↓: Please select at least one connection type
+# English for ⤵: Please select at least one connection type
   errorMsg: Kies minstens één connectie type
-# English for ↓: Please select at least one option of friend connections
+# English for ⤵: Please select at least one option of friend connections
   errorMsgFriend: Kies minstens één optie voor vrienden connecties
-# English for ↓: Please select at least one option of partner connections
+# English for ⤵: Please select at least one option of partner connections
   errorMsgPartner: Kies minstens één optie voor partner connecties
-# English for ↓: Profile updated
+# English for ⤵: Profile updated
   profileUpdatedToast: Profiel opgeslagen
-# English for ↓: Field cannot be empty
+# English for ⤵: Field cannot be empty
   emptyFieldMsg: Veld kan niet leeg zijn
 
 lookingFor:
-# English for ↓: Looking for
+# English for ⤵: Looking for
   title: Opzoek naar
-# English for ↓: Next
+# English for ⤵: Next
   btnText: Volgende
-# English for ↓: Update
+# English for ⤵: Update
   btnUpdate: Update
-# English for ↓: Partner(s)
+# English for ⤵: Partner(s)
   partnerOpenTo: Partner(s)
-# English for ↓: Friendship
+# English for ⤵: Friendship
   friendOpenTo: Vriendschap
-# English for ↓: Open to
+# English for ⤵: Open to
   openTo: Open voor
-# English for ↓: |
+# English for ⤵: |
 # Updated what you
 # 're looking for
   updateMsg: |
@@ -108,40 +108,40 @@ lookingFor:
     wat je zoekt
 
 ChooseUnitSystem:
-# English for ↓: Length unit system
+# English for ⤵: Length unit system
   title: "Lengte-eenheidssysteem"
-# English for ↓: Please select your desired length unit system.
+# English for ⤵: Please select your desired length unit system.
   errorMsg: "Selecteer het gewenste lengte-eenheidssysteem."
-# English for ↓: Next
+# English for ⤵: Next
   btnText: Next
 
 AddBDSMTestResult:
-# English for ↓: Add BDSMTest results
+# English for ⤵: Add BDSMTest results
   title: Voeg BDSMTest resultaten toe
-# English for ↓: Update BDSMTest results
+# English for ⤵: Update BDSMTest results
   editTitle: Update BDSMTest resultaten
-# English for ↓: We determine the compatibility with your potential matches through the official BDSMTest. We will only show you compatible profiles and only show your profile to compatible people, for maximum privacy.
+# English for ⤵: We determine the compatibility with your potential matches through the official BDSMTest. We will only show you compatible profiles and only show your profile to compatible people, for maximum privacy.
   infoBeforeImage: Wij stellen de overeenkomstigheid met je potentiële matches vast door middel van de officiële BDSMTest. We zullen je alleen profielen laten zien die passen bij jouw profiel. En we zullen jouw profiel alleen laten zien aan mensen die passen bij jouw voorkeuren. Dit voor maximale privacy.
-# English for ↓: Please answer the questions with your desired match in mind. E.g. agreeing to 'I enjoy being tied up' will result in matches who enjoy tying you up.
+# English for ⤵: Please answer the questions with your desired match in mind. E.g. agreeing to 'I enjoy being tied up' will result in matches who enjoy tying you up.
   infoAfterImage: "Beantwoord de vragen alsjeblieft met je beoogde match in gedachten. b.v. het eens zijn met: 'Ik vind het fijn om vastgebonden te worden.' Zal leiden tot matches met mensen die graag mensen vastbinden."
 
 BDSMTestResult:
-# English for ↓: Update your BDSMTest results
+# English for ⤵: Update your BDSMTest results
   buttonText: Update je BDSMTest resultaten
 
 BDSMTestButton:
-# English for ↓: Take new BDSMTest
+# English for ⤵: Take new BDSMTest
   takeTest: Doe een nieuwe BDSMTest
-# English for ↓: Add previous result
+# English for ⤵: Add previous result
   addResult: Voeg een bestaande test resultaat toe
 
 Premium:
-# English for ↓: Buy Whips
+# English for ⤵: Buy Whips
   buyWhipsHeader: Whips kopen
-# English for ↓: Experience BeeDee the Premium way:
+# English for ⤵: Experience BeeDee the Premium way:
   title: Ervaar BeeDee op de Premium manier
   oldSubTitle: krijg onbeperkt dagelijkse likes en wordt aan meer andere gebruikers getoond!
-# English for ↓: |
+# English for ⤵: |
 # ➔ Get unlimited daily likes
 # ➔ Get 1 whip per week
 # ➔ Be shown more to other users
@@ -151,45 +151,45 @@ Premium:
     ➔ Get 1 whip per week
     ➔ Be shown more to other users
     ➔ See who sent you a like
-# English for ↓: Premium is not yet available for purchase in the country your store account is linked to.
+# English for ⤵: Premium is not yet available for purchase in the country your store account is linked to.
   premiumNotAvailable: Premium is nog niet voor aankoop beschikbaar in het land waar jouw account aan is gelinkt.
-# English for ↓: Buying premium is unavailable on iOS for now.
+# English for ⤵: Buying premium is unavailable on iOS for now.
   premiumNotAvailableIOS: Premium kopen is nu nog niet mogelijk op iOS.
-# English for ↓: Buying whips is unavailable on iOS for now.
+# English for ⤵: Buying whips is unavailable on iOS for now.
   productNotAvailableIOS: Whips kopen is nu nog niet mogelijk op iOS.
-# English for ↓: Product is not yet available for purchase in the country your store account is linked to.
+# English for ⤵: Product is not yet available for purchase in the country your store account is linked to.
   productNotAvailable: Dit product is nog niet voor aankoop beschikbaar in het land waar jouw account aan is gelinkt.
-# English for ↓: Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later
+# English for ⤵: Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later
   failedToFetch: "Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later"
-# English for ↓: Recurring subscription, you can cancel any time in the Play Store
+# English for ⤵: Recurring subscription, you can cancel any time in the Play Store
   cancelAnyTimeAndroid: Doorlopend abonnement, je kan dit op ieder moment beëindigen in de Play Store.
-# English for ↓: Recurring subscription, you can cancel any time in the App Store
+# English for ⤵: Recurring subscription, you can cancel any time in the App Store
   cancelAnyTimeIos: Doorlopend abonnement, je kan dit op ieder moment beëindigen in de App Store.
-# English for ↓: Purchase successfull
+# English for ⤵: Purchase successfull
   purchaseSuccess: Aankoop succesvol
-# English for ↓: Failed to verify your purchase
+# English for ⤵: Failed to verify your purchase
   purchaseFailed: Verificatie van je aankoop mislukt.
-# English for ↓: Our servers could not verify your payment at this time. This is likely an issue on our end.
+# English for ⤵: Our servers could not verify your payment at this time. This is likely an issue on our end.
   paymentVerificationIssue: Onze servers konden je aankoop op dit moment niet verifiëren. Dit is waarschijnlijk een probleem aan onze kant.
-# English for ↓: Please get in touch via 
+# English for ⤵: Please get in touch via 
   contactSupportText: "Contacteer ons via "
-# English for ↓: |
+# English for ⤵: |
 #  and include:
   contactSupportInstructions: |
      en voeg toe:
     
-# English for ↓: |
+# English for ⤵: |
 # - The phone number and/or email address your BeeDee account is linked with.
   supportDetailsBeeDee: |
     - Het telefoonnummer en/of e-mailadres waar jouw BeeDee account aan gelinkt is.
     
-# English for ↓: - The email address your 
+# English for ⤵: - The email address your 
   supportDetailsOtherAccount: "- Het email-adress waar jouw "
-# English for ↓:  account is linked with.
+# English for ⤵:  account is linked with.
   supportDetailsOtherAccountSuffix: " account mee gelinkt is."
-# English for ↓: or 
+# English for ⤵: or 
   orText: "or "
-# English for ↓: |
+# English for ⤵: |
 # We'll look into why we failed to verify your payment ASAP, and you'll receive your benefits soon after.
 # 
 # We're sorry for this inconvenience!
@@ -197,262 +197,262 @@ Premium:
     We gaan zo spoedig mogelijk onderzoeken waarom we je betaling niet konden verifiëren. Kort daarna zou je van de voordelen gebruik moeten kunnen maken.
     
     Onze excuses voor het ongemak!
-# English for ↓: Get twice the chance of a match
+# English for ⤵: Get twice the chance of a match
   doubleMatchChance: krijg twee keer zoveel kans op een match
-# English for ↓: Product Unavailable
+# English for ⤵: Product Unavailable
   productUnavailable: Product niet beschikbaar
-# English for ↓: This product is not available for purchasing at the moment. Please try again later.
+# English for ⤵: This product is not available for purchasing at the moment. Please try again later.
   productUnavailableDes: Dit product is momenteel niet beschikbaar om te kopen. Probeer het alsjeblieft later nog een keer..
-# English for ↓: Purchase Error
+# English for ⤵: Purchase Error
   purchaseError: Aankoop Error
-# English for ↓: An error occurred while trying to initialize the purchase. Please try again later.
+# English for ⤵: An error occurred while trying to initialize the purchase. Please try again later.
   purchaseErrorDes: Er heeft een error plaatsgevonden tijdens het initialiseren van de aankoop. Probeer het later nog een keer a.u.b.
-# English for ↓: Purchase Error
+# English for ⤵: Purchase Error
   purchaseFailedAlert: Aankoop Error
-# English for ↓: An error occurred while processing your purchase. Please try again.
+# English for ⤵: An error occurred while processing your purchase. Please try again.
   purchaseFailedDes: Er heeft een error plaatsgevonden tijdens het initialiseren van de aankoop. Probeer het later nog een keer a.u.b.
-# English for ↓: Let someone special
+# English for ⤵: Let someone special
   whipSubtitle1: Laat iemand speciaal
-# English for ↓: know they stood out
+# English for ⤵: know they stood out
   whipSubtitle2: weten dat hij/zij
   whipSubtitle3: opviel
-# English for ↓: |
+# English for ⤵: |
 # ➔ Add a personalized note to your like 
 # ➔ Be shown first on their next visit
   whipsDescription: |
     ➔ Voeg een persoonlijk bericht toe aan je like 
     ➔ Word bij hun volgende bezoek als eerste getoond
-# English for ↓: An error occurred. Please try again later.
+# English for ⤵: An error occurred. Please try again later.
   errorMsgToast: Er is een fout opgetreden. Probeer later opnieuw.
-# English for ↓: 1 month
+# English for ⤵: 1 month
   oneMonth: 1 maand
-# English for ↓: 3 months
+# English for ⤵: 3 months
   threeMonths: 3 maanden
-# English for ↓: 6 months
+# English for ⤵: 6 months
   sixMonths: 6 maanden
-# English for ↓: per month
+# English for ⤵: per month
   perMonth: per maand
-# English for ↓: no active discount found for this code
+# English for ⤵: no active discount found for this code
   discountCodeInvalid: Geen actieve korting gevonden voor deze code
-# English for ↓: Discount applies to the initial period only, full price will charged when the subscription renews
+# English for ⤵: Discount applies to the initial period only, full price will charged when the subscription renews
   discountDescription: De korting geldt alleen voor de initiële periode, de volledige prijs wordt in rekening gebracht wanneer het abonnement wordt verlengd.
-# English for ↓: Recurring subscription, you can cancel it any time.
+# English for ⤵: Recurring subscription, you can cancel it any time.
   cancelAnytimeWeb: Recurring subscription, you can cancel it any time.
 
 PrivacyAndTerms:
-# English for ↓: Privacy Policy
+# English for ⤵: Privacy Policy
   privacyPolicy: Privacy Beleid
-# English for ↓: Terms and Conditions
+# English for ⤵: Terms and Conditions
   termsConditions: Algemene Voorwaarden
 
 profileComponent:
-# English for ↓: Premium user
+# English for ⤵: Premium user
   premiumUser: Premium gebruiker
-# English for ↓: Edit profile
+# English for ⤵: Edit profile
   profileCompletion: Wijzig profiel
-# English for ↓: Premium
+# English for ⤵: Premium
   premium: Premium
-# English for ↓: Whips
+# English for ⤵: Whips
   whipCounter: Whips
-# English for ↓: Verification
+# English for ⤵: Verification
   verfication: Verificatie
-# English for ↓: BDSMTest
+# English for ⤵: BDSMTest
   bdsmTest: BDSMTest
-# English for ↓: Preview profile
+# English for ⤵: Preview profile
   viewProfile: Bekijk profiel
-# English for ↓: My Partners
+# English for ⤵: My Partners
   myPartners: Mijn Partners
-# English for ↓: Settings
+# English for ⤵: Settings
   settings: Instellingen
-# English for ↓: Discovery preferences
+# English for ⤵: Discovery preferences
   partnerPreference: Discovery preferences
-# English for ↓: Partner preferences
+# English for ⤵: Partner preferences
   devPartnerPreference: Partner voorkeuren
-# English for ↓: Friendship preferences
+# English for ⤵: Friendship preferences
   friendPreference: Vriendschap voorkeuren
-# English for ↓: BeeDee
+# English for ⤵: BeeDee
   beedee: BeeDee
-# English for ↓: Version
+# English for ⤵: Version
   version: Versie
-# English for ↓: Premium
+# English for ⤵: Premium
   barPremium: Premium
-# English for ↓: free account
+# English for ⤵: free account
   barNotPremium: gratis account
-# English for ↓: Platinum
+# English for ⤵: Platinum
   barPlatinum: Platinum
-# English for ↓: Verified
+# English for ⤵: Verified
   barVerified: Goedgekeurd
-# English for ↓: Verification pending
+# English for ⤵: Verification pending
   barAlmostVerified: Verificatie in behandeling
-# English for ↓: Not verified
+# English for ⤵: Not verified
   barNotVerified: Niet geverifieerd
-# English for ↓: Update results
+# English for ⤵: Update results
   updateTestResult: Update resultaten
-# English for ↓: BeeDee Team Member
+# English for ⤵: BeeDee Team Member
   teamMember: BeeDee Team Member
 
 addPhotos:
-# English for ↓: Upload at least two photos
+# English for ⤵: Upload at least two photos
   atleastTwoPhotos: "Upload ten minste twee foto's"
-# English for ↓: Add photos
+# English for ⤵: Add photos
   addPhotos: "Voeg foto's toe"
-# English for ↓: Upload at least two pictures that represent you. Our recommendation: 1 face picture, 1 picture that shows your body and 1 that shows you in a social setting or doing a hobby. Nudity and advertising aren't allowed.
+# English for ⤵: Upload at least two pictures that represent you. Our recommendation: 1 face picture, 1 picture that shows your body and 1 that shows you in a social setting or doing a hobby. Nudity and advertising aren't allowed.
   instruction: "Upload minimaal twee foto's die jou representeren. Onze aanbeveling: 1 gezichtsfoto, 1 foto die je lichaam laat zien en 1 die jou laat zien in een sociale setting of tijdens het doen van een hobby. Naaktheid en reclame zijn niet toegestaan."
-# English for ↓: Image uploaded successfully
+# English for ⤵: Image uploaded successfully
   imageUploaded: Afbeelding succesvol geüpload
-# English for ↓: Image failed to upload, please try again
+# English for ⤵: Image failed to upload, please try again
   imageUploadFailed: Het uploaden van de afbeelding is mislukt. Probeer het opnieuw
-# English for ↓: Issue selecting your picture, we had to replace it with a black image
+# English for ⤵: Issue selecting your picture, we had to replace it with a black image
   errorFallbackImageAdded: Probleem bij het selecteren van je foto, we moesten deze vervangen door een zwart beeld.
 
 bdsmNotification:
   //TODO: rename this to permission or notificaiton or something
-# English for ↓: Permissions
+# English for ⤵: Permissions
   permission: Rechten
-# English for ↓: Create my account!
+# English for ⤵: Create my account!
   notificationOn: Maak mijn account!
-# English for ↓: For BeeDee to function correctly, we need to access your location and send you notifications.
+# English for ⤵: For BeeDee to function correctly, we need to access your location and send you notifications.
   text1: Om ervoor te zorgen dat BeeDee goed functioneert, moeten we toegang hebben tot je locatie en je meldingen sturen.
-# English for ↓: To grant these, please press the button below and accept any follow-up screens shown.
+# English for ⤵: To grant these, please press the button below and accept any follow-up screens shown.
   text2: Om dit te accepteren, druk je op de onderstaande knop en accepteer je de vervolgschermen die worden weergegeven.
 
 bdsmNavigation:
   //TODO: rename this to navigation or something
-# English for ↓: Your BeeDee account was succesfully created!
+# English for ⤵: Your BeeDee account was succesfully created!
   ThankYou: Je BeeDee account is succesvol aangemaakt!
-# English for ↓: You can further enhance your profile with additional information, but we also understand your enthusiasm to connect with other BeeDee users right away. The choice is yours to make!
+# English for ⤵: You can further enhance your profile with additional information, but we also understand your enthusiasm to connect with other BeeDee users right away. The choice is yours to make!
   caption: |
     Je kunt je profiel compleet maken met aanvullende informatie, maar we begrijpen ook je enthousiasme om contact te leggen met andere BeeDee-gebruikers.
     De keuze is aan jou!
-# English for ↓: Complete my profile
+# English for ⤵: Complete my profile
   completeProfile: Maak mijn profiel compleet
-# English for ↓: Discover other BeeDee users
+# English for ⤵: Discover other BeeDee users
   discoverOthers: Ontdek andere BeeDee gebruikers
 
 enableLocation:
-# English for ↓: Where are you?
+# English for ⤵: Where are you?
   whereAreYou: Waar ben je?
-# English for ↓: Your GPS needs to be turned on 
+# English for ⤵: Your GPS needs to be turned on 
   locationText1: "Je GPS moet aangezet worden "
-# English for ↓: in order for this to work
+# English for ⤵: in order for this to work
   locationText2: om dit te laten werken
-# English for ↓: Enable GPS
+# English for ⤵: Enable GPS
   enableGps: Zet GPS aan
-# English for ↓: Location permission
+# English for ⤵: Location permission
   permissionTitle: Locatie toestemming
-# English for ↓: BeeDee wants to access your location
+# English for ⤵: BeeDee wants to access your location
   permissionMessage: BeeDee wil toegang tot je locatie
-# English for ↓: Ask me later
+# English for ⤵: Ask me later
   buttonNeutral: Vraag het me later
-# English for ↓: Cancel
+# English for ⤵: Cancel
   buttonNegative: Annuleren
-# English for ↓: OK
+# English for ⤵: OK
   buttonPositive: OK
-# English for ↓: BeeDee requires GPS access
+# English for ⤵: BeeDee requires GPS access
   gpsRequired: BeeDee heeft toegang tot je GPS nodig
 
 itsMatch:
-# English for ↓: Start chatting
+# English for ⤵: Start chatting
   startChatting: Begin te chatten
-# English for ↓: Discover more partners
+# English for ⤵: Discover more partners
   discoverPartners: Ontdek meer partners
-# English for ↓: Discover more friends
+# English for ⤵: Discover more friends
   discoverFriends: Ontdek meer vrienden
 
 deleteAccount:
-# English for ↓: Delete Account
+# English for ⤵: Delete Account
   title: Account verwijderen
-# English for ↓: Why are you deleting your BeeDee account?
+# English for ⤵: Why are you deleting your BeeDee account?
   info: Laat ons alsjeblieft weten waarom je je account wilt verwijderen.
-# English for ↓: So sad...
+# English for ⤵: So sad...
   modalTitle: Zo jammer...
-# English for ↓: Yes
+# English for ⤵: Yes
   ButtonText: Ja
-# English for ↓: Do you really want to delete your account?
+# English for ⤵: Do you really want to delete your account?
   confirmationText: Wil je echt je account verwijderen?
-# English for ↓: Technical error. Please try again.
+# English for ⤵: Technical error. Please try again.
   tryAgain: Technische storing. Probeer opnieuw.
-# English for ↓: Always welcome back in the future!
+# English for ⤵: Always welcome back in the future!
   accDeletedText: Je bent altijd welkom in de toekomst!
-# English for ↓: There are too few other users.
+# English for ⤵: There are too few other users.
   deletionReasonFewUsers: Er zijn te weinig andere gebruikers.
-# English for ↓: I don't feel comfortable with my pictures being on BeeDee.
+# English for ⤵: I don't feel comfortable with my pictures being on BeeDee.
   deletionReasonPictures: "Ik vind het vervelend dat mijn foto's op BeeDee staan."
-# English for ↓: I am not in the mind of dating right now.
+# English for ⤵: I am not in the mind of dating right now.
   deletionReasonNotDating: Ik ben op dit moment niet van plan om te daten.
-# English for ↓: I have found new relationship(s) and I am no longer looking for new partner(s).
+# English for ⤵: I have found new relationship(s) and I am no longer looking for new partner(s).
   deletionReasonNoLongerLooking: Ik heb een nieuwe relatie(s) gevonden en ben niet langer op zoek naar nieuwe partners.
-# English for ↓: Other
+# English for ⤵: Other
   otherReason: Ander
-# English for ↓: Have you tried widening your criteria? BeeDee is a young, quickly growing app, new people join every day!
+# English for ⤵: Have you tried widening your criteria? BeeDee is a young, quickly growing app, new people join every day!
   bulletPointFewUsers: Heb je geprobeerd je criteria te verbreden? BeeDee is een jonge, snelgroeiende app, er komen elke dag nieuwe mensen bij!
-# English for ↓: Did you know you're not required to have face pictures on BeeDee? You can replace your current pictures with anonymous ones, just stick to our community rules (no nudity, no catfishing, no commercial profiles)
+# English for ⤵: Did you know you're not required to have face pictures on BeeDee? You can replace your current pictures with anonymous ones, just stick to our community rules (no nudity, no catfishing, no commercial profiles)
   bulletPointPictures: "Wist je dat je niet verplicht bent om gezichtsfoto's te hebben op BeeDee? Je kunt je huidige foto's vervangen door anonieme foto's, houd je gewoon aan onze communityregels (geen naaktheid, geen catfishing, geen commerciële profielen)"
-# English for ↓: Did you know you can simply hide your profile and disable notifications? That way your profile will be here when you're ready to date again in the future.
+# English for ⤵: Did you know you can simply hide your profile and disable notifications? That way your profile will be here when you're ready to date again in the future.
   bulletPointNotDating: Wist je dat je je profiel eenvoudig kunt verbergen en meldingen kunt uitschakelen? Op die manier is je profiel hier wanneer je in de toekomst weer klaar bent om te daten.
-# English for ↓: We're happy you've found new relationship(s) and hope they're fulfilling! Always welcome back in the future 🙂.
+# English for ⤵: We're happy you've found new relationship(s) and hope they're fulfilling! Always welcome back in the future 🙂.
   bulletPointNoLongerLooking: We zijn blij dat je nieuwe relatie(s) hebt gevonden en hopen dat ze bevredigend zijn! Altijd welkom om in de toekomst terug te komen 🙂.
 
 profileVisibility:
-# English for ↓: Profile visibility
+# English for ⤵: Profile visibility
   headerTitle: Zichtbaarheid profiel
-# English for ↓: Hide your profile
+# English for ⤵: Hide your profile
   hideYourProfile: Verberg je profiel
-# English for ↓: Hiding profile
+# English for ⤵: Hiding profile
   modalTitle: Verborgen profiel
-# English for ↓: Are you sure you want to hide your profile?
+# English for ⤵: Are you sure you want to hide your profile?
   modalText: Weet je zeker dat je je profiel wilt verbergen?
-# English for ↓: If you want to continue chatting without getting new matches, you can hide your profile from new people here. You will be unable to look at new profiles while your own profile is hidden. You can change this at any time.
+# English for ⤵: If you want to continue chatting without getting new matches, you can hide your profile from new people here. You will be unable to look at new profiles while your own profile is hidden. You can change this at any time.
   instruction: Als je door wilt gaan met chatten zonder nieuwe matches te krijgen, kan je je profiel hier verbergen voor nieuwe mensen. Je kan niet naar nieuwe profielen kijken terwijl je eigen profiel verborgen is. Je kan dit op elk moment aanpassen.
   imageUploaded: Afbeelding succesvol geüpload
   imageUploadFailed: Kon afbeelding niet uploaden, probeer later opnieuw
 
 profileSafeSearch:
-# English for ↓: Safe search
+# English for ⤵: Safe search
   headerTitle: Safe search
-# English for ↓: While BeeDee does not allow explicit nudity, BeeDee does allow covered nudity some would consider "not safe for work". If you wish, you can let the app blur these pictures until you tap them. If you want to see all images immediately, you can disable this setting.
+# English for ⤵: While BeeDee does not allow explicit nudity, BeeDee does allow covered nudity some would consider "not safe for work". If you wish, you can let the app blur these pictures until you tap them. If you want to see all images immediately, you can disable this setting.
   instruction: "While BeeDee does not allow explicit nudity, BeeDee does allow covered nudity some would consider \"not safe for work\". If you wish, you can let the app blur these pictures until you tap them. If you want to see all images immediately, you can disable this setting."
-# English for ↓: Unblur this image
+# English for ⤵: Unblur this image
   modalTitle: Unblur this image
-# English for ↓: |
+# English for ⤵: |
 # Are you sure you want to unblur this image?
 # FYI: you can unblur all images by disabling 'safe search' in settings.
   modalDescription: |
     Are you sure you want to unblur this image?
     FYI: you can unblur all images by disabling 'safe search' in settings.
-# English for ↓: Tap to unblur this image
+# English for ⤵: Tap to unblur this image
   tapToUnblur: Tap to unblur this image
 
 notificationSetting:
-# English for ↓: Notifications
+# English for ⤵: Notifications
   headerTitle: Notificaties
-# English for ↓: Enable notifications
+# English for ⤵: Enable notifications
   hideYourProfile: Zet notificaties aan
-# English for ↓: If you want to continue using BeeDee without receiving notifications, you can turn off notifications for this device here. Please note you need to do this for every device. You can change this setting at any time.
+# English for ⤵: If you want to continue using BeeDee without receiving notifications, you can turn off notifications for this device here. Please note you need to do this for every device. You can change this setting at any time.
   instruction: Als je BeeDee wilt blijven gebruiken zonder notificaties te ontvangen, kan je hier notificaties voor dit apparaat uitschakelen. Merk op dat je dit voor elk apparaat moet doen. Je kan deze instelling op elk moment aanpassen.
-# English for ↓: BeeDee notifications aren't supported on this version of iOS/macOS. Please update iOS/macOS and enable notifications in Settings.
+# English for ⤵: BeeDee notifications aren't supported on this version of iOS/macOS. Please update iOS/macOS and enable notifications in Settings.
   notificationNotSupportDesc: "BeeDee notifications aren't supported on this version of iOS/macOS. Please update iOS/macOS and enable notifications in Settings."
-# English for ↓: wants to send you notifications.
+# English for ⤵: wants to send you notifications.
   notificationText: wants to send you notifications.
-# English for ↓: Notifications not supported.
+# English for ⤵: Notifications not supported.
   notificationNotSupprted: Notifications not supported.
 
 moreAboutYou:
-# English for ↓: Add
+# English for ⤵: Add
   add: Toevoegen
 
 thankYouModal:
-# English for ↓: Thank you!
+# English for ⤵: Thank you!
   thankYou: Dankjewel!
-# English for ↓: Your feedback is appreciated!
+# English for ⤵: Your feedback is appreciated!
   appreciation: Je feedback wordt gewaardeerd!
-# English for ↓: Unmatch
+# English for ⤵: Unmatch
   unmatch: Unmatch
 
 addBio:
-# English for ↓: Add a biography
+# English for ⤵: Add a biography
   addBiography: Voeg een biografie toe
-# English for ↓: |
+# English for ⤵: |
 # Tell us something about yourself. We recommend writing at least 3 full sentences.
 # 
 # Please note that advertising commercial services (e.g. OnlyFans) is not allowed.
@@ -460,155 +460,155 @@ addBio:
     Vertel ons iets over jezelf. We raden aan tenminste 3 volle zinnen te gebruiken. 
     
     Let op dat adverteren voor commerciële diensten (b.v. OnlyFans) niet is toegestaan.
-# English for ↓: Profile updated
+# English for ⤵: Profile updated
   profileUpdatedToast: Profiel opgeslaan
-# English for ↓: Please write a bio
+# English for ⤵: Please write a bio
   writeBioToast: Schrijf een biografie
-# English for ↓: Fill in your bio
+# English for ⤵: Fill in your bio
   fillBio: Fill in your bio
 
 outOfLikes:
-# English for ↓: You are out of free likes for today :-(
+# English for ⤵: You are out of free likes for today :-(
   titleLine1: "Je hebt geen gratis likes meer voor vandaag :-("
-# English for ↓: This encourages you to be selective, and keeps the system fun for everyone. But if you can't wait... premium includes unlimited likes. Just saying.
+# English for ⤵: This encourages you to be selective, and keeps the system fun for everyone. But if you can't wait... premium includes unlimited likes. Just saying.
   subtitle: Dit moedigt je aan om selectief te zijn, en houdt het systeem leuk voor iedereen. Maar als je niet kan wachten... premium bevat ongelimiteerde likes, just saying.
-# English for ↓: Explore premium
+# English for ⤵: Explore premium
   premiumButton: Ontdek premium
-# English for ↓: I will wait, take me back
+# English for ⤵: I will wait, take me back
   waitButton: Ik wacht wel, breng me terug
 
 messageRules:
-# English for ↓: Hurray, it's a match! You can chat below, but please adhere to our chat rules:
+# English for ⤵: Hurray, it's a match! You can chat below, but please adhere to our chat rules:
   headerMatch: Hoeraa, het is een match! Je kunt hieronder chatten, maar hou je alsjeblieft aan onze chatregels.
-# English for ↓: Respect for other members is a key value on BeeDee. Please adhere to the following rules:
+# English for ⤵: Respect for other members is a key value on BeeDee. Please adhere to the following rules:
   headerGeneral: "Respect voor andere leden is een sleutelwaarde op BeeDee. Hou je alsjeblieft aan de onderstaande regels:"
-# English for ↓: No is no.
+# English for ⤵: No is no.
   rule1_title: Nee is nee.
-# English for ↓: Are they not interested? Take it with grace and leave them alone. Never insult or harass a match!
+# English for ⤵: Are they not interested? Take it with grace and leave them alone. Never insult or harass a match!
   rule1_text: Is iemand niet geïnteresseerd? Accepteer het stijlvol en laat ze met rust. Beledig of intimideer nooit een match!
-# English for ↓: Always get consent.
+# English for ⤵: Always get consent.
   rule2_title: Vraag altijd toestemming.
-# English for ↓: Without it, don't send sexual pictures or scenarios, nor call them any pet names or order them around.
+# English for ⤵: Without it, don't send sexual pictures or scenarios, nor call them any pet names or order them around.
   rule2_text: "Stuur zonder toestemming geen seksuele afbeeldingen of scenario's, geef ze geen bijnamen en geen opdrachten."
-# English for ↓: Make connection.
+# English for ⤵: Make connection.
   rule3_title: Maak connectie.
-# English for ↓: This is not a sexting app. Get to know each other first. Don't ask for sex in the first few messages.
+# English for ⤵: This is not a sexting app. Get to know each other first. Don't ask for sex in the first few messages.
   rule3_text: "Dit is geen sexting-app. Leer elkaar eerst kennen. Vraag niet om seks in de eerste paar berichten."
-# English for ↓: If someone makes you feel uncomfortable, please remove the match and/or report the conversation.
+# English for ⤵: If someone makes you feel uncomfortable, please remove the match and/or report the conversation.
   footer: Als iemand je een ongemakkelijk gevoel geeft, verwijder dan de match en/of meld het gesprek.
-# English for ↓: Gotcha
+# English for ⤵: Gotcha
   closeRulesButtonText: Gotcha
 
 discoverInfoModal:
-# English for ↓: Your options after viewing a profile:
+# English for ⤵: Your options after viewing a profile:
   title: "Your options after viewing a profile:"
-# English for ↓: You can take three different actions after viewing a profile. From left to right:
+# English for ⤵: You can take three different actions after viewing a profile. From left to right:
   buttonsInfo: "You can take three different actions after viewing a profile. From left to right:"
-# English for ↓: the red cross: you don't want to connect to this person. You won't see their profile again. They won't be able to send you a message.
+# English for ⤵: the red cross: you don't want to connect to this person. You won't see their profile again. They won't be able to send you a message.
   dislikeButton: "the red cross: you don't want to connect to this person. You won't see their profile again. They won't be able to send you a message."
-# English for ↓: the grey clock: "skip" this profile. You will see this profile again tomorrow, if they still meet your criteria then
+# English for ⤵: the grey clock: "skip" this profile. You will see this profile again tomorrow, if they still meet your criteria then
   skipButton: "the grey clock: \"skip\" this profile. You will see this profile again tomorrow, if they still meet your criteria then"
-# English for ↓: the multi-colored heart with a whip: you are super interested in this person and want to skip the queue
+# English for ⤵: the multi-colored heart with a whip: you are super interested in this person and want to skip the queue
   whipButton: "the multi-colored heart with a whip: you are super interested in this person and want to skip the queue"
-# English for ↓: the green heart: you are interested in connecting with this person.
+# English for ⤵: the green heart: you are interested in connecting with this person.
   likeButton: "the green heart: you are interested in connecting with this person."
-# English for ↓: If you select option 3 or 4 AND they do the same on your profile, you'll have a match! You'll be able to chat to this person when this happens.
+# English for ⤵: If you select option 3 or 4 AND they do the same on your profile, you'll have a match! You'll be able to chat to this person when this happens.
   footer: "If you select option 3 or 4 AND they do the same on your profile, you'll have a match! You'll be able to chat to this person when this happens."
 
 chatFooterComp:
-# English for ↓: Enter message
+# English for ⤵: Enter message
   inputPlaceholder: Voer bericht in
 
 menuPopUp:
-# English for ↓: View profile
+# English for ⤵: View profile
   profile: Bekijk profiel
-# English for ↓: Unmatch & delete
+# English for ⤵: Unmatch & delete
   unmatch: Unmatch & delete
-# English for ↓: Report
+# English for ⤵: Report
   report: Rapporteer
 
 seeWhoLikedYou:
-# English for ↓: Your likes
+# English for ⤵: Your likes
   title: Your likes
-# English for ↓: They liked you
+# English for ⤵: They liked you
   theyLikedYou: They liked you
-# English for ↓: You liked them
+# English for ⤵: You liked them
   youLikedThem: You liked them
-# English for ↓: Compatible
+# English for ⤵: Compatible
   compatible: Compatible
-# English for ↓: Premium BeeDee users can see who sent them a like here
+# English for ⤵: Premium BeeDee users can see who sent them a like here
   notPremium: Premium BeeDee users can see who sent them a like here
-# English for ↓: See who liked you
+# English for ⤵: See who liked you
   upgradeButton: See who liked you
-# English for ↓: You don't have any outstanding likes
+# English for ⤵: You don't have any outstanding likes
   nonLikedYou: "You don't have any outstanding likes"
-# English for ↓: You did not send any unresponsed likes in the past 7 days
+# English for ⤵: You did not send any unresponsed likes in the past 7 days
   nonYouLiked: You did not send any unresponsed likes in the past 7 days
-# English for ↓: You can see the likes you sent in the past 7 days here, so you can upgrade them to a Whip if you want to
+# English for ⤵: You can see the likes you sent in the past 7 days here, so you can upgrade them to a Whip if you want to
   youLikedInfo: You can see the likes you sent in the past 7 days here, so you can upgrade them to a Whip if you want to
 
 chat:
-# English for ↓: Conversations
+# English for ⤵: Conversations
   conversations: Conversaties
-# English for ↓: No user found
+# English for ⤵: No user found
   noUserFound: Geen gebruiker gevonden
-# English for ↓: Recent chats
+# English for ⤵: Recent chats
   recentChat: Recente chats
-# English for ↓: No matches yet
+# English for ⤵: No matches yet
   noMatch: Nog geen matches
-# English for ↓: You currently don't have any matches
+# English for ⤵: You currently don't have any matches
   creditTitle: Je hebt op dit moment geen matches
-# English for ↓: Get swiping to find some!
+# English for ⤵: Get swiping to find some!
   creditSubtitle: Begin met swipen om er een paar te vinden!
-# English for ↓: Find matches
+# English for ⤵: Find matches
   findButton: Vind matches
-# English for ↓: Text copied to clipboard
+# English for ⤵: Text copied to clipboard
   textCopied: Tekst gekopieerd naar klembord
-# English for ↓: Please follow our 
+# English for ⤵: Please follow our 
   chatRuleLinkText1: "Volg alsjeblieft onze "
-# English for ↓: Message Rules
+# English for ⤵: Message Rules
   chatRuleLinkText2: Berichten Regels
-# English for ↓:  at all times
+# English for ⤵:  at all times
   chatRuleLinkText3: " te allen tijde"
-# English for ↓: All
+# English for ⤵: All
   all: Alle
-# English for ↓: Partners
+# English for ⤵: Partners
   partners: Partners
-# English for ↓: Friendship
+# English for ⤵: Friendship
   friendship: Vriendschap
-# English for ↓: Loading your conversations...
+# English for ⤵: Loading your conversations...
   loadingConversations: Conversaties aan het bijwerken...
 
 matchedChatComp:
-# English for ↓: No matches
+# English for ⤵: No matches
   noMatchUserFound: Geen matches
 
 prompts:
-# English for ↓: Edit prompt
+# English for ⤵: Edit prompt
   editPrompt: Wijzig vraag
-# English for ↓: Choose a prompt from the list
+# English for ⤵: Choose a prompt from the list
   choosePrompt: Kies een vraag uit de lijst
-# English for ↓: Add a fun answer here...
+# English for ⤵: Add a fun answer here...
   inputPlaceholder: Voeg hier een leuk antwoord toe...
-# English for ↓: Profile updated
+# English for ⤵: Profile updated
   profileUpdatedToast: Profiel opgeslagen
-# English for ↓: Please select the prompt.
+# English for ⤵: Please select the prompt.
   selectPromptToast: Selecteer een vraag.
-# English for ↓: Please add your answer.
+# English for ⤵: Please add your answer.
   addYourAnswerToast: Voeg een antwoord toe.
-# English for ↓: You already have three prompts
+# English for ⤵: You already have three prompts
   threePromptToast: Je hebt reeds drie vragen geselecteerd
 
 creditTextData:
-# English for ↓: You've swiped everyone!
+# English for ⤵: You've swiped everyone!
   noProfileText1: Je hebt iedereen gezien!
-# English for ↓: (well... within your search criteria)
+# English for ⤵: (well... within your search criteria)
   noProfileText2: (nou ja… binnen je zoekcriteria)
-# English for ↓: You can wait for more people within your search criteria to join, or pick one of the following:
+# English for ⤵: You can wait for more people within your search criteria to join, or pick one of the following:
   noProfileText3: "Je kunt wachten tot er meer mensen binnen je zoekcriteria meedoen, of een van de volgende opties kiezen:"
-# English for ↓: We're enabling Discover region by region, to ensure we can offer you a safe and rewarding matching experience.
+# English for ⤵: We're enabling Discover region by region, to ensure we can offer you a safe and rewarding matching experience.
   notLiveText1: "We maken 'Ontdekken' regio voor regio mogelijk, zodat we je een veilige en nuttige matchingervaring kunnen bieden."
-# English for ↓: |
+# English for ⤵: |
 # Please keep BeeDee on your device, and make sure notifications are turned on.
 # 
 # That way you'll be the first to know when we turn on Discover in your region.
@@ -618,511 +618,511 @@ creditTextData:
     Zo ben je als eerste op de hoogte wanneer we Discover in jouw regio inschakelen.
 
 partnerDiscover:
-# English for ↓: Discover profiles
+# English for ⤵: Discover profiles
   title: Ontdek profielen
-# English for ↓: Discover partners
+# English for ⤵: Discover partners
   devTitle: Ontdek partners
-# English for ↓: Discover Friends
+# English for ⤵: Discover Friends
   titleFriends: Ontdek Vrienden
-# English for ↓: Out of free likes
+# English for ⤵: Out of free likes
   outOfLikes: Je hebt geen gratis likes meer
-# English for ↓: No other potential matches in
+# English for ⤵: No other potential matches in
   creditTitle: Geen andere potentiële matches in
-# English for ↓: your area are available right now
+# English for ⤵: your area are available right now
   creditSubtitle: je gebied zijn nu beschikbaar
-# English for ↓: Please broaden your preferences or
+# English for ⤵: Please broaden your preferences or
   creditSmallTitle: Verbreed je voorkeuren of
-# English for ↓: check back tomorrow
+# English for ⤵: check back tomorrow
   creditSmallSubtitle: kijk morgen nog eens
-# English for ↓: Broaden your distance/age range
+# English for ⤵: Broaden your distance/age range
   creditButtonText: Vergroot je afstand/leeftijdsbereik
-# English for ↓: Reconsider profiles you've disliked
+# English for ⤵: Reconsider profiles you've disliked
   clearDislike: Heroverweeg profielen die je niet leuk vond
-# English for ↓: Something went wrong, please try again in a few minutes
+# English for ⤵: Something went wrong, please try again in a few minutes
   wrong: Er is iets misgegaan, probeer het alsjeblieft over een paar minuten nog een keer
-# English for ↓: Failed to load profiles.
+# English for ⤵: Failed to load profiles.
   failedToLoadProfile: Profielen laden mislukt.
-# English for ↓: Please try again in a minute.
+# English for ⤵: Please try again in a minute.
   tryAgain: Probeer het alsjeblieft over een minuut nog een keer.
-# English for ↓: Load Profiles
+# English for ⤵: Load Profiles
   loadProfiles: Laad profielen
-# English for ↓: Your area will be enabled soon
+# English for ⤵: Your area will be enabled soon
   notLiveTitle: Jouw gebied wordt snel beschikbaar
-# English for ↓: Please check back later.
+# English for ⤵: Please check back later.
   notLiveSubtitle: Kom alsjeblieft later terug.
-# English for ↓: You can't view profiles while hidden
+# English for ⤵: You can't view profiles while hidden
   profileHiddenTitle: Je kunt geen profielen zien als je onzichtbaar bent
-# English for ↓: Please change your profile visibility if you want to discover profiles
+# English for ⤵: Please change your profile visibility if you want to discover profiles
   profileHiddenSubtitle: Wijzig de zichtbaarheid van je profiel als je profielen wilt ontdekken
-# English for ↓: Go to Settings
+# English for ⤵: Go to Settings
   buttonTextUnhide: Ga naar instellingen
-# English for ↓: We failed to check where you are
+# English for ⤵: We failed to check where you are
   enableToGetLocationTitle: Het controleren van je locatie is mislukt
-# English for ↓: Please enable location access for BeeDee
+# English for ⤵: Please enable location access for BeeDee
   enableToGetLocationSubtitle: Zet alsjeblieft je locatie aan voor BeeDee
-# English for ↓: Enable Location
+# English for ⤵: Enable Location
   enableLocation: Zet locatie aan
-# English for ↓: Please wait a moment while we look for the most compatible profiles in your area.
+# English for ⤵: Please wait a moment while we look for the most compatible profiles in your area.
   discoverLoading: Wacht even terwijl we zoeken naar de meest overeenstemmende profielen in jouw omgeving.
-# English for ↓: What sparks your interest in this person?
+# English for ⤵: What sparks your interest in this person?
   modalPlaceHolder: Wat wekt je interesse in deze persoon?
-# English for ↓: Send Whip
+# English for ⤵: Send Whip
   modalMsgTitle: Stuur Whip
-# English for ↓: Optionally: add a message to your Whip.
+# English for ⤵: Optionally: add a message to your Whip.
   modalMsgDescription: "Optioneel: voeg een bericht toe aan je Whip."
-# English for ↓: Please adhere to our 
+# English for ⤵: Please adhere to our 
   modalMsgDescription1: "Hou je alsjeblieft aan onze "
-# English for ↓: Message Rules
+# English for ⤵: Message Rules
   modalMsgDescription2: Berichten Regels
-# English for ↓: .
+# English for ⤵: .
   modalMsgDescription3: .
-# English for ↓: Send
+# English for ⤵: Send
   modalYes: Verzenden
-# English for ↓: Cancel
+# English for ⤵: Cancel
   modalNo: Annuleren
-# English for ↓: Try again
+# English for ⤵: Try again
   tryAgainButton: Probeer nog een keer
-# English for ↓: Add more pictures
+# English for ⤵: Add more pictures
   addPhotosTitle: "Voeg meer foto's toe"
-# English for ↓: Edit Profile
+# English for ⤵: Edit Profile
   editProfile: Wijzig profiel
-# English for ↓: |
+# English for ⤵: |
 # Please change 'Profile visibility' under Settings 
 #  if you want to discover profiles
   profileHiddenSubtitle2: |
     Please change 'Profile visibility' under Settings 
      if you want to discover profiles
-# English for ↓: Learn How
+# English for ⤵: Learn How
   learnHow: Learn How
-# English for ↓: Location permission is disabled. Please enable it from browser settings. Click on 'Learn How'.
+# English for ⤵: Location permission is disabled. Please enable it from browser settings. Click on 'Learn How'.
   locationDisabled: "Location permission is disabled. Please enable it from browser settings. Click on 'Learn How'."
 
 Preferences:
-# English for ↓: Discovery preferences
+# English for ⤵: Discovery preferences
   title: Ontdekkingsvoorkeuren
-# English for ↓: Partner preferences
+# English for ⤵: Partner preferences
   devTitle: Partnervoorkeuren
-# English for ↓: Friendship preferences
+# English for ⤵: Friendship preferences
   titleFriendship: Vriendschapsvoorkeuren
-# English for ↓: Please select at least one gender you are open to
+# English for ⤵: Please select at least one gender you are open to
   errorMsg: Selecteer ten minste één geslacht waarvoor je openstaat
-# English for ↓: Age range
+# English for ⤵: Age range
   ageRange: Leeftijdscategorie
-# English for ↓: Maximum distance
+# English for ⤵: Maximum distance
   maximumMiles: Maximale afstand
-# English for ↓: Open to meeting people of these genders:
+# English for ⤵: Open to meeting people of these genders:
   openToMeeting: "Open voor het ontmoeten van mensen van deze geslachten:"
-# English for ↓: Please select at least one item
+# English for ⤵: Please select at least one item
   selectOneItemToast: Selecteer minstens één optie
 
 bdsmUpdate:
-# English for ↓: Link your BDSMTest results
+# English for ⤵: Link your BDSMTest results
   headerTitle: Verbind je BDSMTest resultaten
-# English for ↓: Paste the link to your result here:
+# English for ⤵: Paste the link to your result here:
   pasteLink: "Plak de link naar je resultaten hier:"
-# English for ↓: Enter your BDSMTest result ID here:
+# English for ⤵: Enter your BDSMTest result ID here:
   pasteId: "Voer hier je BDSMTest resultaat ID in:"
-# English for ↓: You find this ID on any results screenshot
+# English for ⤵: You find this ID on any results screenshot
   whereToFindId: Je vindt dit ID op elk resultaat
-# English for ↓: Click to login to bdsmtest.org
+# English for ⤵: Click to login to bdsmtest.org
   clickUrl: Klik hier om in te loggen op bdsmtest.org
-# English for ↓: Select a result from your BDSMTest account:
+# English for ⤵: Select a result from your BDSMTest account:
   searchResult: "Selecteer een resultaat van je BDSMTest account:"
-# English for ↓: That is not the format of a result ID
+# English for ⤵: That is not the format of a result ID
   invalidId: Dit is niet het formaat van een resultaat IDa
-# English for ↓: Link should start with https://bdsmtest.org/r/
+# English for ⤵: Link should start with https://bdsmtest.org/r/
   invalidLink: "Link moet starten met https://bdsmtest.org/r/"
-# English for ↓: BDSMTest results added successfully!
+# English for ⤵: BDSMTest results added successfully!
   resultsAdded: BDSMTest resultaat succesvol toegevoegd
-# English for ↓: We could not find BDSMTest result 
+# English for ⤵: We could not find BDSMTest result 
   resultNotFoundPrefix: "We konden dit BDSMTest resultaat niet vinden: "
-# English for ↓: . Please try another url.
+# English for ⤵: . Please try another url.
   resultNotFoundSuffix: . Probeer een andere url.
-# English for ↓: Failed to contact the BDSMTest server. Please check your internet connection or try again later.
+# English for ⤵: Failed to contact the BDSMTest server. Please check your internet connection or try again later.
   serverContactFailed: Kon de BDSMTest server niet bereiken. Controleer je internet verbinding of probeer het later opnieuw.
-# English for ↓: Failed to update your BDSMTest results, please try again later.
+# English for ⤵: Failed to update your BDSMTest results, please try again later.
   updateFailed: Kon je BDSMTest resultaten niet bijwerken, probeer het later opnieuw.
 
 report:
-# English for ↓: Report this person
+# English for ⤵: Report this person
   headerTitle: Rapporteer deze persoon
-# English for ↓: Don't worry, your feedback is anonymous and they won't know that you've reported them.
+# English for ⤵: Don't worry, your feedback is anonymous and they won't know that you've reported them.
   info: Geen zorgen, je feedback is anoniem en zij weten niet dat je hen hebt gerapporteerd.
-# English for ↓: Report
+# English for ⤵: Report
   buttonText: Rapporteer en blokkeer
-# English for ↓: Extra info
+# English for ⤵: Extra info
   extraInfo: Extra info
-# English for ↓: Please select a reason to continue
+# English for ⤵: Please select a reason to continue
   pleaseSelectValue: Selecteer een reden om verder te gaan alsjeblieft
-# English for ↓: Please enter some extra info
+# English for ⤵: Please enter some extra info
   pleaseAddMotivation: Voer alsjeblieft meer informatie in
-# English for ↓: Technical error, please try again
+# English for ⤵: Technical error, please try again
   reportingFailed: Technische fout, probeer opnieuw
 
 unsubscribe:
-# English for ↓: PREMIUM
+# English for ⤵: PREMIUM
   headerTitle: PREMIUM
-# English for ↓: You are a PREMIUM BeeDee User!
+# English for ⤵: You are a PREMIUM BeeDee User!
   premiumUser: Je bent een PREMIUM BeeDee Gebruiker!
-# English for ↓: So sad... are you sure?
+# English for ⤵: So sad... are you sure?
   modalTitle: Zo jammer… weet je het zeker?
-# English for ↓: You will lose all of your PREMIUM features
+# English for ⤵: You will lose all of your PREMIUM features
   modalText: Je zal al je PREMIUM functies verliezen
-# English for ↓: Unsubscribe
+# English for ⤵: Unsubscribe
   modalButtonText: Uitschrijven
-# English for ↓: To unsubscribe, please visit the app store where you bought BeeDee Premium and cancel your subscription there
+# English for ⤵: To unsubscribe, please visit the app store where you bought BeeDee Premium and cancel your subscription there
   instructionToUnsubscribe: Om uit te schrijven, bezoek de app store waar je BeeDee Premium hebt gekocht en annuleer je inschrijving daar.
-# English for ↓: To cancel your subscription, go to the
+# English for ⤵: To cancel your subscription, go to the
   instructionToUnsubscribe2: Om je abonnement te annuleren,, ga naar de
-# English for ↓: Play Store
+# English for ⤵: Play Store
   playStore: Play Store
-# English for ↓: App Store
+# English for ⤵: App Store
   appStore: App Store
-# English for ↓: You are currently subscribed to a BeeDee premium membership subscription. If you really want to cancel this subscription, you can do so here.
+# English for ⤵: You are currently subscribed to a BeeDee premium membership subscription. If you really want to cancel this subscription, you can do so here.
   instructionToUnsubscribeWeb: You are currently subscribed to a BeeDee premium membership subscription. If you really want to cancel this subscription, you can do so here.
-# English for ↓: Cancel subscription
+# English for ⤵: Cancel subscription
   cancelSubscribe: Cancel subscription
-# English for ↓: |
+# English for ⤵: |
 # Are you sure you want to cancel your subscription?
 # You'll need to wait for your membership to expire before you'll be able to subscribe again.
   cancelSubscribeText: |
     Are you sure you want to cancel your subscription?
     You'll need to wait for your membership to expire before you'll be able to subscribe again.
-# English for ↓: You are currently a Premium BeeDee user, but your subscription to this has been cancelled. If you want to become premium again after your current membership lapses, you can come back here to subscribe to BeeDee premium again
+# English for ⤵: You are currently a Premium BeeDee user, but your subscription to this has been cancelled. If you want to become premium again after your current membership lapses, you can come back here to subscribe to BeeDee premium again
   subscriptionCancelled: You are currently a Premium BeeDee user, but your subscription to this has been cancelled. If you want to become premium again after your current membership lapses, you can come back here to subscribe to BeeDee premium again
 
 editProfile:
-# English for ↓: Edit your profile
+# English for ⤵: Edit your profile
   headerTitle: Wijzig je profiel
-# English for ↓: Your photos
+# English for ⤵: Your photos
   yourPhotos: "Jouw foto's"
-# English for ↓: Upload at least two pictures that represent you. Our recommendation: 1 face picture, 1 picture that shows your body and 1 that shows you in a social setting or doing a hobby. Nudity and advertising aren't allowed.
+# English for ⤵: Upload at least two pictures that represent you. Our recommendation: 1 face picture, 1 picture that shows your body and 1 that shows you in a social setting or doing a hobby. Nudity and advertising aren't allowed.
   photosInfo: "Upload ten minste twee foto's die jou representeren. Onze aanbeveling: 1 foto van je gezicht, 1 foto dat je lichaam laat zien en 1 foto in een sociale setting of terwijl je een hobby uitvoert. Naaktheid en adverteren zijn niet toegestaan."
-# English for ↓: Your bio
+# English for ⤵: Your bio
   yourBio: Jouw bio
-# English for ↓: Adding more information about yourself will lead to more and better matches, but we'd understand if you wanted to keep some mystery and anonymity. Being vague and mysterious is allowed, claiming to be someone else or commercial activities aren't.
+# English for ⤵: Adding more information about yourself will lead to more and better matches, but we'd understand if you wanted to keep some mystery and anonymity. Being vague and mysterious is allowed, claiming to be someone else or commercial activities aren't.
   bioInfo: Door meer informatie over jezelf toe te voegen, krijg je meer en betere matches, maar we begrijpen het als je wat mysterie en anonimiteit wilt behouden. Vaag en mysterieus zijn is toegestaan, doen alsof je iemand anders bent of commerciële activiteiten zijn niet toegestaan.
-# English for ↓: Write a fun & punchy intro. Note: longer bios contribute more to completion %.
+# English for ⤵: Write a fun & punchy intro. Note: longer bios contribute more to completion %.
   profileSubtitle: "Schrijf een leuke en krachtige intro. Let op: langere bio's dragen meer bij aan de voltooiings-%."
-# English for ↓: Edit
+# English for ⤵: Edit
   profileButton: Wijzig
-# English for ↓: Not added yet
+# English for ⤵: Not added yet
   notAddedYet: Nog niet toegevoegd
-# English for ↓: Profile prompts
+# English for ⤵: Profile prompts
   profilePrompt: Profielvragen
-# English for ↓: Make your personality stand out by answering up to three of these prompts:
+# English for ⤵: Make your personality stand out by answering up to three of these prompts:
   promptSubtitle: "Laat je persoonlijkheid opvallen door deze vragen te beantwoorden:"
-# English for ↓: Partners
+# English for ⤵: Partners
   partnerTitle: Partners
-# English for ↓: Manage your partners
+# English for ⤵: Manage your partners
   partnerSubTitle: Beheer je partners
-# English for ↓: Manage
+# English for ⤵: Manage
   manage: Beheren
-# English for ↓: More about you
+# English for ⤵: More about you
   moreAboutYou: Meer over jou
-# English for ↓: People are curious about your
+# English for ⤵: People are curious about your
   aboutSubtitle: Mensen zijn nieuwsgierig naar jouw…
-# English for ↓: Your gender
+# English for ⤵: Your gender
   yourGender: Jouw gender
-# English for ↓: Add another prompt
+# English for ⤵: Add another prompt
   addAnotherPrompt: Voeg nog een vraag toe
-# English for ↓: No prompts chosen yet. Tap to add
+# English for ⤵: No prompts chosen yet. Tap to add
   noPromptsYet: Nog geen vraag gekozen. Tik om toe te voegen
-# English for ↓: Looking for
+# English for ⤵: Looking for
   lookingFor: Op zoek naar
-# English for ↓: Are you looking for friends, a partner, or both? And which types of friendship/relationships interest you?
+# English for ⤵: Are you looking for friends, a partner, or both? And which types of friendship/relationships interest you?
   lookingForSubtitle: Ben je op zoek naar vrienden, een partner of beide? En in welk type vriendschap/relatie ben je geïnteresseerd?
-# English for ↓: Delete prompt
+# English for ⤵: Delete prompt
   deletePrompt: Delete prompt
-# English for ↓: Are you sure you want to delete this prompt?
+# English for ⤵: Are you sure you want to delete this prompt?
   deletePromptConfirmation: Are you sure you want to delete this prompt?
-# English for ↓: Delete picture
+# English for ⤵: Delete picture
   deletePhoto: Delete picture
-# English for ↓: Are you sure you want to delete this picture?
+# English for ⤵: Are you sure you want to delete this picture?
   deletePhotoConfirmation: Are you sure you want to delete this picture?
-# English for ↓: Rear camera not available or permission denied.
+# English for ⤵: Rear camera not available or permission denied.
   cameraNotAvailable: Rear camera not available or permission denied.
-# English for ↓: Link partner
+# English for ⤵: Link partner
   linkPartner: Link partner
-# English for ↓: Link
+# English for ⤵: Link
   link: Link
 
 myPartners:
-# English for ↓: Manage your partners
+# English for ⤵: Manage your partners
   headerTitle: Beheer je partners
-# English for ↓: Add a Partner
+# English for ⤵: Add a Partner
   addButton: Voeg een partner toe
-# English for ↓: Are you sure?
+# English for ⤵: Are you sure?
   modalTitle: Weet je het zeker?
-# English for ↓: This will remove this partner, you can always add them back later
+# English for ⤵: This will remove this partner, you can always add them back later
   modalDes: Dit zal een partner verwijderen, je kunt hen altijd later weer toevoegen.
-# English for ↓: Add partner(s) to show them here
+# English for ⤵: Add partner(s) to show them here
   noPartners: Voeg een partner toe om hier te laten zien
-# English for ↓: You are currently not listed as anyone's partner
+# English for ⤵: You are currently not listed as anyone's partner
   noPartnersListed: Je bent op dit moment niet geregistreerd als iemands partner
-# English for ↓: Not linked yet
+# English for ⤵: Not linked yet
   unknownPartner: Nog niet gekoppeld
-# English for ↓: Your partners:
+# English for ⤵: Your partners:
   partnersYouListed: "Jouw partners:"
-# English for ↓: You are mentioned by:
+# English for ⤵: You are mentioned by:
   partnersNotYouListed: "Je bent genoemd door:"
-# English for ↓: You are 
+# English for ⤵: You are 
   youAre: "Jij bent "
-# English for ↓:  you
+# English for ⤵:  you
   ofYou: " jou"
-# English for ↓: Pending
+# English for ⤵: Pending
   pending: behandeling
-# English for ↓: Not on BeeDee
+# English for ⤵: Not on BeeDee
   notOnBeeDee: Niet op BeeDee
-# English for ↓: Link with your partner
+# English for ⤵: Link with your partner
   linkYourPartner: Link with your partner
-# English for ↓: Paste the partner ID below to link with your partner.
+# English for ⤵: Paste the partner ID below to link with your partner.
   linkPartnerText: Paste the partner ID below to link with your partner.
-# English for ↓: Partner ID or link
+# English for ⤵: Partner ID or link
   invitationCode: Partner ID or link
 
 addPartner:
-# English for ↓: Add a Partner
+# English for ⤵: Add a Partner
   headerTitle: Voeg een partner toe
-# English for ↓: Confirm
+# English for ⤵: Confirm
   confirm: Bevestig
-# English for ↓: Your partner is:
+# English for ⤵: Your partner is:
   choosePartner: "Je partner is:"
-# English for ↓: Someone on BeeDee
+# English for ⤵: Someone on BeeDee
   option1: iemand op BeeDee
-# English for ↓: Someone not on BeeDee
+# English for ⤵: Someone not on BeeDee
   option2: niet iemand op BeeDee
-# English for ↓: Their name
+# English for ⤵: Their name
   firstName: Hun naam
-# English for ↓: You are ...
+# English for ⤵: You are ...
   partnerRole: Jij bent ...
-# English for ↓: Choose from the list
+# English for ⤵: Choose from the list
   chooseRole: Kies uit de lijst
-# English for ↓: Success!
+# English for ⤵: Success!
   success: Gelukt!
-# English for ↓: A new partner has been added!
+# English for ⤵: A new partner has been added!
   partnerAdded: Een nieuwe partner is toegevoegd!!
-# English for ↓: Please enter a name for your partner
+# English for ⤵: Please enter a name for your partner
   nameError: Voer een naam voor je partner in
-# English for ↓: Please select the relationship type
+# English for ⤵: Please select the relationship type
   roleError: Selecteer het type relatie
 
 shareLink:
-# English for ↓: Share partnership link
+# English for ⤵: Share partnership link
   headerTitle: Partnerschapslink delen
-# English for ↓: Share this link with your partner
+# English for ⤵: Share this link with your partner
   yourLink: Deel deze link met je partner
-# English for ↓: |
+# English for ⤵: |
 # Or let your partner scan
 # this QR code:
   description: |
     Of laat je partner deze
      QR code scannen:
-# English for ↓: Link copied to your clipboard
+# English for ⤵: Link copied to your clipboard
   copy: De link is gekopieerd naar je klembord
 
 settings:
-# English for ↓: Settings
+# English for ⤵: Settings
   headerTitle: Instellingen
-# English for ↓: Profile visibility
+# English for ⤵: Profile visibility
   profileVisibility: Zichtbaarheid profiel
-# English for ↓: Notifications
+# English for ⤵: Notifications
   notification: Notificaties
-# English for ↓: Language
+# English for ⤵: Language
   language: Taal
-# English for ↓: Units
+# English for ⤵: Units
   units: Lengtematen
-# English for ↓: Email address
+# English for ⤵: Email address
   email: "E-mailadres"
-# English for ↓: Update email address
+# English for ⤵: Update email address
   updateEmail: "Update e-mailadres"
-# English for ↓: Show me for
+# English for ⤵: Show me for
   Relation: Toon mij voor
-# English for ↓: Phone number
+# English for ⤵: Phone number
   phoneNumber: Telefoonnummer
-# English for ↓: Contact BeeDee
+# English for ⤵: Contact BeeDee
   contactBeedee: Neem contact op met BeeDee
-# English for ↓: Tips for success
+# English for ⤵: Tips for success
   tipsForSuccess: Tips voor succes
-# English for ↓: FAQ's
+# English for ⤵: FAQ's
   faqInnerTitle: "FAQ's"
-# English for ↓: Frequently Asked Questions
+# English for ⤵: Frequently Asked Questions
   faq: Vaak gestelde vragen
-# English for ↓: Delete account
+# English for ⤵: Delete account
   deleteAccount: Verwijder account
-# English for ↓: Are you sure you want to log out?
+# English for ⤵: Are you sure you want to log out?
   logoutConfirmation: Weet je zeker dat je wilt uitloggen?
-# English for ↓: Logout
+# English for ⤵: Logout
   logout: Log uit
-# English for ↓: Visible
+# English for ⤵: Visible
   visible: Zichtbaar
-# English for ↓: Safe search
+# English for ⤵: Safe search
   safeSearch: Safe search
-# English for ↓: Hidden
+# English for ⤵: Hidden
   hidden: Verborgen
-# English for ↓: Enabled
+# English for ⤵: Enabled
   enabled: Ingeschakeld
-# English for ↓: Disabled
+# English for ⤵: Disabled
   disabled: Uitgeschakeld
-# English for ↓: Everything
+# English for ⤵: Everything
   everything: Alles
-# English for ↓: Nothing
+# English for ⤵: Nothing
   nothing: Niets
-# English for ↓: Failed to load frequently asked questions, please try again
+# English for ⤵: Failed to load frequently asked questions, please try again
   errorMsg: Het laden van de FAQs is mislukt, probeer later opnieuw
-# English for ↓: Failed to load tips for success, please try again
+# English for ⤵: Failed to load tips for success, please try again
   tipsErrorMsgToast: Het laden van de tips voor success is mislukt, probeer later opnieuw
-# English for ↓: Contact the helpdesk if your phone number has changed
+# English for ⤵: Contact the helpdesk if your phone number has changed
   phoneCannotChanged: Contacteer de helpdesk als je teloonnummer veranderd is
 
 homeComp:
-# English for ↓: BDSMTest Compatibility: 
+# English for ⤵: BDSMTest Compatibility: 
   compatible: "BDSMTest Overeenstemming: "
-# English for ↓: BDSMTest Similarity: 
+# English for ⤵: BDSMTest Similarity: 
   similar: "BDSMTest Gelijkenis: "
-# English for ↓: Offered you a Whip
+# English for ⤵: Offered you a Whip
   sentWhip: Heeft je een Whip gestuurd
-# English for ↓: away
+# English for ⤵: away
   away: van jou
-# English for ↓: They've sent you this message with the Whip:
+# English for ⤵: They've sent you this message with the Whip:
   superlikeMsgTitle: "Het bericht met de Whip is gestuurd.:"
 
 preference:
-# English for ↓: Preferences
+# English for ⤵: Preferences
   preferences: Voorkeuren
-# English for ↓: Age range
+# English for ⤵: Age range
   ageRange: "Leeftijd van - tot"
-# English for ↓: Maximum distance
+# English for ⤵: Maximum distance
   maxDistance: Maximum afstand
-# English for ↓: Open to meeting people of these genders:
+# English for ⤵: Open to meeting people of these genders:
   openToMeeting: "Open tot ontmoeten van mensen met deze genders:"
-# English for ↓: See profiles from anywhere
+# English for ⤵: See profiles from anywhere
   matchAnywhere: Zie profielen van overal
-# English for ↓: Update
+# English for ⤵: Update
   update: Update
-# English for ↓: Preferences updated
+# English for ⤵: Preferences updated
   PreferencesUpdatedToast: Voorkeuren opgeslaan
 
 signupWithPhone:
-# English for ↓: Welcome to BeeDee!
+# English for ⤵: Welcome to BeeDee!
   welcomeMsg: Welkom bij BeeDee!
-# English for ↓: Log in or sign up with your phone number:
+# English for ⤵: Log in or sign up with your phone number:
   subTitle: "Log in of meld je aan met je telefoonnummer:"
-# English for ↓: |
+# English for ⤵: |
 # We only use this for authentication purposes.
 # Your number will never be visible to other users.
   whyWeNeedThis: |
     Wij gebruiken dit alleen voor authenticatiedoeleinden.
     Jouw nummer zal nooit zichtbaar zijn voor andere gebruikers.
-# English for ↓: I agree to the 
+# English for ⤵: I agree to the 
   privacyText1: "Ik ga akkoord met de "
-# English for ↓:  and 
+# English for ⤵:  and 
   privacyText2: " en "
-# English for ↓: Terms, Conditions
+# English for ⤵: Terms, Conditions
   tncText: Algemene Voorwaarden
-# English for ↓: Privacy policy
+# English for ⤵: Privacy policy
   privacyText: het privacy beleid
-# English for ↓: Continue
+# English for ⤵: Continue
   continue: Doorgaan
-# English for ↓: Enter country name or country code
+# English for ⤵: Enter country name or country code
   countrySearchPlaceholder: Voer landnaam of landcode in
-# English for ↓: Something went wrong, please try again
+# English for ⤵: Something went wrong, please try again
   registerError: Er is iets misgegaan, probeer het nog een keer
-# English for ↓: Failed to log in, please try again
+# English for ⤵: Failed to log in, please try again
   loginError: Inloggen mislukt, probeer het nog een keer
-# English for ↓: You need to accept the Terms & Conditions
+# English for ⤵: You need to accept the Terms & Conditions
   errorMsgAcceptTerms: Je moet de Algemene Voorwaarden accepteren
-# English for ↓: Please consent to being contacted with the login code
+# English for ⤵: Please consent to being contacted with the login code
   errorConsent: Geef toestemming om een bericht te krijgen met de inlogcode
-# English for ↓: I consent to receiving a login code by SMS or email. I understand I may opt out of receiving login codes at any time by replying "STOP" to the SMS or by using the unsubscribe link in the email.
+# English for ⤵: I consent to receiving a login code by SMS or email. I understand I may opt out of receiving login codes at any time by replying "STOP" to the SMS or by using the unsubscribe link in the email.
   consent: "Ik ga akkoord met het ontvangen van een inlogcode via sms of e-mail. Ik begrijp dat ik op elk moment kan afzien van het ontvangen van inlogcodes door te antwoorden met 'STOP' op de sms of door de afmeldlink in de e-mail te gebruiken."
-# English for ↓: Why do we need a phone number?
+# English for ⤵: Why do we need a phone number?
   modalTitle: Waarom hebben we je telefoonnummer nodig?
-# English for ↓: We use your phone number to keep out spammers and bad actors.
+# English for ⤵: We use your phone number to keep out spammers and bad actors.
   modalDescription: We gebruiken je telefoonnummer om spammers en misdragingen tegen te gaan.
-# English for ↓: Something went wrong verifying you're not a robot, please try again
+# English for ⤵: Something went wrong verifying you're not a robot, please try again
   errorCaptcha: Er is iets misgegaan bij het vaststellen dat je geen robot bent. Probeer het alsjeblieft nog een keer.
-# English for ↓: Every major dating app these days requires a phone number. With good reason:
+# English for ⤵: Every major dating app these days requires a phone number. With good reason:
   modalPhoneReqTitle: "Elke grote dating app vraagt vandaag je telefoonnummer. Met goede reden:"
-# English for ↓: This is needed to ban bots, scammers, and people breaking the rules. Fake email addresses are easy to make, fake phone numbers much less so. BeeDee is an app for real people.
+# English for ⤵: This is needed to ban bots, scammers, and people breaking the rules. Fake email addresses are easy to make, fake phone numbers much less so. BeeDee is an app for real people.
   modalPhoneReqReason: We hebben dit nodig om bots, scammers, en mensen met slechte bedoelingen buiten te houden. Valse email adressen zijn eenvoudig om te maken, valse telefoonnummers veel minder. BeeDee is een app voor echte mensen.
-# English for ↓: It keeps people with bad intentions out, knowing law enforcement could easily track them down via their phone number. This is needed to safeguard our community.
+# English for ⤵: It keeps people with bad intentions out, knowing law enforcement could easily track them down via their phone number. This is needed to safeguard our community.
   modalPhoneSafety: Het houdt mensen met slechte bedoelingen tegen, die weten dat de politie hen eenvoudig kan vinden via hun telefoonnummer. We hebben dit nodig om onze community veilig te houden.
-# English for ↓: As a reminder, we will:
+# English for ⤵: As a reminder, we will:
   modalReminderTitle: "Herinnering, we zullen:"
-# English for ↓: Never display, sell, or otherwise reveal your phone number. Other members will never see it. We don't sell user data, ever.
+# English for ⤵: Never display, sell, or otherwise reveal your phone number. Other members will never see it. We don't sell user data, ever.
   modalPrivacyAssurance: Je telefoonnummer niet weergeven, doorverkopen of op enige andere manier met anderen delen. Andere BeeDee leden zullen dit niet zien. We verkopen nooit jouw gegevens, nooit.
-# English for ↓: Never contact you via SMS for marketing purposes. This is exclusively for a one-time SMS verification.
+# English for ⤵: Never contact you via SMS for marketing purposes. This is exclusively for a one-time SMS verification.
   modalNoMarketing: "Je nooit contacteren via SMS voor marketing doeleinden. We gebruiken dit enkel voor een éénmalige SMS-verificatie."
-# English for ↓: Any questions? We are happy to answer them at help@beedee.com
+# English for ⤵: Any questions? We are happy to answer them at help@beedee.com
   modalContactFooter: Heb je hier verder vragen over? We beantwoorden ze graag op help@beedee.com.
 
 codeVerification:
-# English for ↓: Verification code
+# English for ⤵: Verification code
   title: Verificatie code
-# English for ↓: Continue by entering the 6 digits sent to your email address if you already have an account, or to
+# English for ⤵: Continue by entering the 6 digits sent to your email address if you already have an account, or to
   subTitle: Verifieer je telefoonnummer door de 6 cijfers in te voeren die gestuurd zijn naar
-# English for ↓: Continue by entering the 6 digits sent to your email address if you already have an account, or to
+# English for ⤵: Continue by entering the 6 digits sent to your email address if you already have an account, or to
   subTitle2: Verifieer dat jij het bent door de 6 cijfers die verzonden zijn naar je email adres als je al een account hebt, of verzonden zijn naar
-# English for ↓: Note: it can take up to 30 seconds for your code to arrive. Please check spam if you haven't received it after 30 seconds.
+# English for ⤵: Note: it can take up to 30 seconds for your code to arrive. Please check spam if you haven't received it after 30 seconds.
   pleaseWait: Het kan tot 30 seconden duren voordat je het bericht ontvangt. Zie je het na 30 seconden nog niet, kijk dan even in spam.
-# English for ↓: Verify
+# English for ⤵: Verify
   btnText: Verifieer
-# English for ↓: Didn't receive a text message?
+# English for ⤵: Didn't receive a text message?
   notReceivedCode: Geen SMS ontvangen?
-# English for ↓: Send it again
+# English for ⤵: Send it again
   sendMeCode: Stuur het opnieuw
-# English for ↓: Please check your messages. Didn't receive a text message?
+# English for ⤵: Please check your messages. Didn't receive a text message?
   requestAgain: Controleer alsjeblieft je berichten. Geen SMS ontvangen?
 
 personalEmail:
-# English for ↓: Email address
+# English for ⤵: Email address
   enterYourEmail: "E-mailadres"
-# English for ↓: Please enter your email address. We'll use this to allow you to log in easier in the future.
+# English for ⤵: Please enter your email address. We'll use this to allow you to log in easier in the future.
   subTitleText: "Voer alsjeblieft je e-mailadres in. We gebruiken dit zodat je in de toekomst makkelijker in kunt loggen."
-# English for ↓: Email
+# English for ⤵: Email
   emailPlaceholder: "E-mail"
-# English for ↓: Please enter a valid email address
+# English for ⤵: Please enter a valid email address
   emailError: "Voer alsjeblieft een geldig e-mailadres in."
 
 toast:
-# English for ↓: Profile failed to load, please try again later
+# English for ⤵: Profile failed to load, please try again later
   profileFailedToLoad: Profiel laden mislukt, probeer het later nog een keer
-# English for ↓: Wrong verification code, please try again
+# English for ⤵: Wrong verification code, please try again
   wrongCode: Verkeerde verificatiecode, probeer het nog een keer
-# English for ↓: You need to keep at least 2 pictures on your profile
+# English for ⤵: You need to keep at least 2 pictures on your profile
   twoImagesRequired: "Je moet minstens twee foto's op je profiel houden"
-# English for ↓: Please write a message first
+# English for ⤵: Please write a message first
   pleaseWriteMessage: Schrijf eerst een bericht
-# English for ↓: Authentication unsuccessful, please try again
+# English for ⤵: Authentication unsuccessful, please try again
   tookTooLongToEnterOtp: Authenticatie mislukt, probeer het nog een keer
-# English for ↓: You've been banned from BeeDee
+# English for ⤵: You've been banned from BeeDee
   banned: Je bent verbannen van BeeDee
-# English for ↓: This profile no longer exists
+# English for ⤵: This profile no longer exists
   userNotFound: Dit profiel bestaat niet meer
-# English for ↓: Hurray, you got a new match!
+# English for ⤵: Hurray, you got a new match!
   bannerMatchToast: Hoera, je hebt een nieuwe match!
-# English for ↓: Failed to enable notifications, please try again later
+# English for ⤵: Failed to enable notifications, please try again later
   createSessionFailed: Notificaties inschakelen mislukt, probeer later opnieuw
-# English for ↓: Updated your email
+# English for ⤵: Updated your email
   updatedEmail: "E-mail adres opgeslagen"
-# English for ↓: Bio copied to clipboard
+# English for ⤵: Bio copied to clipboard
   bioCopied: Bio gekopieerd
-# English for ↓: Prompt copied to clipboard
+# English for ⤵: Prompt copied to clipboard
   promptCopied: Prompt gekopieerd
 
 unmatch:
-# English for ↓: Match removed
+# English for ⤵: Match removed
   success: Match verwijderd
-# English for ↓: Something went wrong deleting your match, please try again later
+# English for ⤵: Something went wrong deleting your match, please try again later
   error: Er is iets misgegaan bij het verwijderen van je match, probeer het later nog een keer.
 
 Units:
-# English for ↓: Metric
+# English for ⤵: Metric
   Metric: Metrisch
-# English for ↓: Imperial
+# English for ⤵: Imperial
   Imperial: Imperiaal
-# English for ↓: |
+# English for ⤵: |
 # Please select your preferred unit system for measurements: 
 # ➔ Metric (cm for height, km for distance) 
 # ➔ Imperial (feet and inches for height, miles for distance)
@@ -1132,400 +1132,400 @@ Units:
     ➔ Imperial (feet and inches for height, miles for distance)
 
 permissionsRequired:
-# English for ↓: Permission needed
+# English for ⤵: Permission needed
   required: Permission needed
-# English for ↓: We need access to your photo library to do this. Please enable it in the app settings or upload pictures using your camera.
+# English for ⤵: We need access to your photo library to do this. Please enable it in the app settings or upload pictures using your camera.
   photoSettingDes: We need access to your photo library to do this. Please enable it in the app settings or upload pictures using your camera.
-# English for ↓: The BeeDee app needs permission to your camera to do this. Please enable it in the app settings or upload pictures from your library.
+# English for ⤵: The BeeDee app needs permission to your camera to do this. Please enable it in the app settings or upload pictures from your library.
   cameraSettingDes: The BeeDee app needs permission to your camera to do this. Please enable it in the app settings or upload pictures from your library.
-# English for ↓: Open settings
+# English for ⤵: Open settings
   openSetting: Open settings
-# English for ↓: Permission denied
+# English for ⤵: Permission denied
   permissionDenied: Permission denied
 
 commonText:
-# English for ↓: Next
+# English for ⤵: Next
   next: Volgende
-# English for ↓: Retry
+# English for ⤵: Retry
   retry: Retry
-# English for ↓: Skip
+# English for ⤵: Skip
   skip: Overslaan
-# English for ↓: BDSMTest
+# English for ⤵: BDSMTest
   bdsmTest: BDSMTest
-# English for ↓: BDSMTest results
+# English for ⤵: BDSMTest results
   bdsmTestResult: BDSMTest resultaten
-# English for ↓: More info
+# English for ⤵: More info
   moreInfo: Meer informatie
-# English for ↓: Details
+# English for ⤵: Details
   details: Details
-# English for ↓: Cancel
+# English for ⤵: Cancel
   cancel: Annuleren
-# English for ↓: Ok
+# English for ⤵: Ok
   ok: Ok
-# English for ↓: Save
+# English for ⤵: Save
   save: Opslaan
-# English for ↓: Upload photo
+# English for ⤵: Upload photo
   uploadPhoto: Upload foto
-# English for ↓: Take photo
+# English for ⤵: Take photo
   takePhoto: Neem foto
-# English for ↓: Your message...
+# English for ⤵: Your message...
   yourMsg: Je bericht...
-# English for ↓: Submit
+# English for ⤵: Submit
   submit: Opslaan
-# English for ↓: Continue
+# English for ⤵: Continue
   continue: Doorgaan
-# English for ↓: Basics
+# English for ⤵: Basics
   basics: Basisgegevens
-# English for ↓: Gender
+# English for ⤵: Gender
   gender: Gender
-# English for ↓: Partners
+# English for ⤵: Partners
   partner: Partners
-# English for ↓: Bio
+# English for ⤵: Bio
   bio: Bio
-# English for ↓: Yes
+# English for ⤵: Yes
   yes: Ja
-# English for ↓: No
+# English for ⤵: No
   no: Nee
-# English for ↓: Update
+# English for ⤵: Update
   update: Update
-# English for ↓: Something went wrong!
+# English for ⤵: Something went wrong!
   somethingWentWrong: Er is iets misgegaan!
-# English for ↓: Unlimited
+# English for ⤵: Unlimited
   unlimited: Ongelimiteerd
-# English for ↓: Done! You can see your new results below.
+# English for ⤵: Done! You can see your new results below.
   profileLoading: Klaar! Je kunt de nieuwe resultaten hieronder bekijken.
-# English for ↓: Click the back button (top left corner) to return to BeeDee
+# English for ⤵: Click the back button (top left corner) to return to BeeDee
   profileLoadingSmall: Klik op de terugknop (links bovenin) om terug te gaan naar BeeDee.
-# English for ↓: These are the BDSMTest results of
+# English for ⤵: These are the BDSMTest results of
   userBdsmTestResult: Dit zijn de BDSMTest resultaten van
-# English for ↓: Something went wrong, please try again
+# English for ⤵: Something went wrong, please try again
   errorRefreshToken: Er is iets misgegaan, probeer het opnieuw
-# English for ↓: Couldn't reach the BeeDee server, check your internet connection
+# English for ⤵: Couldn't reach the BeeDee server, check your internet connection
   networkError: "Kan de BeeDee-server niet bereiken, controleer je internetverbinding."
-# English for ↓: Connection to the BeeDee server timed out, check your internet connection
+# English for ⤵: Connection to the BeeDee server timed out, check your internet connection
   reqTimeout: "De connectie met de BeeDee-server is verlopen, controleer je internetverbinding."
-# English for ↓: session has been expired
+# English for ⤵: session has been expired
   sessionExp: Sessie is verlopen.
-# English for ↓: Delete Account
+# English for ⤵: Delete Account
   deleteAccountLogout: Verwijder account
-# English for ↓: User manual logout
+# English for ⤵: User manual logout
   userLogout: Gebruiker handmatig uitgelogd
-# English for ↓: Failed to crop image
+# English for ⤵: Failed to crop image
   cropImageError: Afbeelding bijsnijden mislukt
-# English for ↓: Failed to select image
+# English for ⤵: Failed to select image
   selectImageError: Afbeelding selecteren mislukt
-# English for ↓: This app version is no longer supported. Please go to the Store and update BeeDee.
+# English for ⤵: This app version is no longer supported. Please go to the Store and update BeeDee.
   versionStatus: Deze appversie wordt niet langer ondersteund. Ga naar de Store en update BeeDee.
-# English for ↓: Update Required
+# English for ⤵: Update Required
   updateAlertTitle: Update Vereist
-# English for ↓: A new version of the app is available. Please update to continue using the app.
+# English for ⤵: A new version of the app is available. Please update to continue using the app.
   updateAlertDes: Een nieuwe versie van de app is beschikbaar. Voer de update uit om de app te kunnen blijven gebruiken.
-# English for ↓: Scroll to the bottom to like or dislike a profile
+# English for ⤵: Scroll to the bottom to like or dislike a profile
   scrollToBottom: Scroll naar beneden om dit profiel leuk of niet leuk te vinden
-# English for ↓: Feel free to tell us more or give us extra feedback:
+# English for ⤵: Feel free to tell us more or give us extra feedback:
   feedback: "Vertel ons gerust meer of geef ons extra feedback:"
-# English for ↓: Select all
+# English for ⤵: Select all
   selectAll: Selecteer alles
-# English for ↓: Clear all
+# English for ⤵: Clear all
   clearAll: Alles wissen
-# English for ↓: Show more
+# English for ⤵: Show more
   showMore: Meer weergeven
-# English for ↓: Show less
+# English for ⤵: Show less
   showLess: Minder weergeven
-# English for ↓: Read more...
+# English for ⤵: Read more...
   Read more...: Lees verder...
-# English for ↓: Show less...
+# English for ⤵: Show less...
   Show less...: Minder weergeven...
-# English for ↓: Multiple
+# English for ⤵: Multiple
   multiple: Meerdere
-# English for ↓: Close
+# English for ⤵: Close
   Close: Sluiten
-# English for ↓: Crop & Upload
+# English for ⤵: Crop & Upload
   cropAndUpload: Crop & Upload
-# English for ↓: Allow
+# English for ⤵: Allow
   Allow: Allow
 
 additionalInfo:
-# English for ↓: Main role
+# English for ⤵: Main role
   mainRole: Voornaamste rol
-# English for ↓: Height
+# English for ⤵: Height
   height: Lengte
-# English for ↓: Pronouns
+# English for ⤵: Pronouns
   pronouns: Voornaamwoorden
-# English for ↓: Family plans
+# English for ⤵: Family plans
   familyPlans: Familieplannen
-# English for ↓: Hometown
+# English for ⤵: Hometown
   hometown: Woonplaats
-# English for ↓: Education level
+# English for ⤵: Education level
   educationLevel: Opleidingsniveau
-# English for ↓: School / University
+# English for ⤵: School / University
   schoolUniversity: School / Universiteit
-# English for ↓: Occupation
+# English for ⤵: Occupation
   occupation: Beroep
-# English for ↓: Occupation or sector
+# English for ⤵: Occupation or sector
   occupationOrSector: Beroep of sector
-# English for ↓: Political orientation
+# English for ⤵: Political orientation
   politicalOrientation: Politieke oriëntatie
-# English for ↓: Alcohol
+# English for ⤵: Alcohol
   alcohol: Alcohol
-# English for ↓: Smoking
+# English for ⤵: Smoking
   smoking: Roken
-# English for ↓: Drugs
+# English for ⤵: Drugs
   drugs: Drugs
-# English for ↓: Gender
+# English for ⤵: Gender
   gender: Gender
-# English for ↓: Image uploaded successfully
+# English for ⤵: Image uploaded successfully
   imageUploadMsg: Afbeelding succesvol geüpload
-# English for ↓: Image failed to upload, please try again
+# English for ⤵: Image failed to upload, please try again
   imageFailedToUploadMsg: Afbeelding kon niet worden geüpload, probeer het later opnieuw
-# English for ↓: Unsaved
+# English for ⤵: Unsaved
   unsaved: Niet opgeslaan
-# English for ↓: You have unsaved changes, are you sure you want to exit?
+# English for ⤵: You have unsaved changes, are you sure you want to exit?
   unsavedDescription: "Je hebt nog niet-opgeslagen wijzigingen. Weet je zeker dat je wilt afsluiten?"
 
 reportUserData:
-# English for ↓: Fake profile
+# English for ⤵: Fake profile
   fakeProfile: Nep profiel
-# English for ↓: Inappropriate content
+# English for ⤵: Inappropriate content
   inappropriateContent: Ongepaste inhoud
-# English for ↓: Scam or commercial
+# English for ⤵: Scam or commercial
   scamOrCommercial: Oplichterij of commercieel
-# English for ↓: Hate speech
+# English for ⤵: Hate speech
   hateSpeech: Haatdragende taal
-# English for ↓: Underage
+# English for ⤵: Underage
   underage: Minderjarig
-# English for ↓: Child Safety Concerns
+# English for ⤵: Child Safety Concerns
   childSafety: Een minderjarige is in gevaar
-# English for ↓: Nudity
+# English for ⤵: Nudity
   nudity: Nudity
 
 rolesData:
-# English for ↓: Master/Mistress
+# English for ⤵: Master/Mistress
   masterMistress: Meester/Meesteres
-# English for ↓: Dominant
+# English for ⤵: Dominant
   dominant: Dominant
-# English for ↓: Top
+# English for ⤵: Top
   top: Top
-# English for ↓: Switch
+# English for ⤵: Switch
   switch: Switch
-# English for ↓: Brat
+# English for ⤵: Brat
   brat: Brat
-# English for ↓: Bottom
+# English for ⤵: Bottom
   bottom: Bottom
-# English for ↓: Submissive
+# English for ⤵: Submissive
   submissive: Onderdanig
-# English for ↓: Slave
+# English for ⤵: Slave
   slave: Slaaf
-# English for ↓: Rigger
+# English for ⤵: Rigger
   rigger: Rigger
-# English for ↓: Rope bunny
+# English for ⤵: Rope bunny
   ropeBunny: Rope bunny
 
 pronounsData:
-# English for ↓: he/him
+# English for ⤵: he/him
   heHim: hij/hem
-# English for ↓: she/her
+# English for ⤵: she/her
   sheHer: zij/haar
-# English for ↓: they/them
+# English for ⤵: they/them
   theyThem: die/hen
 
 familyPlansData:
-# English for ↓: Wants kids
+# English for ⤵: Wants kids
   wantsKids: Wil kinderen
-# English for ↓: Unsure about kids
+# English for ⤵: Unsure about kids
   unsureAboutKids: Wil misschien kinderen
-# English for ↓: Doesn't want kids
+# English for ⤵: Doesn't want kids
   doesntWantKids: Wil geen kinderen
-# English for ↓: Has kids, wants more
+# English for ⤵: Has kids, wants more
   hasKidsWantsMore: Heb kinderen, wil meer kinderen
   hasKidsUnsureAboutMore: Heb kinderen, wil misschien meer kinderen
   hasKidsDoesntWantMore: Heb kinderen, wil geen kinderen meer
-# English for ↓: Has kids, unsure about more
+# English for ⤵: Has kids, unsure about more
   hasKidsUnsureMore: Has kids, unsure about more
-# English for ↓: Has kids, doesn't want more
+# English for ⤵: Has kids, doesn't want more
   hasKidsNoMore: "Has kids, doesn't want more"
 
 educationLevelData:
-# English for ↓: High school
+# English for ⤵: High school
   highSchool: Middelbare school
-# English for ↓: In college
+# English for ⤵: In college
   inCollege: Studerend
-# English for ↓: Trade school
+# English for ⤵: Trade school
   tradeSchool: Beroepsopleiding
-# English for ↓: Bachelors
+# English for ⤵: Bachelors
   bachelors: Bachelor
-# English for ↓: Masters
+# English for ⤵: Masters
   masters: Master
-# English for ↓: PhD
+# English for ⤵: PhD
   phd: Doctoraat
 
 politicalOrientationData:
-# English for ↓: Left-leaning
+# English for ⤵: Left-leaning
   leftLeaning: Links leunend
-# English for ↓: Central
+# English for ⤵: Central
   central: Centrum
-# English for ↓: Right-leaning
+# English for ⤵: Right-leaning
   rightLeaning: Rechts leunend
-# English for ↓: I don't follow politics
+# English for ⤵: I don't follow politics
   dontFollowPolitics: Ik volg de politiek niet
 
 frequencyData:
-# English for ↓: Regularly
+# English for ⤵: Regularly
   regularly: Regelmatig
-# English for ↓: Socially
+# English for ⤵: Socially
   socially: Sociaal
-# English for ↓: Rarely
+# English for ⤵: Rarely
   rarely: Zelden
-# English for ↓: Never
+# English for ⤵: Never
   never: Nooit
 
 openToData:
-# English for ↓: Friendship
+# English for ⤵: Friendship
   friendship: Vriendschap
-# English for ↓: A monogamous relationship
+# English for ⤵: A monogamous relationship
   monogamousRelationship: Een monogame relatie
-# English for ↓: An open relationship
+# English for ⤵: An open relationship
   openRelationship: Een open relatie
-# English for ↓: A polyamourous relationship
+# English for ⤵: A polyamourous relationship
   polyamorousRelationship: Een polyamoreuze relatie
-# English for ↓: A one night stand
+# English for ⤵: A one night stand
   oneNightStand: Een one night stand
-# English for ↓: A play partner
+# English for ⤵: A play partner
   playPartner: Een speelpartner
-# English for ↓: A friends with benefits
+# English for ⤵: A friends with benefits
   friendsWithBenefits: Vrienden met voordelen
-# English for ↓: A 24/7 lifestyle dynamic
+# English for ⤵: A 24/7 lifestyle dynamic
   lifestyleDynamic: Een 24/7 lifestyle dynamic
-# English for ↓: A mentor
+# English for ⤵: A mentor
   mentor: Een mentor
-# English for ↓: A mentee
+# English for ⤵: A mentee
   mentee: Een mentee
   someoneSimilar: Iemand zoals ik
   eventsPartner: Iemand om mee naar evenementen te gaan
-# English for ↓: A penpal
+# English for ⤵: A penpal
   penpal: Een penvriend
-# English for ↓: A friend group to join
+# English for ⤵: A friend group to join
   friendGroup: Een vriendengroep om deel te nemen
-# English for ↓: Someone similar to me
+# English for ⤵: Someone similar to me
   similarPerson: Someone similar to me
-# English for ↓: Someone to go to events with
+# English for ⤵: Someone to go to events with
   eventPartner: Someone to go to events with
 
 lookingForData:
-# English for ↓: partners
+# English for ⤵: partners
   partners: partners
-# English for ↓: friends
+# English for ⤵: friends
   friends: vrienden
 
 relationData:
-# English for ↓: Dominant of
+# English for ⤵: Dominant of
   dominantOf: Dominant van
-# English for ↓: Daddy of
+# English for ⤵: Daddy of
   daddyOf: Daddy van
-# English for ↓: Mommy of
+# English for ⤵: Mommy of
   mommyOf: Mommy van
-# English for ↓: Babyboy of
+# English for ⤵: Babyboy of
   babyboyOf: Babyboy van
-# English for ↓: Babygirl of
+# English for ⤵: Babygirl of
   babygirlOf: Babygirl van
-# English for ↓: Switch of
+# English for ⤵: Switch of
   switchOf: Switch van
-# English for ↓: Submissive of
+# English for ⤵: Submissive of
   submissiveOf: Submissive van
-# English for ↓: Master of
+# English for ⤵: Master of
   masterOf: Master van
-# English for ↓: Mistress of
+# English for ⤵: Mistress of
   mistressOf: Mistress van
-# English for ↓: Owner of
+# English for ⤵: Owner of
   ownerOf: Owner van
-# English for ↓: Slave of
+# English for ⤵: Slave of
   slaveOf: Slaaf van
-# English for ↓: Owned by
+# English for ⤵: Owned by
   ownedBy: Eigendom van
-# English for ↓: Owned and Collared by
+# English for ⤵: Owned and Collared by
   ownedAndCollaredBy: Eigendom en gehalsband door
-# English for ↓: Degrader of
+# English for ⤵: Degrader of
   degraderOf: Degrader van
-# English for ↓: Degradee of
+# English for ⤵: Degradee of
   degradeeOf: Degradee van
-# English for ↓: Brat of
+# English for ⤵: Brat of
   bratOf: Brat van
-# English for ↓: Brat Tamer of
+# English for ⤵: Brat Tamer of
   bratTamerOf: Brat Tamer van
-# English for ↓: Pet of
+# English for ⤵: Pet of
   petOf: Pet van
-# English for ↓: Rigger to
+# English for ⤵: Rigger to
   riggerTo: Rigger van
-# English for ↓: Rope Bunny to
+# English for ⤵: Rope Bunny to
   ropeBunnyTo: Rope Bunny van
-# English for ↓: In a relationship with
+# English for ⤵: In a relationship with
   inRelationshipWith: In een relatie met
-# English for ↓: Engaged with
+# English for ⤵: Engaged with
   engagedWith: Verloofd met
-# English for ↓: Married to
+# English for ⤵: Married to
   marriedTo: Getrouwd met
-# English for ↓: Dating
+# English for ⤵: Dating
   dating: Dating
-# English for ↓: In an open relationship with
+# English for ⤵: In an open relationship with
   inOpenRelationshipWith: In een open relatie met
-# English for ↓: In a poly relationship with
+# English for ⤵: In a poly relationship with
   inPolyRelationshipWith: In een poly relatie met
-# English for ↓: Non-monogamous with
+# English for ⤵: Non-monogamous with
   nonMonogamousWith: "Non-monogaam met"
-# English for ↓: Nesting partner of
+# English for ⤵: Nesting partner of
   nestingPartnerOf: Nesting partner van
-# English for ↓: Matamour of
+# English for ⤵: Matamour of
   metamourOf: Metamour van
-# English for ↓: Friends with Benefits with
+# English for ⤵: Friends with Benefits with
   friendsWithBenefitsWith: Vrienden met voordelen met
-# English for ↓: Play partners with
+# English for ⤵: Play partners with
   playPartnersWith: Speel partners met
-# English for ↓: It's complicated with
+# English for ⤵: It's complicated with
   itsComplicatedWith: Het is ingewikkeld met
 
 genderData:
-# English for ↓: Man
+# English for ⤵: Man
   man: Man
-# English for ↓: Woman
+# English for ⤵: Woman
   woman: Vrouw
-# English for ↓: Man - Trans FtM
+# English for ⤵: Man - Trans FtM
   manTransFtm: "Man - Trans FtM"
-# English for ↓: Woman - Trans MtF
+# English for ⤵: Woman - Trans MtF
   womanTransMtf: "Vrouw - Trans MtF"
-# English for ↓: Non-binary
+# English for ⤵: Non-binary
   nonBinary: "Non-binary"
-# English for ↓: Gender
+# English for ⤵: Gender
   gender: Gender
 
 Other: Anders
 PaymentStatus:
-# English for ↓: Payment successful!
+# English for ⤵: Payment successful!
   paymentSuccess: Payment successful!
-# English for ↓: Payment failed!
+# English for ⤵: Payment failed!
   paymentFailed: Payment failed!
-# English for ↓: Your payment has been successfully processed!
+# English for ⤵: Your payment has been successfully processed!
   successText: Your payment has been successfully processed!
-# English for ↓: Unfortunately, your payment could not be processed. Please try again.
+# English for ⤵: Unfortunately, your payment could not be processed. Please try again.
   failedText: Unfortunately, your payment could not be processed. Please try again.
-# English for ↓: Try Again
+# English for ⤵: Try Again
   tryAgain: Try Again
-# English for ↓: You are now a premium BeeDee user!
+# English for ⤵: You are now a premium BeeDee user!
   nowPremiumUser: You are now a premium BeeDee user!
-# English for ↓: Your Whips have now been added to your account!
+# English for ⤵: Your Whips have now been added to your account!
   whipsAddedToAccount: Your Whips have now been added to your account!
-# English for ↓: Please contact help desk if you are facing any issue regarding payment.
+# English for ⤵: Please contact help desk if you are facing any issue regarding payment.
   contactHelpDesk: Please contact help desk if you are facing any issue regarding payment.
 
 enableLocationTutorial:
-# English for ↓: Here's how to enable location services for this website:
+# English for ⤵: Here's how to enable location services for this website:
   title: "Here's how to enable location services for this website:"
-# English for ↓: Check your browser settings:
+# English for ⤵: Check your browser settings:
   checkBrowserSetting: "Check your browser settings:"
   chrome:
     desktop:
-#     English for ↓: Chrome (Desktop)
+#     English for ⤵: Chrome (Desktop)
       title: Chrome (Desktop)
-#     English for ↓:
+#     English for ⤵:
 #     - Open Chrome.
 #     - Go to Settings > Privacy and Security > Site Settings.
 #     - Under Permissions, select Location.
@@ -1538,9 +1538,9 @@ enableLocationTutorial:
 
 
     mobile:
-#     English for ↓: Chrome (Android)
+#     English for ⤵: Chrome (Android)
       title: Chrome (Android)
-#     English for ↓:
+#     English for ⤵:
 #     - Open Chrome and go to https://web.beedee.app.
 #     - Tap the lock icon in the address bar > Permissions.
 #     - Set Location to Allow.
@@ -1553,9 +1553,9 @@ enableLocationTutorial:
 
   safari:
     desktop:
-#     English for ↓: Safari (Desktop - macOS)
+#     English for ⤵: Safari (Desktop - macOS)
       title: "Safari (Desktop - macOS)"
-#     English for ↓:
+#     English for ⤵:
 #     - Open Safari.
 #     - In the top menu bar, go to Safari > Settings (or Preferences) > Websites > Location.
 #     - Find https://web.beedee.app and set it to Allow.
@@ -1566,9 +1566,9 @@ enableLocationTutorial:
 
 
     mobile:
-#     English for ↓: Safari (iOS)
+#     English for ⤵: Safari (iOS)
       title: Safari (iOS)
-#     English for ↓:
+#     English for ⤵:
 #     - Open the Settings app and: 1) open 'Location Services' > 'Safari Websites'. Ensure this is set to 'Allow' or 'Ask'.
 #     - 2) Open 'Safari' > 'Location' and ensure web.beedee.app is set to 'Allow' or 'Ask'
 #     - If you're still facing issues, try force-closing and restarting the app, and ultimately let us know at help@beedee.com if the issue persists.
@@ -1581,9 +1581,9 @@ enableLocationTutorial:
 
   firefox:
     desktop:
-#     English for ↓: Firefox (Desktop)
+#     English for ⤵: Firefox (Desktop)
       title: Firefox (Desktop)
-#     English for ↓:
+#     English for ⤵:
 #     - Open Firefox.
 #     - Go to Settings > Privacy & Security.
 #     - Under Permissions, find Location and click Settings....
@@ -1596,9 +1596,9 @@ enableLocationTutorial:
 
 
     mobile:
-#     English for ↓: Firefox (Android)
+#     English for ⤵: Firefox (Android)
       title: Firefox (Android)
-#     English for ↓:
+#     English for ⤵:
 #     - Open Firefox and go to https://web.beedee.app.
 #     - Tap the lock icon in the address bar > Permissions.
 #     - In Location Permissions, ensure it's set to Allow.
@@ -1611,9 +1611,9 @@ enableLocationTutorial:
 
   edge:
     desktop:
-#     English for ↓: Edge (Desktop)
+#     English for ⤵: Edge (Desktop)
       title: Edge (Desktop)
-#     English for ↓:
+#     English for ⤵:
 #     - Open Microsoft Edge.
 #     - Navigate to Settings > Cookies and Site Permissions > Location.
 #     - Find https://web.beedee.app in the list, and select Allow.
@@ -1624,9 +1624,9 @@ enableLocationTutorial:
 
 
     mobile:
-#     English for ↓: Edge (Android)
+#     English for ⤵: Edge (Android)
       title: Edge (Android)
-#     English for ↓:
+#     English for ⤵:
 #     - Open Edge and go to https://web.beedee.app.
 #     - Tap the lock icon in the address bar > Site permissions.
 #     - Set Location to Allow.
@@ -1637,33 +1637,33 @@ enableLocationTutorial:
 
 
 
-# English for ↓: Your browser is not recognized. Please check your browser's documentation for how to enable location services.
+# English for ⤵: Your browser is not recognized. Please check your browser's documentation for how to enable location services.
   default: "Your browser is not recognized. Please check your browser's documentation for how to enable location services."
-# English for ↓: Generally, you can find location settings in the privacy or security section of your browser's settings.
+# English for ⤵: Generally, you can find location settings in the privacy or security section of your browser's settings.
   defaultInstruction: "Generally, you can find location settings in the privacy or security section of your browser's settings."
-# English for ↓: Allow notification for this website
+# English for ⤵: Allow notification for this website
   allowNotificationForThisWebsite: Allow notification for this website
-# English for ↓: Once you've enabled location permissions in your browser settings, you should be prompted to allow or deny location access for this specific website.
+# English for ⤵: Once you've enabled location permissions in your browser settings, you should be prompted to allow or deny location access for this specific website.
   allowLoca1: "Once you've enabled location permissions in your browser settings, you should be prompted to allow or deny location access for this specific website."
-# English for ↓: Click 'Allow' to grant permission.
+# English for ⤵: Click 'Allow' to grant permission.
   allowLoc2: "Click 'Allow' to grant permission."
-# English for ↓: If you have previously denied location access, you may need to clear your browser cache or check your settings to re-enable it.
+# English for ⤵: If you have previously denied location access, you may need to clear your browser cache or check your settings to re-enable it.
   generalNote: "If you have previously denied location access, you may need to clear your browser cache or check your settings to re-enable it."
 
 cameraAccessErrors:
-# English for ↓: Camera access denied. Please allow camera access.
+# English for ⤵: Camera access denied. Please allow camera access.
   accessDenied: Camera access denied. Please allow camera access.
-# English for ↓: No camera found. Please connect a camera to continue.
+# English for ⤵: No camera found. Please connect a camera to continue.
   noCameraFound: No camera found. Please connect a camera to continue.
-# English for ↓: Camera is in use or unavailable.
+# English for ⤵: Camera is in use or unavailable.
   notReadable: Camera is in use or unavailable.
-# English for ↓: Access to camera blocked due to security settings.
+# English for ⤵: Access to camera blocked due to security settings.
   securitySettings: Access to camera blocked due to security settings.
 
 installPWA:
-# English for ↓: Get the Best Experience!
+# English for ⤵: Get the Best Experience!
   title: Get the Best Experience!
-# English for ↓: |
+# English for ⤵: |
 # To install BeeDee, tap "Add to Home Screen". You can find this here:
 # In Chrome: tap "⋮" in the top right
 # In Firefox: tap "⋮" in the bottom right
@@ -1673,24 +1673,24 @@ installPWA:
     In Chrome: tap "⋮" in the top right
     In Firefox: tap "⋮" in the bottom right
     In Safari: tap 'share'
-# English for ↓: Use BeeDee like a native app on your device. Click 'Install BeeDee' to add it to your home screen.
+# English for ⤵: Use BeeDee like a native app on your device. Click 'Install BeeDee' to add it to your home screen.
   clickInstall: "Use BeeDee like a native app on your device. Click 'Install BeeDee' to add it to your home screen."
-# English for ↓: If installation doesn't start, look for 'Add to Home Screen' or 'Install' in your browser's menu.
+# English for ⤵: If installation doesn't start, look for 'Add to Home Screen' or 'Install' in your browser's menu.
   installDoesNotStart: "If installation doesn't start, look for 'Add to Home Screen' or 'Install' in your browser's menu."
-# English for ↓: Installation is unavailable. Please ensure you're using a supported browser and the app meets PWA criteria.
+# English for ⤵: Installation is unavailable. Please ensure you're using a supported browser and the app meets PWA criteria.
   pwaUnavailable: "Installation is unavailable. Please ensure you're using a supported browser and the app meets PWA criteria."
-# English for ↓: To install this app, please open the website in Safari, tap the Share icon (↑ in the square box at the bottom of your screen), and select 'Add to Home Screen.' This will allow you to use it as a full app!
+# English for ⤵: To install this app, please open the website in Safari, tap the Share icon (↑ in the square box at the bottom of your screen), and select 'Add to Home Screen.' This will allow you to use it as a full app!
   openInSafari: "To install this app, please open the website in Safari, tap the Share icon (↑ in the square box at the bottom of your screen), and select 'Add to Home Screen.' This will allow you to use it as a full app!"
 
 incognitoMode:
-# English for ↓: Incognito Mode Not Supported
+# English for ⤵: Incognito Mode Not Supported
   incognitoNotSupport: Incognito Mode Not Supported
-# English for ↓: For BeeDee to properly work, BeeDee needs access to features that are not available when browsing incognito. So unfortunately we cannot offer BeeDee to incognito browsers for now. Please use a regular browser session to continue.
+# English for ⤵: For BeeDee to properly work, BeeDee needs access to features that are not available when browsing incognito. So unfortunately we cannot offer BeeDee to incognito browsers for now. Please use a regular browser session to continue.
   description: For BeeDee to properly work, BeeDee needs access to features that are not available when browsing incognito. So unfortunately we cannot offer BeeDee to incognito browsers for now. Please use a regular browser session to continue.
-# English for ↓: Open in Regular Mode
+# English for ⤵: Open in Regular Mode
   openRegular: Open in Regular Mode
 
 otherData:
-# English for ↓: Other
+# English for ⤵: Other
   other: Other
 
