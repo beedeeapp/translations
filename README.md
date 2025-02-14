@@ -20,13 +20,11 @@ Step 6 looks like this:
 
 ## Video
 
-[![Youtube Video tumbnail](https://raw.githubusercontent.com/beedeeapp/translations/refs/heads/main/images/youtube.png)](https://www.youtube.com/watch?v=P359jIFh8xU)
-
 If the above 6 steps are easier to follow through a video, you can watch the video below:
 
-(Pieter to add the video he's recording now, here.)
+[![Youtube Video tumbnail](https://raw.githubusercontent.com/beedeeapp/translations/refs/heads/main/images/youtube.png)](https://www.youtube.com/watch?v=P359jIFh8xU)
 
-## Translations format details
+## Yaml format details
 
 The translations are stored in [the YAML format](https://en.wikipedia.org/wiki/YAML), a very user-friendly format.
 It may be useful to be aware of some things:
