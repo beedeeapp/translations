@@ -113,7 +113,7 @@ ChooseUnitSystem:
 #   English: Please select your desired length unit system.
   errorMsg: "Selecteer het gewenste lengte-eenheidssysteem."
 #   English: Next
-  btnText: Next
+  btnText: Volgende
 
 AddBDSMTestResult:
 #   English: Add BDSMTest results
