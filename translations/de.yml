@@ -107,8 +107,7 @@ lookingFor:
 # 're looking for
   updateMsg: |
     Suchkriterien
-    aktualisiertUpdated what you
-    're looking for
+    aktualisiert
 
 ChooseUnitSystem:
 # English for ⤵: Length unit system
@@ -174,13 +173,11 @@ Premium:
   paymentVerificationIssue: Unsere Server konnten deinen Kauf nicht verarbeiten. Dies ist wahrscheinlich ein Problem unsererseits
 # English for ⤵: Please get in touch via 
   contactSupportText: "Bitte melde dich bei uns per "
-# English for ⤵: |
-#  and include:
+# English for ⤵:  and include:
   contactSupportInstructions: |
      und gib Folgendes an:
     
-# English for ⤵: |
-# - The phone number and/or email address your BeeDee account is linked with.
+# English for ⤵: - The phone number and/or email address your BeeDee account is linked with.
   supportDetailsBeeDee: |
     - Die Telefonnummer und/oder E-Mail-Adresse, mit der dein BeeDee-Konto verknüpft ist.
     
@@ -310,7 +307,6 @@ addPhotos:
   errorFallbackImageAdded: Issue selecting your picture, we had to replace it with a black image
 
 bdsmNotification:
-  //TODO: rename this to permission or notificaiton or something
 # English for ⤵: Permissions
   permission: Berechtigungen
 # English for ⤵: Create my account!
@@ -321,7 +317,6 @@ bdsmNotification:
   text2: Um dies zu erlauben, drücke bitte den unten stehenden Knopf und akzeptiere alle angezeigten Folgebildschirme.
 
 bdsmNavigation:
-  //TODO: rename this to navigation or something
 # English for ⤵: Your BeeDee account was succesfully created!
   ThankYou: "Dein BeeDee-Account wurde erfolgreich erstellt!"
 # English for ⤵: You can further enhance your profile with additional information, but we also understand your enthusiasm to connect with other BeeDee users right away. The choice is yours to make!
@@ -1299,101 +1294,6 @@ reportUserData:
 # English for ⤵: Nudity
   nudity: Nacktheit
 
-MAIN_ROLES: MAIN_ROLES
-Master/Mistress: Herr/Herrin
-Dominant: Dominant
-Top: Top
-Switch: Switcher
-Brat: Brat
-Bottom: Bottom
-Submissive: Submissive
-Slave: Sklave/Sklavin
-Rigger: Rigger/Riggerin
-Rope bunny: Rope Bunny
-Other: Anderes
-PRONOUNS: PRONOUNS
-he/him: er/ihm
-she/her: sie/ihr
-they/them: sie/ihnen
-Family_Plans: Family_Plans
-Wants kids: Möchte Kinder
-Unsure about kids: Unsicher über Kinder
-Doesn't want kids: Möchte keine Kinder
-Has kids, wants more: Hat Kinder, möchte mehr
-Has kids, unsure about more: Hat Kinder, unsicher über mehr
-Has kids, doesn't want more: Hat Kinder, möchte nicht mehr
-Education_Level: Education_Level
-High school: Schule erfolgreich abgeschlossen
-In college: Im Studium
-Trade school: In Ausbildung
-Bachelors: Bachelor
-Masters: Master
-PhD: Doktor
-Left-leaning: Linksorientiert
-Central: Zentral
-Right-leaning: Rechtsorientiert
-I don't follow politics: Ich beschäftige mich nicht mit Politik.
-Regularly: Regelmäßig
-Socially: Gesellschaftlich
-Rarely: Selten
-Never: Niemals
-OpenTo_Data: OpenTo_Data
-Friendship: Freundschaft
-A monogamous relationship: Eine monogame Beziehung
-An open relationship: Eine offene Beziehung
-A polyamourous relationship: Eine polyamore Beziehung
-A one night stand: "Einen One-Night-Stand"
-A play partner: Eine Spielbeziehung
-A friends with benefits: Eine Freundschaft+
-A 24/7 lifestyle dynamic: "Eine 24/7-Lebensdynamik"
-A mentor: "Eine:n Mentor:in"
-A mentee: Einen Schützling
-Someone similar to me: Jemanden, der mir ähnlich ist
-Someone to go to events with: Jemanden für den Besuch von Veranstaltungen
-A penpal: Eine Brieffreundschaft
-A friend group to join: Eine Gruppe von Freunden, denen ich mich anschließen kann
-Looking_For: Looking_For
-partners: Partnerschaft
-friends: Freunde
-Roles_Data: Roles_Data
-Dominant of: "Dom:me von"
-Daddy of: Daddy von
-Mommy of: Mommy von
-babyboy of: Babyboy von
-babygirl of: Babygirl von
-Switch of: Switch von
-submissive of: Submissive von
-Master of: Meister von
-Mistress of: Herrin von
-Owner of: Besitzer von
-slave of: "Sklav:in von"
-owned by: Besitz von
-owned and collared by: Besitz und gekennzeichnet von
-Degrader of: Degrader von
-degradee of: Degradee von
-brat of: Brat von
-Brat tamer of: Brat Tamer von
-pet of: Haustier von
-Rigger to: "Rigger:in von"
-Rope Bunny to: Rope Bunny von
-In a relationship with: In einer Beziehung mit
-Engaged with: Verlobt mit
-Married to: Verheiratet mit
-Dating: Datet
-In an open relationship with: In einer offenen Beziehung mit
-In a poly relationship with: In einer polyamoren Beziehung mit
-Non-monogamous with: "Nicht-monogam mit"
-Nesting partner of: Nistpartner von
-Matamour of: Matamour von
-Friends with Benefits with: Freundschaft+ mit
-Play partners with: Spielpartner von
-It's complicated with: Es ist kompliziert mit
-Gender_Data: Gender_Data
-Man: Mann
-Woman: Frau
-Man - Trans FtM: TransMann (FtM)
-Woman - Trans MtF: TransFrau (MtF)
-Non-binary: "Nicht-binär"
 PaymentStatus:
 # English for ⤵: Payment successful!
   paymentSuccess: Payment successful!

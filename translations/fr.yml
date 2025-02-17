@@ -140,7 +140,6 @@ Premium:
   buyWhipsHeader: Acheter des Whips
 # English for ⤵: Experience BeeDee the Premium way:
   title: Découvrez BeeDee en version Premium
-  oldSubTitle: Obtenez des likes quotidiens illimités et soyez davantage montré·e aux autres utilisateurs !
 # English for ⤵: |
 # ➔ Get unlimited daily likes
 # ➔ Get 1 whip per week
@@ -173,13 +172,11 @@ Premium:
   paymentVerificationIssue: "Nos serveurs n'ont pas pu vérifier votre paiement pour le moment. Il s'agit probablement d'un problème de notre côté."
 # English for ⤵: Please get in touch via 
   contactSupportText: "Please get in touch via "
-# English for ⤵: |
-#  and include:
+# English for ⤵:  and include:
   contactSupportInstructions: |
      and include:
     
-# English for ⤵: |
-# - The phone number and/or email address your BeeDee account is linked with.
+# English for ⤵: - The phone number and/or email address your BeeDee account is linked with.
   supportDetailsBeeDee: |
     - Le numéro de téléphone et/ou l'adresse e-mail liés à votre compte BeeDee.
     
@@ -306,7 +303,6 @@ addPhotos:
   errorFallbackImageAdded: Issue selecting your picture, we had to replace it with a black image
 
 bdsmNotification:
-  //TODO: rename this to permission or notification or something
 # English for ⤵: Permissions
   permission: Permissions
 # English for ⤵: Create my account!
@@ -317,7 +313,6 @@ bdsmNotification:
   text2: "Pour les accorder, veuillez cliquer sur le bouton ci-dessous et acceptez les écrans suivants qui s'affichent."
 
 bdsmNavigation:
-  //TODO: rename this to navigation or something
 # English for ⤵: Your BeeDee account was succesfully created!
   ThankYou: Votre compte BeeDee a été créé avec succès !
 # English for ⤵: You can further enhance your profile with additional information, but we also understand your enthusiasm to connect with other BeeDee users right away. The choice is yours to make!
@@ -1295,101 +1290,6 @@ reportUserData:
 # English for ⤵: Nudity
   nudity: Nudity
 
-MAIN_ROLES: MAIN_ROLES
-Master/Mistress: Maitre(sse)
-Dominant: Dominant.e
-Top: Top
-Switch: Switch
-Brat: Brat
-Bottom: Bottom
-Submissive: Soumis.e
-Slave: Esclave
-Rigger: Rigger
-Rope bunny: Rope bunny
-Other: Autre
-PRONOUNS: PRONOUNS
-he/him: il/lui
-she/her: elle/elle
-they/them: iel/ellui
-Family_Plans: Family_Plans
-Wants kids: Veut des enfants
-Unsure about kids: Indécis.e
-Doesn't want kids: "Ne veut pas d'enfants"
-Has kids, wants more: A des enfants, en veut plus
-Has kids, unsure about more: A des enfants, indécis.e
-Has kids, doesn't want more: "A des enfants, n'en veut plus"
-Education_Level: Education_Level
-High school: Enseignement secondaire
-In college: Enseignement supérieur
-Trade school: Enseignement professionnel
-Bachelors: License
-Masters: Master
-PhD: Doctorat
-Left-leaning: Gauche
-Central: Centre
-Right-leaning: Droite
-I don't follow politics: Je ne suis pas la politique
-Regularly: Régulièrement
-Socially: Socialement
-Rarely: Rarement
-Never: Jamais
-OpenTo_Data: OpenTo_Data
-Friendship: Amitié
-A monogamous relationship: Une relation monogame
-An open relationship: Une relation ouverte
-A polyamourous relationship: Une relation polyamoureuse
-A one night stand: Une rencontre sans lendemain
-A play partner: Un·e partenaire de jeu
-A friends with benefits: "Un·e sex-friend"
-A 24/7 lifestyle dynamic: Une dynamique de vie 24h/24 et 7j/7
-A mentor: Un mentor
-A mentee: Un protégé
-Someone similar to me: "Quelqu'un qui me ressemble"
-Someone to go to events with: "Quelqu'un avec qui aller en événements"
-A penpal: Un correspondant
-A friend group to join: "Un groupe d'ami.e.s à rejoindre"
-Looking_For: Looking_For
-partners: partenaires
-friends: amis
-Roles_Data: Roles_Data
-Dominant of: Dominant de
-Daddy of: Papa de
-Mommy of: Maman def
-babyboy of: petit garçon de
-babygirl of: petite fille de
-Switch of: Switch de
-submissive of: Soumis.e de
-Master of: Maitre de
-Mistress of: Maîtresse de
-Owner of: Propriétaire de
-slave of: Esclave de
-owned by: appartenant à
-owned and collared by: appartenant à et mis.e en collier par
-Degrader of: Degrader de
-degradee of: degradee de
-brat of: Brat de
-Brat tamer of: Brat tamer de
-pet of: Animal de compagnie de
-Rigger to: Rigger de
-Rope Bunny to: Rope Bunny de
-In a relationship with: Dans une relation avec
-Engaged with: Engagé.e avec
-Married to: Marié.e avec
-Dating: Dating
-In an open relationship with: En relation ouverte avec
-In a poly relationship with: En relation Poly avec
-Non-monogamous with: "Non-monogame avec"
-Nesting partner of: Nesting partner de
-Matamour of: Metamour de
-Friends with Benefits with: "Sex-friend avec"
-Play partners with: Partenaire de jeu avec
-It's complicated with: "C'est compliqué avec"
-Gender_Data: Gender_Data
-Man: Homme
-Woman: Femme
-Man - Trans FtM: "Homme - Trans FtH"
-Woman - Trans MtF: "Femme - Trans HtF"
-Non-binary: "Non-binaire"
 PaymentStatus:
 # English for ⤵: Payment successful!
   paymentSuccess: Payment successful!

@@ -104,12 +104,8 @@ Premium:
   purchaseFailed: Failed to verify your purchase
   paymentVerificationIssue: Our servers could not verify your payment at this time. This is likely an issue on our end.
   contactSupportText: "Please get in touch via "
-  contactSupportInstructions: |
-     and include:
-    
-  supportDetailsBeeDee: |
-    - The phone number and/or email address your BeeDee account is linked with.
-    
+  contactSupportInstructions: " and include:"
+  supportDetailsBeeDee: "- The phone number and/or email address your BeeDee account is linked with."
   supportDetailsOtherAccount: "- The email address your "
   supportDetailsOtherAccountSuffix: " account is linked with."
   orText: "or "

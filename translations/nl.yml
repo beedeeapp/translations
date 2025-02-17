@@ -140,7 +140,6 @@ Premium:
   buyWhipsHeader: Whips kopen
 # English for ⤵: Experience BeeDee the Premium way:
   title: Ervaar BeeDee op de Premium manier
-  oldSubTitle: krijg onbeperkt dagelijkse likes en wordt aan meer andere gebruikers getoond!
 # English for ⤵: |
 # ➔ Get unlimited daily likes
 # ➔ Get 1 whip per week
@@ -173,13 +172,11 @@ Premium:
   paymentVerificationIssue: Onze servers konden je aankoop op dit moment niet verifiëren. Dit is waarschijnlijk een probleem aan onze kant.
 # English for ⤵: Please get in touch via 
   contactSupportText: "Contacteer ons via "
-# English for ⤵: |
-#  and include:
+# English for ⤵:  and include:
   contactSupportInstructions: |
      en voeg toe:
     
-# English for ⤵: |
-# - The phone number and/or email address your BeeDee account is linked with.
+# English for ⤵: - The phone number and/or email address your BeeDee account is linked with.
   supportDetailsBeeDee: |
     - Het telefoonnummer en/of e-mailadres waar jouw BeeDee account aan gelinkt is.
     
@@ -306,7 +303,6 @@ addPhotos:
   errorFallbackImageAdded: Probleem bij het selecteren van je foto, we moesten deze vervangen door een zwart beeld.
 
 bdsmNotification:
-  //TODO: rename this to permission or notificaiton or something
 # English for ⤵: Permissions
   permission: Rechten
 # English for ⤵: Create my account!
@@ -317,7 +313,6 @@ bdsmNotification:
   text2: Om dit te accepteren, druk je op de onderstaande knop en accepteer je de vervolgschermen die worden weergegeven.
 
 bdsmNavigation:
-  //TODO: rename this to navigation or something
 # English for ⤵: Your BeeDee account was succesfully created!
   ThankYou: Je BeeDee account is succesvol aangemaakt!
 # English for ⤵: You can further enhance your profile with additional information, but we also understand your enthusiasm to connect with other BeeDee users right away. The choice is yours to make!
@@ -404,8 +399,6 @@ profileVisibility:
   modalText: Weet je zeker dat je je profiel wilt verbergen?
 # English for ⤵: If you want to continue chatting without getting new matches, you can hide your profile from new people here. You will be unable to look at new profiles while your own profile is hidden. You can change this at any time.
   instruction: Als je door wilt gaan met chatten zonder nieuwe matches te krijgen, kan je je profiel hier verbergen voor nieuwe mensen. Je kan niet naar nieuwe profielen kijken terwijl je eigen profiel verborgen is. Je kan dit op elk moment aanpassen.
-  imageUploaded: Afbeelding succesvol geüpload
-  imageUploadFailed: Kon afbeelding niet uploaden, probeer later opnieuw
 
 profileSafeSearch:
 # English for ⤵: Safe search
@@ -1338,8 +1331,6 @@ familyPlansData:
   doesntWantKids: Wil geen kinderen
 # English for ⤵: Has kids, wants more
   hasKidsWantsMore: Heb kinderen, wil meer kinderen
-  hasKidsUnsureAboutMore: Heb kinderen, wil misschien meer kinderen
-  hasKidsDoesntWantMore: Heb kinderen, wil geen kinderen meer
 # English for ⤵: Has kids, unsure about more
   hasKidsUnsureMore: Has kids, unsure about more
 # English for ⤵: Has kids, doesn't want more
@@ -1400,8 +1391,6 @@ openToData:
   mentor: Een mentor
 # English for ⤵: A mentee
   mentee: Een mentee
-  someoneSimilar: Iemand zoals ik
-  eventsPartner: Iemand om mee naar evenementen te gaan
 # English for ⤵: A penpal
   penpal: Een penvriend
 # English for ⤵: A friend group to join
@@ -1497,7 +1486,6 @@ genderData:
 # English for ⤵: Gender
   gender: Gender
 
-Other: Anders
 PaymentStatus:
 # English for ⤵: Payment successful!
   paymentSuccess: Payment successful!
