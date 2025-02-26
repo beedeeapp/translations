@@ -230,11 +230,11 @@ Premium:
 # English for ⤵: per month
   perMonth: par mois
 # English for ⤵: no active discount found for this code
-  discountCodeInvalid: no active discount found for this code
+  discountCodeInvalid: Pas de réduction trouvée pour ce code
 # English for ⤵: Discount applies to the initial period only, full price will charged when the subscription renews
-  discountDescription: Discount applies to the initial period only, full price will charged when the subscription renews
+  discountDescription: "La réduction s'applique pour une periode donnée, le renouvellement sera au prix initial."
 # English for ⤵: Recurring subscription, you can cancel it any time.
-  cancelAnytimeWeb: Recurring subscription, you can cancel it any time.
+  cancelAnytimeWeb: Abonnement, vous pouvez y mettre fin à tout moment.
 
 PrivacyAndTerms:
 # English for ⤵: Privacy Policy
@@ -300,7 +300,7 @@ addPhotos:
 # English for ⤵: Image failed to upload, please try again
   imageUploadFailed: Échec du chargement, veuillez réessayer
 # English for ⤵: Issue selecting your picture, we had to replace it with a black image
-  errorFallbackImageAdded: Issue selecting your picture, we had to replace it with a black image
+  errorFallbackImageAdded: "Un problème est survenu lors de la sélection de votre photo, nous l'avons remplacée par une image noire."
 
 bdsmNotification:
 # English for ⤵: Permissions
@@ -376,13 +376,13 @@ deleteAccount:
 # English for ⤵: I have found new relationship(s) and I am no longer looking for new partner(s).
   deletionReasonNoLongerLooking: "J'ai trouvé de nouvelles relations et je ne cherche plus de nouveaux partenaires."
 # English for ⤵: Other
-  otherReason: Other
+  otherReason: Autre
 # English for ⤵: Have you tried widening your criteria? BeeDee is a young, quickly growing app, new people join every day!
   bulletPointFewUsers: "Avez-vous essayé d'élargir vos critères ? BeeDee est une application jeune et en pleine croissance, de nouvelles personnes la rejoignent chaque jour !"
 # English for ⤵: Did you know you're not required to have face pictures on BeeDee? You can replace your current pictures with anonymous ones, just stick to our community rules (no nudity, no catfishing, no commercial profiles)
   bulletPointPictures: "Saviez-vous que vous n'êtes pas obligé d'avoir des photos de visage sur BeeDee ? Vous pouvez remplacer vos photos actuelles par des photos anonymes, il vous suffit de respecter nos règles communautaires (pas de nudité, pas de catfishing, pas de profils commerciaux)"
 # English for ⤵: Did you know you can simply hide your profile and disable notifications? That way your profile will be here when you're ready to date again in the future.
-  bulletPointNotDating: "Did you know you can simply hide your profile and disable notifications? That way your profile will be here when you're ready to date again in the future."
+  bulletPointNotDating: "Saviez-vous que vous pouvez cacher votre profil et désactiver vos notifications ? De cette façon, il vous attendra pour quand vous en aurez de nouveau besoin. "
 # English for ⤵: We're happy you've found new relationship(s) and hope they're fulfilling! Always welcome back in the future 🙂.
   bulletPointNoLongerLooking: "Nous sommes heureux que vous ayez trouvé de nouvelles relations et espérons qu'elles soient épanouissantes ! Nous serons toujours les bienvenus à l'avenir 🙂."
 
@@ -402,17 +402,17 @@ profileSafeSearch:
 # English for ⤵: Safe search
   headerTitle: Safe search
 # English for ⤵: While BeeDee does not allow explicit nudity, BeeDee does allow covered nudity some would consider "not safe for work". If you wish, you can let the app blur these pictures until you tap them. If you want to see all images immediately, you can disable this setting.
-  instruction: "While BeeDee does not allow explicit nudity, BeeDee does allow covered nudity some would consider \"not safe for work\". If you wish, you can let the app blur these pictures until you tap them. If you want to see all images immediately, you can disable this setting."
+  instruction: "Beedee ne permet pas de nudité explilcite, cependant, BeeDee autorise des représentations qui peuvent être considérées \"Not Safe For Work\". Si vous le souhaitez, l'application peut flouter ce genre d'image. Si vous désirez pouvoir les voir, désactivez ce paramètre"
 # English for ⤵: Unblur this image
-  modalTitle: Unblur this image
+  modalTitle: Ne pas flouter cette image
 # English for ⤵: |
 # Are you sure you want to unblur this image?
 # FYI: you can unblur all images by disabling 'safe search' in settings.
   modalDescription: |
-    Are you sure you want to unblur this image?
-    FYI: you can unblur all images by disabling 'safe search' in settings.
+    En etes-vous sûr ?
+    NB: Vous pouvez défloutter toutes les images en déactivant l'option SafeSearch.
 # English for ⤵: Tap to unblur this image
-  tapToUnblur: Tap to unblur this image
+  tapToUnblur: Touchez pour défloutter cette image
 
 notificationSetting:
 # English for ⤵: Notifications
@@ -422,11 +422,11 @@ notificationSetting:
 # English for ⤵: If you want to continue using BeeDee without receiving notifications, you can turn off notifications for this device here. Please note you need to do this for every device. You can change this setting at any time.
   instruction: Si vous souhaitez continuer à utiliser BeeDee sans recevoir de notifications, vous pouvez les désactiver pour cet appareil ici. Veuillez noter que vous devez faire cela pour chaque appareil. Vous pouvez modifier ce paramètre à tout moment..
 # English for ⤵: BeeDee notifications aren't supported on this version of iOS/macOS. Please update iOS/macOS and enable notifications in Settings.
-  notificationNotSupportDesc: "BeeDee notifications aren't supported on this version of iOS/macOS. Please update iOS/macOS and enable notifications in Settings."
+  notificationNotSupportDesc: "Les notifications de BeeDee ne sont pas supportées sur cette version d'iOS/macOS. Veuillez mettre à jour iOS/macOS et activer les notifications."
 # English for ⤵: wants to send you notifications.
-  notificationText: wants to send you notifications.
+  notificationText: veut vous envoyer des notifications.
 # English for ⤵: Notifications not supported.
-  notificationNotSupprted: Notifications not supported.
+  notificationNotSupprted: Notifications non supportées.
 
 moreAboutYou:
 # English for ⤵: Add
@@ -488,23 +488,23 @@ messageRules:
 # English for ⤵: If someone makes you feel uncomfortable, please remove the match and/or report the conversation.
   footer: "Si quelqu'un vous met mal à l'aise, veuillez supprimer la correspondance et/ou signaler la conversation."
 # English for ⤵: Gotcha
-  closeRulesButtonText: Gotcha
+  closeRulesButtonText: Compris
 
 discoverInfoModal:
 # English for ⤵: Your options after viewing a profile:
-  title: "Your options after viewing a profile:"
+  title: "Vos options après avoir vu un profil : "
 # English for ⤵: You can take three different actions after viewing a profile. From left to right:
-  buttonsInfo: "You can take three different actions after viewing a profile. From left to right:"
+  buttonsInfo: "Vous pouvez choisir quatre actions, de gauche à droite : "
 # English for ⤵: the red cross: you don't want to connect to this person. You won't see their profile again. They won't be able to send you a message.
-  dislikeButton: "the red cross: you don't want to connect to this person. You won't see their profile again. They won't be able to send you a message."
+  dislikeButton: "la croix rouge : vous ne voulez pas vous connecter à cette personne. Vous ne verrez plus son profil, Elle ne pourra pas vous contacter."
 # English for ⤵: the grey clock: "skip" this profile. You will see this profile again tomorrow, if they still meet your criteria then
-  skipButton: "the grey clock: \"skip\" this profile. You will see this profile again tomorrow, if they still meet your criteria then"
+  skipButton: "la montre grise :\"sauter\" ce profil. Vous reverez ce profil demain, s'il est toujours dans vos critères de recherche"
 # English for ⤵: the multi-colored heart with a whip: you are super interested in this person and want to skip the queue
-  whipButton: "the multi-colored heart with a whip: you are super interested in this person and want to skip the queue"
+  whipButton: "le fouet : Vous êtes super interessé.e et vous voulez passez devant la queue"
 # English for ⤵: the green heart: you are interested in connecting with this person.
-  likeButton: "the green heart: you are interested in connecting with this person."
+  likeButton: "le coeur vert : Cette personne vous interesse !"
 # English for ⤵: If you select option 3 or 4 AND they do the same on your profile, you'll have a match! You'll be able to chat to this person when this happens.
-  footer: "If you select option 3 or 4 AND they do the same on your profile, you'll have a match! You'll be able to chat to this person when this happens."
+  footer: "Si vous et selectionnez les options 3 et 4 et que la personne en face fait de même, vous avez un match ! Vous pourrez dès lors échanger avec elle."
 
 chatFooterComp:
 # English for ⤵: Enter message
@@ -520,23 +520,23 @@ menuPopUp:
 
 seeWhoLikedYou:
 # English for ⤵: Your likes
-  title: Your likes
+  title: Vos likes
 # English for ⤵: They liked you
-  theyLikedYou: They liked you
+  theyLikedYou: Vos likes reçus
 # English for ⤵: You liked them
-  youLikedThem: You liked them
+  youLikedThem: Vos likes envoyés
 # English for ⤵: Compatible
   compatible: Compatible
 # English for ⤵: Premium BeeDee users can see who sent them a like here
-  notPremium: Premium BeeDee users can see who sent them a like here
+  notPremium: Les utilisateurs premium peuvent voir les utilisateurs qui les ont likés ici
 # English for ⤵: See who liked you
-  upgradeButton: Upgrade to premium to see who liked you
+  upgradeButton: Optez pour premium !
 # English for ⤵: You don't have any outstanding likes
-  nonLikedYou: "You don't have any outstanding likes"
+  nonLikedYou: "Vous n'avez pas de likes reçus"
 # English for ⤵: You did not send any unresponsed likes in the past 7 days
-  nonYouLiked: You did not send any unresponsed likes in the past 7 days
+  nonYouLiked: "Vous n'avez pas envoyé de like sans réponse durant les 7 derniers jours"
 # English for ⤵: You can see the likes you sent in the past 7 days here, so you can upgrade them to a Whip if you want to
-  youLikedInfo: You can see the likes you sent in the past 7 days here, so you can upgrade them to a Whip if you want to
+  youLikedInfo: "Vous pouvez voir ici les likes envoyés ces 7 derniers jours, vous pouvez les accompagner d'un Whip si vous le voulez"
 
 chat:
 # English for ⤵: Conversations
@@ -560,7 +560,7 @@ chat:
 # English for ⤵: Message Rules
   chatRuleLinkText2: "règles relatives aux messages "
 # English for ⤵:  at all times
-  chatRuleLinkText3: en tout temps
+  chatRuleLinkText3: à tout moment
 # English for ⤵: All
   all: Tout
 # English for ⤵: Partners
@@ -598,7 +598,7 @@ creditTextData:
 # English for ⤵: You can wait for more people within your search criteria to join, or pick one of the following:
   noProfileText3: "Vous pouvez attendre que d'autres personnes correspondant à vos critères de recherche nous rejoignent, ou sélectionnez l'une des options suivantes:"
 # English for ⤵: We're enabling Discover region by region, to ensure we can offer you a safe and rewarding matching experience.
-  notLiveText1: Nous activons la découverte région par région,afin de nous assurer que nous pouvons vous offrir la meilleure expérience possible.
+  notLiveText1: Nous activons la découverte région par région, afin de nous assurer que nous pouvons vous offrir la meilleure expérience possible.
 # English for ⤵: |
 # Please keep BeeDee on your device, and make sure notifications are turned on.
 # 
@@ -681,12 +681,12 @@ partnerDiscover:
 # Please change 'Profile visibility' under Settings 
 #  if you want to discover profiles
   profileHiddenSubtitle2: |
-    Please change 'Profile visibility' under Settings 
-     if you want to discover profiles
+    Veuillez changer votre visibilité dans les Paramètres 
+     si vous voulez découvrir des profils
 # English for ⤵: Learn How
-  learnHow: Learn How
+  learnHow: Apprenez comment
 # English for ⤵: Location permission is disabled. Please enable it from browser settings. Click on 'Learn How'.
-  locationDisabled: "Location permission is disabled. Please enable it from browser settings. Click on 'Learn How'."
+  locationDisabled: "La localisation n'est pas autorisée. Veuillez l'activer dans vos paramètres de navigateur. Cliquez sur 'Apprendre comment'."
 
 Preferences:
 # English for ⤵: Discovery preferences
@@ -698,7 +698,7 @@ Preferences:
 # English for ⤵: Please select at least one gender you are open to
   errorMsg: Veuillez sélectionner au moins un genre auquel vous êtes ouvert
 # English for ⤵: Age range
-  ageRange: Age range
+  ageRange: "tranche d'âge"
 # English for ⤵: Maximum distance
   maximumMiles: Distance maximale
 # English for ⤵: Open to meeting people of these genders:
@@ -770,17 +770,17 @@ unsubscribe:
 # English for ⤵: App Store
   appStore: App Store
 # English for ⤵: You are currently subscribed to a BeeDee premium membership subscription. If you really want to cancel this subscription, you can do so here.
-  instructionToUnsubscribeWeb: You are currently subscribed to a BeeDee premium membership subscription. If you really want to cancel this subscription, you can do so here.
+  instructionToUnsubscribeWeb: Vous avez souscris à BeeDee Premium, si vous voulez mettre fin à votre abonnement, vous pouvez le faire ici.
 # English for ⤵: Cancel subscription
-  cancelSubscribe: Cancel subscription
+  cancelSubscribe: Annuler la souscription
 # English for ⤵: |
 # Are you sure you want to cancel your subscription?
 # You'll need to wait for your membership to expire before you'll be able to subscribe again.
   cancelSubscribeText: |
-    Are you sure you want to cancel your subscription?
-    You'll need to wait for your membership to expire before you'll be able to subscribe again.
+    Êtes-vous certain.e de vouloir résilier votre abonnement ?
+    Vous devrez attendre l'expiration de votre abonnement actuel avant de pouvoir vous réinscrire.
 # English for ⤵: You are currently a Premium BeeDee user, but your subscription to this has been cancelled. If you want to become premium again after your current membership lapses, you can come back here to subscribe to BeeDee premium again
-  subscriptionCancelled: You are currently a Premium BeeDee user, but your subscription to this has been cancelled. If you want to become premium again after your current membership lapses, you can come back here to subscribe to BeeDee premium again
+  subscriptionCancelled: "Vous êtes actuellement un utilisateur Premium BeeDee, mais votre abonnement à celui-ci a été résilié. Si vous souhaitez redevenir premium après l'expiration de votre abonnement actuel, vous pouvez revenir ici pour vous abonner à nouveau à BeeDee premium."
 
 editProfile:
 # English for ⤵: Edit your profile
@@ -824,19 +824,19 @@ editProfile:
 # English for ⤵: Are you looking for friends, a partner, or both? And which types of friendship/relationships interest you?
   lookingForSubtitle: "Vous êtes à la recherche de contacts ? d'un·e partenaire ? Des deux ? Quel genre de relation cherchez-vous ?"
 # English for ⤵: Delete prompt
-  deletePrompt: Delete prompt
+  deletePrompt: Effacer accroche
 # English for ⤵: Are you sure you want to delete this prompt?
-  deletePromptConfirmation: Are you sure you want to delete this prompt?
+  deletePromptConfirmation: En êtes-vous sûr·e ?
 # English for ⤵: Delete picture
-  deletePhoto: Delete picture
+  deletePhoto: Effacer photo
 # English for ⤵: Are you sure you want to delete this picture?
-  deletePhotoConfirmation: Are you sure you want to delete this picture?
+  deletePhotoConfirmation: En êtes-vous sûr·e ?
 # English for ⤵: Rear camera not available or permission denied.
-  cameraNotAvailable: Rear camera not available or permission denied.
+  cameraNotAvailable: Caméra arrière indisponible ou non autorisée.
 # English for ⤵: Link partner
-  linkPartner: Link partner
+  linkPartner: Lier Partenaire
 # English for ⤵: Link
-  link: Link
+  link: Lier
 
 myPartners:
 # English for ⤵: Manage your partners
@@ -844,7 +844,7 @@ myPartners:
 # English for ⤵: Add a Partner
   addButton: Ajouter un·e partenaire
 # English for ⤵: Are you sure?
-  modalTitle: "En êtes-vous sur ?"
+  modalTitle: "En êtes-vous sûr·e ?"
 # English for ⤵: This will remove this partner, you can always add them back later
   modalDes: "Ce·tte partenaire va être supprimé·e, vous pourrez toujours les ré-ajouter plus tard"
 # English for ⤵: Add partner(s) to show them here
@@ -864,13 +864,13 @@ myPartners:
 # English for ⤵: Pending
   pending: En attente
 # English for ⤵: Not on BeeDee
-  notOnBeeDee: Not on BeeDee
+  notOnBeeDee: Pas sur BeeDee
 # English for ⤵: Link with your partner
   linkYourPartner: Link with your partner
 # English for ⤵: Paste the partner ID below to link with your partner.
-  linkPartnerText: Paste the partner ID below to link with your partner.
+  linkPartnerText: "Collez l'ID de votre partenaire ici."
 # English for ⤵: Partner ID or link
-  invitationCode: Partner ID or link
+  invitationCode: ID ou lien du partenaire
 
 addPartner:
 # English for ⤵: Add a Partner
@@ -1118,21 +1118,21 @@ Units:
 # ➔ Metric (cm for height, km for distance) 
 # ➔ Imperial (feet and inches for height, miles for distance)
   info: |
-    Please select your preferred unit system for measurements: 
-    ➔ Metric (cm for height, km for distance) 
-    ➔ Imperial (feet and inches for height, miles for distance)
+    Veuillez sélectionner votre système de mesure: 
+    ➔ Métrique (cm pour la taille, km pour les distances) 
+    ➔ Impérial (pieds et pouces pour la taille, miles pour les distances)
 
 permissionsRequired:
 # English for ⤵: Permission needed
-  required: Permission needed
+  required: Permission requise
 # English for ⤵: We need access to your photo library to do this. Please enable it in the app settings or upload pictures using your camera.
-  photoSettingDes: We need access to your photo library to do this. Please enable it in the app settings or upload pictures using your camera.
+  photoSettingDes: "Nous avons besoin d'acceder à votre bibliothèque photo. Veuillez donner les autorisations requises ou utiliser votre caméra."
 # English for ⤵: The BeeDee app needs permission to your camera to do this. Please enable it in the app settings or upload pictures from your library.
-  cameraSettingDes: The BeeDee app needs permission to your camera to do this. Please enable it in the app settings or upload pictures from your library.
+  cameraSettingDes: "L'application à besoin d'acceder à votre caméra. Veuillez donner les autorisations requises ou utilisez votre bibliothèque."
 # English for ⤵: Open settings
-  openSetting: Open settings
+  openSetting: Ouvrir les Paramètres
 # English for ⤵: Permission denied
-  permissionDenied: Permission denied
+  permissionDenied: Permission refusée
 
 commonText:
 # English for ⤵: Next
@@ -1232,9 +1232,9 @@ commonText:
 # English for ⤵: Close
   Close: Fermer
 # English for ⤵: Crop & Upload
-  cropAndUpload: Crop & Upload
+  cropAndUpload: Rogner et Sauvegarder
 # English for ⤵: Allow
-  Allow: Allow
+  Allow: Autoriser
 
 additionalInfo:
 # English for ⤵: Main role
@@ -1288,29 +1288,29 @@ reportUserData:
 # English for ⤵: Child Safety Concerns
   childSafety: Child Safety Concerns
 # English for ⤵: Nudity
-  nudity: Nudity
+  nudity: Nudité
 
 PaymentStatus:
 # English for ⤵: Payment successful!
-  paymentSuccess: Payment successful!
+  paymentSuccess: Payment réussi !
 # English for ⤵: Payment failed!
-  paymentFailed: Payment failed!
+  paymentFailed: Échec du payment !
 # English for ⤵: Your payment has been successfully processed!
-  successText: Your payment has been successfully processed!
+  successText: Votre payement à été accepté !
 # English for ⤵: Unfortunately, your payment could not be processed. Please try again.
-  failedText: Unfortunately, your payment could not be processed. Please try again.
+  failedText: Malheureusement votre payement à échoué. Veuillez réessayer.
 # English for ⤵: Try Again
-  tryAgain: Try Again
+  tryAgain: Réessayer
 # English for ⤵: You are now a premium BeeDee user!
-  nowPremiumUser: You are now a premium BeeDee user!
+  nowPremiumUser: Vous êtes desormais un utilisateur Premium !
 # English for ⤵: Your Whips have now been added to your account!
-  whipsAddedToAccount: Your Whips have now been added to your account!
+  whipsAddedToAccount: Vos Whips ont été ajoutés à votre compte !
 # English for ⤵: Please contact help desk if you are facing any issue regarding payment.
-  contactHelpDesk: Please contact help desk if you are facing any issue regarding payment.
+  contactHelpDesk: Contactez nous si vous avez des problèmes pour vos achats.
 
 enableLocationTutorial:
 # English for ⤵: Here's how to enable location services for this website:
-  title: "Here's how to enable location services for this website:"
+  title: "Voici comment activer la localisation pour ce site :"
 # English for ⤵: Check your browser settings:
   checkBrowserSetting: "Check your browser settings:"
   chrome:
@@ -1323,8 +1323,8 @@ enableLocationTutorial:
 #     - Under Permissions, select Location.
 #     - Look for https://web.beedee.app and set it to Allow.
       steps:
-        - Open Chrome.
-        - Go to Settings > Privacy and Security > Site Settings.
+        - Ouvrez Chrome.
+        - Allez dans Go to Settings > Privacy and Security > Site Settings.
         - Under Permissions, select Location.
         - "Look for https://web.beedee.app and set it to Allow."
 
@@ -1381,9 +1381,9 @@ enableLocationTutorial:
 #     - Under Permissions, find Location and click Settings....
 #     - Go to Exceptions and add/edit https://web.beedee.app to Allow.
       steps:
-        - Open Firefox.
-        - Go to Settings > Privacy & Security.
-        - Under Permissions, find Location and click Settings....
+        - Ouvrez Firefox.
+        - Allez dans Paramètres > Vie privée et sécurité.
+        - Dans Permissions, trouvez Localisation et Paramètres...
         - "Go to Exceptions and add/edit https://web.beedee.app to Allow."
 
 
@@ -1430,11 +1430,11 @@ enableLocationTutorial:
 
 
 # English for ⤵: Your browser is not recognized. Please check your browser's documentation for how to enable location services.
-  default: "Your browser is not recognized. Please check your browser's documentation for how to enable location services."
+  default: "Votre navigateur n'est pas reconnu. Veuillez vérifier la documantation pour activer les paramètres de localisation."
 # English for ⤵: Generally, you can find location settings in the privacy or security section of your browser's settings.
-  defaultInstruction: "Generally, you can find location settings in the privacy or security section of your browser's settings."
+  defaultInstruction: "Ils sont généralement situés dans la section Vie Privée ou Sécurité."
 # English for ⤵: Allow notification for this website
-  allowNotificationForThisWebsite: Allow notification for this website
+  allowNotificationForThisWebsite: Autoriser les notifications pour ce site
 # English for ⤵: Once you've enabled location permissions in your browser settings, you should be prompted to allow or deny location access for this specific website.
   allowLoca1: "Once you've enabled location permissions in your browser settings, you should be prompted to allow or deny location access for this specific website."
 # English for ⤵: Click 'Allow' to grant permission.
@@ -1592,37 +1592,37 @@ openToData:
 
 lookingForData:
 # English for ⤵: partners
-  partners: partners
+  partners: partenaires
 # English for ⤵: friends
-  friends: friends
+  friends: amis
 
 relationData:
 # English for ⤵: Dominant of
-  dominantOf: Dominant of
+  dominantOf: Dominant de
 # English for ⤵: Daddy of
-  daddyOf: Daddy of
+  daddyOf: Daddy de
 # English for ⤵: Mommy of
-  mommyOf: Mommy of
+  mommyOf: Mommy de
 # English for ⤵: Babyboy of
-  babyboyOf: Babyboy of
+  babyboyOf: Babyboy de
 # English for ⤵: Babygirl of
-  babygirlOf: Babygirl of
+  babygirlOf: Babygirl de
 # English for ⤵: Switch of
-  switchOf: Switch of
+  switchOf: Switch de
 # English for ⤵: Submissive of
-  submissiveOf: Submissive of
+  submissiveOf: Soumis.e de
 # English for ⤵: Master of
-  masterOf: Master of
+  masterOf: Maitre de
 # English for ⤵: Mistress of
-  mistressOf: Mistress of
+  mistressOf: Maitresse de
 # English for ⤵: Owner of
-  ownerOf: Owner of
+  ownerOf: Propriétaire de
 # English for ⤵: Slave of
-  slaveOf: Slave of
+  slaveOf: Esclave de
 # English for ⤵: Owned by
-  ownedBy: Owned by
+  ownedBy: Possedé par
 # English for ⤵: Owned and Collared by
-  ownedAndCollaredBy: Owned and Collared by
+  ownedAndCollaredBy: Possedé par
 # English for ⤵: Degrader of
   degraderOf: Degrader of
 # English for ⤵: Degradee of
@@ -1630,53 +1630,53 @@ relationData:
 # English for ⤵: Brat of
   bratOf: Brat of
 # English for ⤵: Brat Tamer of
-  bratTamerOf: Brat Tamer of
+  bratTamerOf: Dresseur de 
 # English for ⤵: Pet of
-  petOf: Pet of
+  petOf: Pet de
 # English for ⤵: Rigger to
-  riggerTo: Rigger to
+  riggerTo: Rigger de
 # English for ⤵: Rope Bunny to
-  ropeBunnyTo: Rope Bunny to
+  ropeBunnyTo: Rope Bunny de
 # English for ⤵: In a relationship with
-  inRelationshipWith: In a relationship with
+  inRelationshipWith: En relation avec
 # English for ⤵: Engaged with
-  engagedWith: Engaged with
+  engagedWith: Fiancé.e à
 # English for ⤵: Married to
-  marriedTo: Married to
+  marriedTo: Marrié à
 # English for ⤵: Dating
-  dating: Dating
+  dating: Sort avec 
 # English for ⤵: In an open relationship with
-  inOpenRelationshipWith: In an open relationship with
+  inOpenRelationshipWith: En relation ouverte avec
 # English for ⤵: In a poly relationship with
-  inPolyRelationshipWith: In a poly relationship with
+  inPolyRelationshipWith: En relation poly avec
 # English for ⤵: Non-monogamous with
-  nonMonogamousWith: "Non-monogamous with"
+  nonMonogamousWith: "Non-monogame avec"
 # English for ⤵: Nesting partner of
-  nestingPartnerOf: Nesting partner of
+  nestingPartnerOf: Partenaire de niz de
 # English for ⤵: Matamour of
-  metamourOf: Matamour of
+  metamourOf: Metamour de
 # English for ⤵: Friends with Benefits with
-  friendsWithBenefitsWith: Friends with Benefits with
+  friendsWithBenefitsWith: Friends with Benefits avec
 # English for ⤵: Play partners with
-  playPartnersWith: Play partners with
+  playPartnersWith: Partenaire de jeu avec
 # English for ⤵: It's complicated with
-  itsComplicatedWith: "It's complicated with"
+  itsComplicatedWith: "C'est compliqué avec"
 
 genderData:
 # English for ⤵: Gender
-  gender: Gender
+  gender: Genre
 # English for ⤵: Man
-  man: Man
+  man: Homme
 # English for ⤵: Woman
-  woman: Woman
+  woman: Femme
 # English for ⤵: Man - Trans FtM
-  manTransFtm: "Man - Trans FtM"
+  manTransFtm: "Homme - Trans FtM"
 # English for ⤵: Woman - Trans MtF
-  womanTransMtf: "Woman - Trans MtF"
+  womanTransMtf: "Femme - Trans MtF"
 # English for ⤵: Non-binary
-  nonBinary: "Non-binary"
+  nonBinary: "Non-binaire"
 
 otherData:
 # English for ⤵: Other
-  other: Other
+  other: Autre
 
