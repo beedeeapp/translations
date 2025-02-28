@@ -57,7 +57,7 @@ personalBirthday:
 # English for ⤵: Next
   btnText: Suivant
 # English for ⤵: 'Please enter a valid birthday
-  errorMsg: "'Veuillez entrer une date de naissance valide"
+  errorMsg: "Veuillez entrer une date de naissance valide"
 # English for ⤵: Warning: you won't be able to change this later!
   warningText: "Attention : vous ne pourrez plus le changer plus tard !"
 
@@ -146,10 +146,10 @@ Premium:
 # ➔ Be shown more to other users
 # ➔ See who sent you a like
   subTitle: |
-    ➔ Get unlimited daily likes
-    ➔ Get 1 whip per week
-    ➔ Be shown more to other users
-    ➔ See who sent you a like
+    ➔ Obtenez un nombre de likes par jour illimité
+    ➔ Obtenez 1 whip par semaine
+    ➔ Être davantage montré aux autres utilisateurs
+    ➔ Voir qui vous a envoyé un like
 # English for ⤵: Premium is not yet available for purchase in the country your store account is linked to.
   premiumNotAvailable: "Premium n'est pas encore disponible à l'achat dans votre pays."
 # English for ⤵: Buying premium is unavailable on iOS for now.
@@ -1286,7 +1286,7 @@ reportUserData:
 # English for ⤵: Underage
   underage: Mineur
 # English for ⤵: Child Safety Concerns
-  childSafety: Child Safety Concerns
+  childSafety: "Sécurité de l'enfant"
 # English for ⤵: Nudity
   nudity: Nudité
 
@@ -1312,7 +1312,7 @@ enableLocationTutorial:
 # English for ⤵: Here's how to enable location services for this website:
   title: "Voici comment activer la localisation pour ce site :"
 # English for ⤵: Check your browser settings:
-  checkBrowserSetting: "Check your browser settings:"
+  checkBrowserSetting: "Vérifiez les paramètres de votre navigateur :"
   chrome:
     desktop:
 #     English for ⤵: Chrome (Desktop)
@@ -1325,8 +1325,8 @@ enableLocationTutorial:
       steps:
         - Ouvrez Chrome.
         - Allez dans Go to Settings > Privacy and Security > Site Settings.
-        - Under Permissions, select Location.
-        - "Look for https://web.beedee.app and set it to Allow."
+        - Dans Autorisations, sélectionnez Emplacement.
+        - "Recherchez https://web.beedee.app et réglez-le sur Autorisé."
 
 
     mobile:
@@ -1337,9 +1337,9 @@ enableLocationTutorial:
 #     - Tap the lock icon in the address bar > Permissions.
 #     - Set Location to Allow.
       steps:
-        - "Open Chrome and go to https://web.beedee.app."
-        - Tap the lock icon in the address bar > Permissions.
-        - Set Location to Allow.
+        - "Ouvrez Chrome et allez sur https://web.beedee.app."
+        - "Appuyez sur l'icône de cadenas dans la barre d'adresse > Permissions."
+        - Définir la localisation sur Autoriser.
 
 
 
@@ -1352,9 +1352,9 @@ enableLocationTutorial:
 #     - In the top menu bar, go to Safari > Settings (or Preferences) > Websites > Location.
 #     - Find https://web.beedee.app and set it to Allow.
       steps:
-        - Open Safari.
-        - In the top menu bar, go to Safari > Settings (or Preferences) > Websites > Location.
-        - "Find https://web.beedee.app and set it to Allow."
+        - Ouvrez Safari.
+        - Dans la barre de Menu, Allez dans Safari > Paramettres > Sites web > Localisation.
+        - "Trouvez https://web.beedee.app et réglez-le sur Autoriser."
 
 
     mobile:
@@ -1365,9 +1365,9 @@ enableLocationTutorial:
 #     - 2) Open 'Safari' > 'Location' and ensure web.beedee.app is set to 'Allow' or 'Ask'
 #     - If you're still facing issues, try force-closing and restarting the app, and ultimately let us know at help@beedee.com if the issue persists.
       steps:
-        - "Open the Settings app and: 1) open 'Location Services' > 'Safari Websites'. Ensure this is set to 'Allow' or 'Ask'."
-        - "2) Open 'Safari' > 'Location' and ensure web.beedee.app is set to 'Allow' or 'Ask'"
-        - "If you're still facing issues, try force-closing and restarting the app, and ultimately let us know at help@beedee.com if the issue persists."
+        - "Ouvrez les Paramètres et : 1) Ouvrez Services de localisation > Sites web Safari. Assurez-vous que le paramètre est réglé sur Autoriser ou Demander."
+        - "2) Ouvrez Safari > Emplacement et assurez-vous que web.beedee.app est réglé sur Autoriser ou Demander."
+        - "Si vous rencontrez toujours des problèmes, essayez de forcer la fermeture et le redémarrage de l'application, puis faites-nous savoir à l'adresse help@beedee.com si le problème persiste."
 
 
 
@@ -1384,7 +1384,7 @@ enableLocationTutorial:
         - Ouvrez Firefox.
         - Allez dans Paramètres > Vie privée et sécurité.
         - Dans Permissions, trouvez Localisation et Paramètres...
-        - "Go to Exceptions and add/edit https://web.beedee.app to Allow."
+        - "Allez dans Exceptions et ajoutez/modifiez https://web.beedee.app à Autoriser."
 
 
     mobile:
@@ -1395,9 +1395,9 @@ enableLocationTutorial:
 #     - Tap the lock icon in the address bar > Permissions.
 #     - In Location Permissions, ensure it's set to Allow.
       steps:
-        - "Open Firefox and go to https://web.beedee.app."
-        - Tap the lock icon in the address bar > Permissions.
-        - "In Location Permissions, ensure it's set to Allow."
+        - "Ouvrez Firefox et allez sur https://web.beedee.app."
+        - "Appuyez sur l'icône de cadenas dans la barre d'adresse > Permissions."
+        - "Dans les autorisations d'emplacement, assurez-vous que le paramètre est défini sur Autoriser."
 
 
 
@@ -1410,9 +1410,9 @@ enableLocationTutorial:
 #     - Navigate to Settings > Cookies and Site Permissions > Location.
 #     - Find https://web.beedee.app in the list, and select Allow.
       steps:
-        - Open Microsoft Edge.
-        - Navigate to Settings > Cookies and Site Permissions > Location.
-        - "Find https://web.beedee.app in the list, and select Allow."
+        - Ouvrez Microsoft Edge.
+        - Accédez à Paramètres > Cookies et autorisations de site > Emplacement.
+        - "Recherchez https://web.beedee.app dans la liste et sélectionnez Autoriser."
 
 
     mobile:
@@ -1423,9 +1423,9 @@ enableLocationTutorial:
 #     - Tap the lock icon in the address bar > Site permissions.
 #     - Set Location to Allow.
       steps:
-        - "Open Edge and go to https://web.beedee.app."
-        - Tap the lock icon in the address bar > Site permissions.
-        - Set Location to Allow.
+        - "Ouvrez Edge et allez sur https://web.beedee.app."
+        - "Appuyez sur l'icône du cadenas dans la barre d'adresse > Autorisations du site."
+        - "Réglez Emplacement sur Autoriser."
 
 
 
@@ -1436,55 +1436,55 @@ enableLocationTutorial:
 # English for ⤵: Allow notification for this website
   allowNotificationForThisWebsite: Autoriser les notifications pour ce site
 # English for ⤵: Once you've enabled location permissions in your browser settings, you should be prompted to allow or deny location access for this specific website.
-  allowLoca1: "Once you've enabled location permissions in your browser settings, you should be prompted to allow or deny location access for this specific website."
+  allowLoca1: "Une fois que vous avez activé les autorisations de localisation dans votre navigateur, vous devriez être invité à autoriser ou à refuser l'accès à la localisation pour ce site web."
 # English for ⤵: Click 'Allow' to grant permission.
-  allowLoc2: "Click 'Allow' to grant permission."
+  allowLoc2: "Cliquez 'Autoriser' pour donner la permission."
 # English for ⤵: If you have previously denied location access, you may need to clear your browser cache or check your settings to re-enable it.
-  generalNote: "If you have previously denied location access, you may need to clear your browser cache or check your settings to re-enable it."
+  generalNote: "Si vous avez précédemment refusé l'accès à la localisation, il se peut que vous deviez vider le cache de votre navigateur ou vérifier vos paramètres pour le réactiver."
 
 cameraAccessErrors:
 # English for ⤵: Camera access denied. Please allow camera access.
-  accessDenied: Camera access denied. Please allow camera access.
+  accessDenied: "L'accès à la caméra est refusé. Veuillez l'autoriser."
 # English for ⤵: No camera found. Please connect a camera to continue.
-  noCameraFound: No camera found. Please connect a camera to continue.
+  noCameraFound: "Aucune camera trouvée. Veuillez vérifier qu'elle soit allumée et connectée."
 # English for ⤵: Camera is in use or unavailable.
-  notReadable: Camera is in use or unavailable.
+  notReadable: Camera déjà utilisée ou indisponible.
 # English for ⤵: Access to camera blocked due to security settings.
-  securitySettings: Access to camera blocked due to security settings.
+  securitySettings: "L'accès à la caméra est refusé à cause de réglages de sécurité."
 
 installPWA:
 # English for ⤵: Get the Best Experience!
-  title: Get the Best Experience!
+  title: Vivez la meilleur expérience ! 
 # English for ⤵: |
 # To install BeeDee, tap "Add to Home Screen". You can find this here:
 # In Chrome: tap "⋮" in the top right
 # In Firefox: tap "⋮" in the bottom right
 # In Safari: tap 'share'
   stepsToInstall: |
-    To install BeeDee, tap "Add to Home Screen". You can find this here:
-    In Chrome: tap "⋮" in the top right
-    In Firefox: tap "⋮" in the bottom right
-    In Safari: tap 'share'
+    Pour installer BeeDee, appuyez sur « Ajouter à l'écran d'accueil ».
+    Dans Chrome : Aller dans "⋮" dans le coin droit supérieur
+    Dans Firefox : Aller dans "⋮" dansle coin droit inférieur
+    Dans Safari : Allez dans 'partager'
 # English for ⤵: Use BeeDee like a native app on your device. Click 'Install BeeDee' to add it to your home screen.
-  clickInstall: "Use BeeDee like a native app on your device. Click 'Install BeeDee' to add it to your home screen."
+  clickInstall: "Utilisez BeeDee comme une application native sur votre appareil. Cliquez sur 'Installer BeeDee' pour l'ajouter à votre écran d'accueil"
 # English for ⤵: If installation doesn't start, look for 'Add to Home Screen' or 'Install' in your browser's menu.
-  installDoesNotStart: "If installation doesn't start, look for 'Add to Home Screen' or 'Install' in your browser's menu."
+  installDoesNotStart: "Si l'installation ne démarre pas, recherchez « Ajouter à l'écran d'accueil » ou « Installer » dans le menu de votre navigateur."
 # English for ⤵: Installation is unavailable. Please ensure you're using a supported browser and the app meets PWA criteria.
-  pwaUnavailable: "Installation is unavailable. Please ensure you're using a supported browser and the app meets PWA criteria."
+  pwaUnavailable: "L'installation n'est pas disponible. Veuillez vous assurer que vous utilisez un navigateur compatible et que l'application répond aux critères PWA."
 # English for ⤵: To install this app, please open the website in Safari, tap the Share icon (↑ in the square box at the bottom of your screen), and select 'Add to Home Screen.' This will allow you to use it as a full app!
-  openInSafari: "To install this app, please open the website in Safari, tap the Share icon (↑ in the square box at the bottom of your screen), and select 'Add to Home Screen.' This will allow you to use it as a full app!"
-
+  openInSafari: "Pour installer cette application, veuillez ouvrir le site web dans Safari, appuyez sur l'icône de partage (↑ dans la case carrée en bas de votre écran), et sélectionnez « Ajouter à l'écran d'accueil ». Cela vous permettra de l'utiliser comme une application à part entière !"
+  
 incognitoMode:
 # English for ⤵: Incognito Mode Not Supported
-  incognitoNotSupport: Incognito Mode Not Supported
+  incognitoNotSupport: Mode Incognito non supportée
 # English for ⤵: For BeeDee to properly work, BeeDee needs access to features that are not available when browsing incognito. So unfortunately we cannot offer BeeDee to incognito browsers for now. Please use a regular browser session to continue.
-  description: For BeeDee to properly work, BeeDee needs access to features that are not available when browsing incognito. So unfortunately we cannot offer BeeDee to incognito browsers for now. Please use a regular browser session to continue.
+  description: "Pour fonctionner correctement, BeeDee a besoin d'accéder à des fonctionnalités qui ne sont pas disponibles en cas de navigation incognito. Nous ne pouvons donc malheureusement pas offrir BeeDee aux navigateurs incognito pour le moment. Veuillez utiliser une session de navigation normale pour continuer."
 # English for ⤵: Open in Regular Mode
-  openRegular: Open in Regular Mode
+  openRegular: Ouvrir en mode normal
 
 rolesData:
 # English for ⤵: Master/Mistress
-  masterMistress: Master/Mistress
+  masterMistress: Maître/Maîtresse
 # English for ⤵: Dominant
   dominant: Dominant
 # English for ⤵: Top
@@ -1496,9 +1496,9 @@ rolesData:
 # English for ⤵: Bottom
   bottom: Bottom
 # English for ⤵: Submissive
-  submissive: Submissive
+  submissive: Soumis/Soumise
 # English for ⤵: Slave
-  slave: Slave
+  slave: Esclave
 # English for ⤵: Rigger
   rigger: Rigger
 # English for ⤵: Rope bunny
@@ -1506,89 +1506,89 @@ rolesData:
 
 pronounsData:
 # English for ⤵: he/him
-  heHim: he/him
+  heHim: Il/Lui
 # English for ⤵: she/her
-  sheHer: she/her
+  sheHer: Elle/Elle
 # English for ⤵: they/them
-  theyThem: they/them
+  theyThem: Iel/Ielle
 
 familyPlansData:
 # English for ⤵: Wants kids
-  wantsKids: Wants kids
+  wantsKids: Veut des enfants
 # English for ⤵: Unsure about kids
-  unsureAboutKids: Unsure about kids
+  unsureAboutKids: Je ne suis pas certain
 # English for ⤵: Doesn't want kids
-  doesntWantKids: "Doesn't want kids"
+  doesntWantKids: "Ne veut pas d'enfants"
 # English for ⤵: Has kids, wants more
-  hasKidsWantsMore: Has kids, wants more
+  hasKidsWantsMore: "J'ai des enfants et j'en veux encore"
 # English for ⤵: Has kids, unsure about more
-  hasKidsUnsureMore: Has kids, unsure about more
+  hasKidsUnsureMore: "J'ai des enfants, mais pourqouoi pas plus"
 # English for ⤵: Has kids, doesn't want more
-  hasKidsNoMore: "Has kids, doesn't want more"
+  hasKidsNoMore: "J'ai des enfants et ça me suffit"
 
 educationLevelData:
 # English for ⤵: High school
-  highSchool: High school
+  highSchool: Lycée
 # English for ⤵: In college
-  inCollege: In college
+  inCollege: Enseignement Supérieur
 # English for ⤵: Trade school
-  tradeSchool: Trade school
+  tradeSchool: Enseignement Professionnel
 # English for ⤵: Bachelors
-  bachelors: Bachelors
+  bachelors: Licence
 # English for ⤵: Masters
-  masters: Masters
+  masters: Master
 # English for ⤵: PhD
-  phd: PhD
+  phd: Doctorat
 
 politicalOrientationData:
 # English for ⤵: Left-leaning
-  leftLeaning: "Left-leaning"
+  leftLeaning: "Gauche"
 # English for ⤵: Central
-  central: Central
-# English for ⤵: Right-leaning
-  rightLeaning: "Right-leaning"
+  central: Centre
+# English for ⤵: Droite
+  rightLeaning: "Droite"
 # English for ⤵: I don't follow politics
-  dontFollowPolitics: "I don't follow politics"
+  dontFollowPolitics: "Cela ne m'interesse pas"
 
 frequencyData:
 # English for ⤵: Regularly
-  regularly: Regularly
+  regularly: Réguliérement
 # English for ⤵: Socially
-  socially: Socially
+  socially: Socialement
 # English for ⤵: Rarely
-  rarely: Rarely
+  rarely: Rarement
 # English for ⤵: Never
-  never: Never
+  never: Jamais
 
 openToData:
 # English for ⤵: Friendship
   friendship: Friendship
 # English for ⤵: A monogamous relationship
-  monogamousRelationship: A monogamous relationship
+  monogamousRelationship: Une relation monogame
 # English for ⤵: An open relationship
-  openRelationship: An open relationship
+  openRelationship: Une relation ouverte
 # English for ⤵: A polyamourous relationship
-  polyamorousRelationship: A polyamourous relationship
+  polyamorousRelationship: Une relation polyamoureuse
 # English for ⤵: A one night stand
-  oneNightStand: A one night stand
+  oneNightStand: Une relation courte
 # English for ⤵: A play partner
-  playPartner: A play partner
+  playPartner: Un·e partenaire de jeu
 # English for ⤵: A friends with benefits
   friendsWithBenefits: A friends with benefits
 # English for ⤵: A 24/7 lifestyle dynamic
-  lifestyleDynamic: A 24/7 lifestyle dynamic
+  lifestyleDynamic: Une dynamique 24/7
 # English for ⤵: A mentor
-  mentor: A mentor
+  mentor: Un·e mentor
 # English for ⤵: A mentee
-  mentee: A mentee
+  mentee: Un·e pupille
 # English for ⤵: Someone similar to me
-  similarPerson: Someone similar to me
+  similarPerson: "Quelqu'un comme moi"
 # English for ⤵: Someone to go to events with
-  eventPartner: Someone to go to events with
+  eventPartner: "Un·e partenaire pour des évenements"
 # English for ⤵: A penpal
-  penpal: A penpal
+  penpal: Un·e coorespondant·e
 # English for ⤵: A friend group to join
-  friendGroup: A friend group to join
+  friendGroup: "Un groupe d'ami·es à rejoindre"
 
 lookingForData:
 # English for ⤵: partners
@@ -1640,9 +1640,9 @@ relationData:
 # English for ⤵: In a relationship with
   inRelationshipWith: En relation avec
 # English for ⤵: Engaged with
-  engagedWith: Fiancé.e à
+  engagedWith: Fiancé·e à
 # English for ⤵: Married to
-  marriedTo: Marrié à
+  marriedTo: Marrié·e à
 # English for ⤵: Dating
   dating: Sort avec 
 # English for ⤵: In an open relationship with
@@ -1670,9 +1670,9 @@ genderData:
 # English for ⤵: Woman
   woman: Femme
 # English for ⤵: Man - Trans FtM
-  manTransFtm: "Homme - Trans FtM"
+  manTransFtm: "Homme - Trans FtH"
 # English for ⤵: Woman - Trans MtF
-  womanTransMtf: "Femme - Trans MtF"
+  womanTransMtf: "Femme - Trans HtF"
 # English for ⤵: Non-binary
   nonBinary: "Non-binaire"
 
