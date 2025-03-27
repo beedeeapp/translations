@@ -75,7 +75,7 @@ openTo:
 # English for ⤵: Next
   btnText: volgende
 # English for ⤵: You won't see any profiles
-  warnLookingFor: je kunt zo geen andere profielen zien
+  warnLookingFor: Je kunt zo geen andere profielen zien
 # English for ⤵: Please select at least one connection type
   errorMsg: Kies minstens één connectie type
 # English for ⤵: Please select at least one option of friend connections
