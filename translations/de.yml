@@ -1278,22 +1278,6 @@ additionalInfo:
 # English for ⤵: You have unsaved changes, are you sure you want to exit?
   unsavedDescription: Du hast ungespeicherte Änderungen. Bist du sicher, dass du fortfahren möchtest?You have unsaved changes, are you sure you want to exit?
 
-reportUserData:
-# English for ⤵: Fake profile
-  fakeProfile: Falsches Profil
-# English for ⤵: Inappropriate content
-  inappropriateContent: Unangemessener Inhalt
-# English for ⤵: Scam or commercial
-  scamOrCommercial: Betrug oder Werbung
-# English for ⤵: Hate speech
-  hateSpeech: Hassrede
-# English for ⤵: Underage
-  underage: Minderjährig
-# English for ⤵: Child Safety Concerns
-  childSafety: Child Safety Concerns
-# English for ⤵: Nudity
-  nudity: Nacktheit
-
 PaymentStatus:
 # English for ⤵: Payment successful!
   paymentSuccess: Payment successful!
@@ -1486,7 +1470,23 @@ incognitoMode:
 # English for ⤵: Open in Regular Mode
   openRegular: Open in Regular Mode
 
-rolesData:
+reportUserOptions:
+# English for ⤵: Fake profile
+  fakeProfile: Falsches Profil
+# English for ⤵: Inappropriate content
+  inappropriateContent: Unangemessener Inhalt
+# English for ⤵: Scam or commercial
+  scamOrCommercial: Betrug oder Werbung
+# English for ⤵: Hate speech
+  hateSpeech: Hassrede
+# English for ⤵: Underage
+  underage: Minderjährig
+# English for ⤵: Child Safety Concerns
+  childSafety: Child Safety Concerns
+# English for ⤵: Nudity
+  nudity: Nacktheit
+
+rolesOptions:
 # English for ⤵: Master/Mistress
   masterMistress: Master/Mistress
 # English for ⤵: Dominant
@@ -1508,7 +1508,7 @@ rolesData:
 # English for ⤵: Rope bunny
   ropeBunny: Rope bunny
 
-pronounsData:
+pronounsOptions:
 # English for ⤵: he/him
   heHim: he/him
 # English for ⤵: she/her
@@ -1516,7 +1516,7 @@ pronounsData:
 # English for ⤵: they/them
   theyThem: they/them
 
-familyPlansData:
+familyPlansOptions:
 # English for ⤵: Wants kids
   wantsKids: Wants kids
 # English for ⤵: Unsure about kids
@@ -1530,7 +1530,7 @@ familyPlansData:
 # English for ⤵: Has kids, doesn't want more
   hasKidsNoMore: "Has kids, doesn't want more"
 
-educationLevelData:
+educationLevelOptions:
 # English for ⤵: High school
   highSchool: High school
 # English for ⤵: In college
@@ -1544,7 +1544,7 @@ educationLevelData:
 # English for ⤵: PhD
   phd: PhD
 
-politicalOrientationData:
+politicalOrientationOptions:
 # English for ⤵: Left-leaning
   leftLeaning: "Left-leaning"
 # English for ⤵: Central
@@ -1554,7 +1554,7 @@ politicalOrientationData:
 # English for ⤵: I don't follow politics
   dontFollowPolitics: "I don't follow politics"
 
-frequencyData:
+frequencyOptions:
 # English for ⤵: Regularly
   regularly: Regularly
 # English for ⤵: Socially
@@ -1564,7 +1564,7 @@ frequencyData:
 # English for ⤵: Never
   never: Never
 
-openToData:
+openToOptions:
 # English for ⤵: Friendship
   friendship: Friendship
 # English for ⤵: A monogamous relationship
@@ -1594,13 +1594,13 @@ openToData:
 # English for ⤵: A friend group to join
   friendGroup: A friend group to join
 
-lookingForData:
+lookingForOptions:
 # English for ⤵: partners
   partners: partners
 # English for ⤵: friends
   friends: friends
 
-relationData:
+relationOptions:
 # English for ⤵: Dominant of
   dominantOf: Dominant of
 # English for ⤵: Daddy of
@@ -1666,7 +1666,7 @@ relationData:
 # English for ⤵: It's complicated with
   itsComplicatedWith: "It's complicated with"
 
-genderData:
+genderOptions:
 # English for ⤵: Gender
   gender: Gender
 # English for ⤵: Man
@@ -1680,7 +1680,7 @@ genderData:
 # English for ⤵: Non-binary
   nonBinary: "Non-binary"
 
-otherData:
+otherOptions:
 # English for ⤵: Other
   other: Other
 

@@ -709,15 +709,6 @@ additionalInfo:
   unsaved: Unsaved
   unsavedDescription: You have unsaved changes, are you sure you want to exit?
 
-reportUserData:
-  fakeProfile: Fake profile
-  inappropriateContent: Inappropriate content
-  scamOrCommercial: Scam or commercial
-  hateSpeech: Hate speech
-  underage: Underage
-  childSafety: Child Safety Concerns
-  nudity: Nudity
-
 enableLocationTutorial:
   title: "Here's how to enable location services for this website:"
   checkBrowserSetting: "Check your browser settings:"
@@ -825,7 +816,16 @@ incognitoMode:
   description: For BeeDee to properly work, BeeDee needs access to features that are not available when browsing incognito. So unfortunately we cannot offer BeeDee to incognito browsers for now. Please use a regular browser session to continue.
   openRegular: Open in Regular Mode
 
-rolesData:
+reportUserOptions:
+  fakeProfile: Fake profile
+  inappropriateContent: Inappropriate content
+  scamOrCommercial: Scam or commercial
+  hateSpeech: Hate speech
+  underage: Underage
+  childSafety: Child Safety Concerns
+  nudity: Nudity
+
+rolesOptions:
   masterMistress: Master/Mistress
   dominant: Dominant
   top: Top
@@ -837,12 +837,12 @@ rolesData:
   rigger: Rigger
   ropeBunny: Rope bunny
 
-pronounsData:
+pronounsOptions:
   heHim: he/him
   sheHer: she/her
   theyThem: they/them
 
-familyPlansData:
+familyPlansOptions:
   wantsKids: Wants kids
   unsureAboutKids: Unsure about kids
   doesntWantKids: "Doesn't want kids"
@@ -850,7 +850,7 @@ familyPlansData:
   hasKidsUnsureMore: Has kids, unsure about more
   hasKidsNoMore: "Has kids, doesn't want more"
 
-educationLevelData:
+educationLevelOptions:
   highSchool: High school
   inCollege: In college
   tradeSchool: Trade school
@@ -858,19 +858,19 @@ educationLevelData:
   masters: Masters
   phd: PhD
 
-politicalOrientationData:
+politicalOrientationOptions:
   leftLeaning: "Left-leaning"
   central: Central
   rightLeaning: "Right-leaning"
   dontFollowPolitics: "I don't follow politics"
 
-frequencyData:
+frequencyOptions:
   regularly: Regularly
   socially: Socially
   rarely: Rarely
   never: Never
 
-openToData:
+openToOptions:
   friendship: Friendship
   monogamousRelationship: A monogamous relationship
   openRelationship: An open relationship
@@ -886,11 +886,11 @@ openToData:
   penpal: A penpal
   friendGroup: A friend group to join
 
-lookingForData:
+lookingForOptions:
   partners: partners
   friends: friends
 
-relationData:
+relationOptions:
   dominantOf: Dominant of
   daddyOf: Daddy of
   mommyOf: Mommy of
@@ -924,7 +924,7 @@ relationData:
   playPartnersWith: Play partners with
   itsComplicatedWith: "It's complicated with"
 
-genderData:
+genderOptions:
   gender: Gender
   man: Man
   woman: Woman
@@ -932,6 +932,6 @@ genderData:
   womanTransMtf: "Woman - Trans MtF"
   nonBinary: "Non-binary"
 
-otherData:
+otherOptions:
   other: Other
 

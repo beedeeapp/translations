@@ -1276,233 +1276,6 @@ additionalInfo:
 # English for ⤵: You have unsaved changes, are you sure you want to exit?
   unsavedDescription: "Je hebt nog niet-opgeslagen wijzigingen. Weet je zeker dat je wilt afsluiten?"
 
-reportUserData:
-# English for ⤵: Fake profile
-  fakeProfile: Nep profiel
-# English for ⤵: Inappropriate content
-  inappropriateContent: Ongepaste inhoud
-# English for ⤵: Scam or commercial
-  scamOrCommercial: Oplichterij of commercieel
-# English for ⤵: Hate speech
-  hateSpeech: Haatdragende taal
-# English for ⤵: Underage
-  underage: Minderjarig
-# English for ⤵: Child Safety Concerns
-  childSafety: Een minderjarige is in gevaar
-# English for ⤵: Nudity
-  nudity: Nudity
-
-rolesData:
-# English for ⤵: Master/Mistress
-  masterMistress: Meester/Meesteres
-# English for ⤵: Dominant
-  dominant: Dominant
-# English for ⤵: Top
-  top: Top
-# English for ⤵: Switch
-  switch: Switch
-# English for ⤵: Brat
-  brat: Brat
-# English for ⤵: Bottom
-  bottom: Bottom
-# English for ⤵: Submissive
-  submissive: Onderdanig
-# English for ⤵: Slave
-  slave: Slaaf
-# English for ⤵: Rigger
-  rigger: Rigger
-# English for ⤵: Rope bunny
-  ropeBunny: Rope bunny
-
-pronounsData:
-# English for ⤵: he/him
-  heHim: hij/hem
-# English for ⤵: she/her
-  sheHer: zij/haar
-# English for ⤵: they/them
-  theyThem: die/hen
-
-familyPlansData:
-# English for ⤵: Wants kids
-  wantsKids: Wil kinderen
-# English for ⤵: Unsure about kids
-  unsureAboutKids: Wil misschien kinderen
-# English for ⤵: Doesn't want kids
-  doesntWantKids: Wil geen kinderen
-# English for ⤵: Has kids, wants more
-  hasKidsWantsMore: Heb kinderen, wil meer kinderen
-# English for ⤵: Has kids, unsure about more
-  hasKidsUnsureMore: Has kids, unsure about more
-# English for ⤵: Has kids, doesn't want more
-  hasKidsNoMore: "Has kids, doesn't want more"
-
-educationLevelData:
-# English for ⤵: High school
-  highSchool: Middelbare school
-# English for ⤵: In college
-  inCollege: Studerend
-# English for ⤵: Trade school
-  tradeSchool: Beroepsopleiding
-# English for ⤵: Bachelors
-  bachelors: Bachelor
-# English for ⤵: Masters
-  masters: Master
-# English for ⤵: PhD
-  phd: Doctoraat
-
-politicalOrientationData:
-# English for ⤵: Left-leaning
-  leftLeaning: Links leunend
-# English for ⤵: Central
-  central: Centrum
-# English for ⤵: Right-leaning
-  rightLeaning: Rechts leunend
-# English for ⤵: I don't follow politics
-  dontFollowPolitics: Ik volg de politiek niet
-
-frequencyData:
-# English for ⤵: Regularly
-  regularly: Regelmatig
-# English for ⤵: Socially
-  socially: Sociaal
-# English for ⤵: Rarely
-  rarely: Zelden
-# English for ⤵: Never
-  never: Nooit
-
-openToData:
-# English for ⤵: Friendship
-  friendship: Vriendschap
-# English for ⤵: A monogamous relationship
-  monogamousRelationship: Een monogame relatie
-# English for ⤵: An open relationship
-  openRelationship: Een open relatie
-# English for ⤵: A polyamourous relationship
-  polyamorousRelationship: Een polyamoreuze relatie
-# English for ⤵: A one night stand
-  oneNightStand: Een one night stand
-# English for ⤵: A play partner
-  playPartner: Een speelpartner
-# English for ⤵: A friends with benefits
-  friendsWithBenefits: Vrienden met voordelen
-# English for ⤵: A 24/7 lifestyle dynamic
-  lifestyleDynamic: Een 24/7 lifestyle dynamic
-# English for ⤵: A mentor
-  mentor: Een mentor
-# English for ⤵: A mentee
-  mentee: Een mentee
-# English for ⤵: A penpal
-  penpal: Een penvriend
-# English for ⤵: A friend group to join
-  friendGroup: Een vriendengroep om deel te nemen
-# English for ⤵: Someone similar to me
-  similarPerson: Someone similar to me
-# English for ⤵: Someone to go to events with
-  eventPartner: Someone to go to events with
-
-lookingForData:
-# English for ⤵: partners
-  partners: partners
-# English for ⤵: friends
-  friends: vrienden
-
-relationData:
-# English for ⤵: Dominant of
-  dominantOf: Dominant van
-# English for ⤵: Daddy of
-  daddyOf: Daddy van
-# English for ⤵: Mommy of
-  mommyOf: Mommy van
-# English for ⤵: Babyboy of
-  babyboyOf: Babyboy van
-# English for ⤵: Babygirl of
-  babygirlOf: Babygirl van
-# English for ⤵: Switch of
-  switchOf: Switch van
-# English for ⤵: Submissive of
-  submissiveOf: Submissive van
-# English for ⤵: Master of
-  masterOf: Master van
-# English for ⤵: Mistress of
-  mistressOf: Mistress van
-# English for ⤵: Owner of
-  ownerOf: Owner van
-# English for ⤵: Slave of
-  slaveOf: Slaaf van
-# English for ⤵: Owned by
-  ownedBy: Eigendom van
-# English for ⤵: Owned and Collared by
-  ownedAndCollaredBy: Eigendom en gehalsband door
-# English for ⤵: Degrader of
-  degraderOf: Degrader van
-# English for ⤵: Degradee of
-  degradeeOf: Degradee van
-# English for ⤵: Brat of
-  bratOf: Brat van
-# English for ⤵: Brat Tamer of
-  bratTamerOf: Brat Tamer van
-# English for ⤵: Pet of
-  petOf: Pet van
-# English for ⤵: Rigger to
-  riggerTo: Rigger van
-# English for ⤵: Rope Bunny to
-  ropeBunnyTo: Rope Bunny van
-# English for ⤵: In a relationship with
-  inRelationshipWith: In een relatie met
-# English for ⤵: Engaged with
-  engagedWith: Verloofd met
-# English for ⤵: Married to
-  marriedTo: Getrouwd met
-# English for ⤵: Dating
-  dating: Dating
-# English for ⤵: In an open relationship with
-  inOpenRelationshipWith: In een open relatie met
-# English for ⤵: In a poly relationship with
-  inPolyRelationshipWith: In een poly relatie met
-# English for ⤵: Non-monogamous with
-  nonMonogamousWith: "Non-monogaam met"
-# English for ⤵: Nesting partner of
-  nestingPartnerOf: Nesting partner van
-# English for ⤵: Matamour of
-  metamourOf: Metamour van
-# English for ⤵: Friends with Benefits with
-  friendsWithBenefitsWith: Vrienden met voordelen met
-# English for ⤵: Play partners with
-  playPartnersWith: Speel partners met
-# English for ⤵: It's complicated with
-  itsComplicatedWith: Het is ingewikkeld met
-
-genderData:
-# English for ⤵: Man
-  man: Man
-# English for ⤵: Woman
-  woman: Vrouw
-# English for ⤵: Man - Trans FtM
-  manTransFtm: "Man - Trans FtM"
-# English for ⤵: Woman - Trans MtF
-  womanTransMtf: "Vrouw - Trans MtF"
-# English for ⤵: Non-binary
-  nonBinary: "Non-binary"
-# English for ⤵: Gender
-  gender: Gender
-
-PaymentStatus:
-# English for ⤵: Payment successful!
-  paymentSuccess: Payment successful!
-# English for ⤵: Payment failed!
-  paymentFailed: Payment failed!
-# English for ⤵: Your payment has been successfully processed!
-  successText: Your payment has been successfully processed!
-# English for ⤵: Unfortunately, your payment could not be processed. Please try again.
-  failedText: Unfortunately, your payment could not be processed. Please try again.
-# English for ⤵: Try Again
-  tryAgain: Try Again
-# English for ⤵: You are now a premium BeeDee user!
-  nowPremiumUser: You are now a premium BeeDee user!
-# English for ⤵: Your Whips have now been added to your account!
-  whipsAddedToAccount: Your Whips have now been added to your account!
-# English for ⤵: Please contact help desk if you are facing any issue regarding payment.
-  contactHelpDesk: Please contact help desk if you are facing any issue regarding payment.
 
 enableLocationTutorial:
 # English for ⤵: Here's how to enable location services for this website:
@@ -1678,7 +1451,235 @@ incognitoMode:
 # English for ⤵: Open in Regular Mode
   openRegular: Open in Regular Mode
 
-otherData:
+PaymentStatus:
+# English for ⤵: Payment successful!
+  paymentSuccess: Payment successful!
+# English for ⤵: Payment failed!
+  paymentFailed: Payment failed!
+# English for ⤵: Your payment has been successfully processed!
+  successText: Your payment has been successfully processed!
+# English for ⤵: Unfortunately, your payment could not be processed. Please try again.
+  failedText: Unfortunately, your payment could not be processed. Please try again.
+# English for ⤵: Try Again
+  tryAgain: Try Again
+# English for ⤵: You are now a premium BeeDee user!
+  nowPremiumUser: You are now a premium BeeDee user!
+# English for ⤵: Your Whips have now been added to your account!
+  whipsAddedToAccount: Your Whips have now been added to your account!
+# English for ⤵: Please contact help desk if you are facing any issue regarding payment.
+  contactHelpDesk: Please contact help desk if you are facing any issue regarding payment.
+
+reportUserOptions:
+# English for ⤵: Fake profile
+  fakeProfile: Nep profiel
+# English for ⤵: Inappropriate content
+  inappropriateContent: Ongepaste inhoud
+# English for ⤵: Scam or commercial
+  scamOrCommercial: Oplichterij of commercieel
+# English for ⤵: Hate speech
+  hateSpeech: Haatdragende taal
+# English for ⤵: Underage
+  underage: Minderjarig
+# English for ⤵: Child Safety Concerns
+  childSafety: Een minderjarige is in gevaar
+# English for ⤵: Nudity
+  nudity: Nudity
+
+rolesOptions:
+# English for ⤵: Master/Mistress
+  masterMistress: Meester/Meesteres
+# English for ⤵: Dominant
+  dominant: Dominant
+# English for ⤵: Top
+  top: Top
+# English for ⤵: Switch
+  switch: Switch
+# English for ⤵: Brat
+  brat: Brat
+# English for ⤵: Bottom
+  bottom: Bottom
+# English for ⤵: Submissive
+  submissive: Onderdanig
+# English for ⤵: Slave
+  slave: Slaaf
+# English for ⤵: Rigger
+  rigger: Rigger
+# English for ⤵: Rope bunny
+  ropeBunny: Rope bunny
+
+pronounsOptions:
+# English for ⤵: he/him
+  heHim: hij/hem
+# English for ⤵: she/her
+  sheHer: zij/haar
+# English for ⤵: they/them
+  theyThem: die/hen
+
+familyPlansOptions:
+# English for ⤵: Wants kids
+  wantsKids: Wil kinderen
+# English for ⤵: Unsure about kids
+  unsureAboutKids: Wil misschien kinderen
+# English for ⤵: Doesn't want kids
+  doesntWantKids: Wil geen kinderen
+# English for ⤵: Has kids, wants more
+  hasKidsWantsMore: Heb kinderen, wil meer kinderen
+# English for ⤵: Has kids, unsure about more
+  hasKidsUnsureMore: Has kids, unsure about more
+# English for ⤵: Has kids, doesn't want more
+  hasKidsNoMore: "Has kids, doesn't want more"
+
+educationLevelOptions:
+# English for ⤵: High school
+  highSchool: Middelbare school
+# English for ⤵: In college
+  inCollege: Studerend
+# English for ⤵: Trade school
+  tradeSchool: Beroepsopleiding
+# English for ⤵: Bachelors
+  bachelors: Bachelor
+# English for ⤵: Masters
+  masters: Master
+# English for ⤵: PhD
+  phd: Doctoraat
+
+politicalOrientationOptions:
+# English for ⤵: Left-leaning
+  leftLeaning: Links leunend
+# English for ⤵: Central
+  central: Centrum
+# English for ⤵: Right-leaning
+  rightLeaning: Rechts leunend
+# English for ⤵: I don't follow politics
+  dontFollowPolitics: Ik volg de politiek niet
+
+frequencyOptions:
+# English for ⤵: Regularly
+  regularly: Regelmatig
+# English for ⤵: Socially
+  socially: Sociaal
+# English for ⤵: Rarely
+  rarely: Zelden
+# English for ⤵: Never
+  never: Nooit
+
+openToOptions:
+# English for ⤵: Friendship
+  friendship: Vriendschap
+# English for ⤵: A monogamous relationship
+  monogamousRelationship: Een monogame relatie
+# English for ⤵: An open relationship
+  openRelationship: Een open relatie
+# English for ⤵: A polyamourous relationship
+  polyamorousRelationship: Een polyamoreuze relatie
+# English for ⤵: A one night stand
+  oneNightStand: Een one night stand
+# English for ⤵: A play partner
+  playPartner: Een speelpartner
+# English for ⤵: A friends with benefits
+  friendsWithBenefits: Vrienden met voordelen
+# English for ⤵: A 24/7 lifestyle dynamic
+  lifestyleDynamic: Een 24/7 lifestyle dynamic
+# English for ⤵: A mentor
+  mentor: Een mentor
+# English for ⤵: A mentee
+  mentee: Een mentee
+# English for ⤵: A penpal
+  penpal: Een penvriend
+# English for ⤵: A friend group to join
+  friendGroup: Een vriendengroep om deel te nemen
+# English for ⤵: Someone similar to me
+  similarPerson: Someone similar to me
+# English for ⤵: Someone to go to events with
+  eventPartner: Someone to go to events with
+
+lookingForOptions:
+# English for ⤵: partners
+  partners: partners
+# English for ⤵: friends
+  friends: vrienden
+
+relationOptions:
+# English for ⤵: Dominant of
+  dominantOf: Dominant van
+# English for ⤵: Daddy of
+  daddyOf: Daddy van
+# English for ⤵: Mommy of
+  mommyOf: Mommy van
+# English for ⤵: Babyboy of
+  babyboyOf: Babyboy van
+# English for ⤵: Babygirl of
+  babygirlOf: Babygirl van
+# English for ⤵: Switch of
+  switchOf: Switch van
+# English for ⤵: Submissive of
+  submissiveOf: Submissive van
+# English for ⤵: Master of
+  masterOf: Master van
+# English for ⤵: Mistress of
+  mistressOf: Mistress van
+# English for ⤵: Owner of
+  ownerOf: Owner van
+# English for ⤵: Slave of
+  slaveOf: Slaaf van
+# English for ⤵: Owned by
+  ownedBy: Eigendom van
+# English for ⤵: Owned and Collared by
+  ownedAndCollaredBy: Eigendom en gehalsband door
+# English for ⤵: Degrader of
+  degraderOf: Degrader van
+# English for ⤵: Degradee of
+  degradeeOf: Degradee van
+# English for ⤵: Brat of
+  bratOf: Brat van
+# English for ⤵: Brat Tamer of
+  bratTamerOf: Brat Tamer van
+# English for ⤵: Pet of
+  petOf: Pet van
+# English for ⤵: Rigger to
+  riggerTo: Rigger van
+# English for ⤵: Rope Bunny to
+  ropeBunnyTo: Rope Bunny van
+# English for ⤵: In a relationship with
+  inRelationshipWith: In een relatie met
+# English for ⤵: Engaged with
+  engagedWith: Verloofd met
+# English for ⤵: Married to
+  marriedTo: Getrouwd met
+# English for ⤵: Dating
+  dating: Dating
+# English for ⤵: In an open relationship with
+  inOpenRelationshipWith: In een open relatie met
+# English for ⤵: In a poly relationship with
+  inPolyRelationshipWith: In een poly relatie met
+# English for ⤵: Non-monogamous with
+  nonMonogamousWith: "Non-monogaam met"
+# English for ⤵: Nesting partner of
+  nestingPartnerOf: Nesting partner van
+# English for ⤵: Matamour of
+  metamourOf: Metamour van
+# English for ⤵: Friends with Benefits with
+  friendsWithBenefitsWith: Vrienden met voordelen met
+# English for ⤵: Play partners with
+  playPartnersWith: Speel partners met
+# English for ⤵: It's complicated with
+  itsComplicatedWith: Het is ingewikkeld met
+
+genderOptions:
+# English for ⤵: Man
+  man: Man
+# English for ⤵: Woman
+  woman: Vrouw
+# English for ⤵: Man - Trans FtM
+  manTransFtm: "Man - Trans FtM"
+# English for ⤵: Woman - Trans MtF
+  womanTransMtf: "Vrouw - Trans MtF"
+# English for ⤵: Non-binary
+  nonBinary: "Non-binary"
+# English for ⤵: Gender
+  gender: Gender
+
+otherOptions:
 # English for ⤵: Other
   other: Other
 
