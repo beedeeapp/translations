@@ -149,7 +149,7 @@ Premium:
 # English for ⤵: Product is not yet available for purchase in the country your store account is linked to.
   productNotAvailable: "Le produit n'est pas encore disponible à l'achat dans le pays lié à votre store."
 # English for ⤵: Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later
-  failedToFetch: "Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later"
+  failedToFetch: Échec de la vérification des prix les plus récents avec [platform], veuillez vérifier votre connexion internet et réessayer plus tard
 # English for ⤵: Recurring subscription, you can cancel any time in the Play Store
   cancelAnyTimeAndroid: "Abonnement récurrent, vous pouvez l'annuler à tout moment dans le Play Store"
 # English for ⤵: Recurring subscription, you can cancel any time in the App Store
@@ -161,9 +161,9 @@ Premium:
 # English for ⤵: Our servers could not verify your payment at this time. This is likely an issue on our end.
   paymentVerificationIssue: "Nos serveurs n'ont pas pu vérifier votre paiement pour le moment. Il s'agit probablement d'un problème de notre côté."
 # English for ⤵: Please get in touch via 
-  contactSupportText: "Please get in touch via "
+  contactSupportText: "Veuillez nous contacter via "
 # English for ⤵:  and include:
-  contactSupportInstructions: "and include:"
+  contactSupportInstructions: "et inclure :"
 # English for ⤵: - The phone number and/or email address your BeeDee account is linked with.
   supportDetailsBeeDee: "- Le numéro de téléphone et/ou l'adresse e-mail liés à votre compte BeeDee."
 # English for ⤵: - The email address your 
@@ -272,11 +272,11 @@ profileComponent:
 # English for ⤵: Version
   version: Version
 # English for ⤵: Manage Premium
-  barPremium: Manage Premium
+  barPremium: Gérer Premium
 # English for ⤵: free account
   barNotPremium: Compte gratuit
 # English for ⤵: Manage Platinum
-  barPlatinum: Manage Platinum
+  barPlatinum: Gérer Platinum
 # English for ⤵: Verified
   barVerified: Vérifié
 # English for ⤵: Verification pending
@@ -398,7 +398,7 @@ profileVisibility:
 
 profileSafeSearch:
 # English for ⤵: Safe search
-  headerTitle: Safe search
+  headerTitle: Recherche sécurisée
 # English for ⤵: While BeeDee does not allow explicit nudity, BeeDee does allow covered nudity some would consider "not safe for work". If you wish, you can let the app blur these pictures until you tap them. If you want to see all images immediately, you can disable this setting.
   instruction: "Beedee ne permet pas de nudité explilcite, cependant, BeeDee autorise des représentations qui peuvent être considérées \"Not Safe For Work\". Si vous le souhaitez, l'application peut flouter ce genre d'image. Si vous désirez pouvoir les voir, désactivez ce paramètre"
 # English for ⤵: Unblur this image
@@ -854,7 +854,7 @@ myPartners:
 # English for ⤵: Not on BeeDee
   notOnBeeDee: Pas sur BeeDee
 # English for ⤵: Link with your partner
-  linkYourPartner: Link with your partner
+  linkYourPartner: Lier avec votre partenaire
 # English for ⤵: Paste the partner ID below to link with your partner.
   linkPartnerText: "Collez l'ID de votre partenaire ici."
 # English for ⤵: Partner ID or link
@@ -936,7 +936,7 @@ settings:
 # English for ⤵: Visible
   visible: Visible
 # English for ⤵: Safe search
-  safeSearch: Safe search
+  safeSearch: Recherche sécurisée
 # English for ⤵: Hidden
   hidden: Caché
 # English for ⤵: Enabled
@@ -986,13 +986,13 @@ preference:
 # English for ⤵: Preferences updated
   PreferencesUpdatedToast: Préférences mises à jour
 # English for ⤵: Age
-  age: Age
+  age: Âge
 # English for ⤵: Location
-  location: Location
+  location: Localisation
 # English for ⤵: Gender
-  gender: Gender
+  gender: Genre
 # English for ⤵: Partner preferences
-  title: Partner preferences
+  title: Préférences de partenaire
 
 signupWithPhone:
 # English for ⤵: Welcome to BeeDee!
@@ -1136,7 +1136,7 @@ commonText:
 # English for ⤵: Next
   next: Suivant
 # English for ⤵: Retry
-  retry: Retry
+  retry: Réessayer
 # English for ⤵: Skip
   skip: Passer
 # English for ⤵: BDSMTest
@@ -1162,7 +1162,7 @@ commonText:
 # English for ⤵: Submit
   submit: Envoyer
 # English for ⤵: Continue
-  continue: Continue
+  continue: Continuer
 # English for ⤵: Basics
   basics: À propos de moi
 # English for ⤵: Gender
@@ -1176,7 +1176,7 @@ commonText:
 # English for ⤵: No
   no: Non
 # English for ⤵: Update
-  update: Update
+  update: Mettre à jour
 # English for ⤵: Something went wrong!
   somethingWentWrong: "Quelque chose ne s'est pas bien passé !"
 # English for ⤵: Unlimited
@@ -1466,33 +1466,33 @@ incognitoMode:
 
 selfEvalModal:
 # English for ⤵: Which of the following best describes your photo?
-  question: Which of the following best describes your photo?
+  question: Laquelle des options suivantes décrit le mieux votre photo ?
 # English for ⤵: Completely SFW
-  completelySfwLabel: Completely SFW
+  completelySfwLabel: Complètement SFW
 # English for ⤵: Safe for all audiences; family-friendly and professional images (e.g., holiday photos, vanilla profile pictures).
-  completelySfwDesc: "Safe for all audiences; family-friendly and professional images (e.g., holiday photos, vanilla profile pictures)."
+  completelySfwDesc: Sûr pour tous les publics ; images familiales et professionnelles (par ex., photos de vacances, photos de profil classiques).
 # English for ⤵: Mildly NSFW
-  mildlyNsfwLabel: Mildly NSFW
+  mildlyNsfwLabel: Légèrement NSFW
 # English for ⤵: Suggestive or revealing, but no explicit content (e.g., bikinis, fashion shots, seductive poses, revealing selfies).
-  mildlyNsfwDesc: Suggestive or revealing, but no explicit content (e.g., bikinis, fashion shots, seductive poses, revealing selfies).
+  mildlyNsfwDesc: Suggestif ou révélateur, mais sans contenu explicite (par ex., bikinis, photos de mode, poses séductrices, selfies révélateurs).
 # English for ⤵: Erotic
-  eroticLabel: Erotic
+  eroticLabel: Érotique
 # English for ⤵: Contains nudity or sexual themes, but not explicit (e.g., lingerie, kink toys, underboob, intimate poses).
-  eroticDesc: Contains nudity or sexual themes, but not explicit (e.g., lingerie, kink toys, underboob, intimate poses).
+  eroticDesc: "Contient de la nudité ou des thèmes sexuels, mais pas explicite (par ex., lingerie, jouets kink, sous-poitrine, poses intimes)."
 # English for ⤵: Pornographic
-  pornographicLabel: Pornographic
+  pornographicLabel: Pornographique
 # English for ⤵: Explicit sexual content or nudity (e.g., genital nudity, nipples, sexual acts, explicit images).
-  pornographicDesc: Explicit sexual content or nudity (e.g., genital nudity, nipples, sexual acts, explicit images).
+  pornographicDesc: Contenu sexuel explicite ou nudité (par ex., nudité génitale, tétons, actes sexuels, images explicites).
 # English for ⤵: Upload Image
-  uploadImage: Upload Image
+  uploadImage: "Télécharger l'image"
 # English for ⤵: Image not allowed
-  imageNotAllowedTitle: Image not allowed
+  imageNotAllowedTitle: Image non autorisée
 # English for ⤵: Unfortunately we cannot allow images like that on BeeDee.
-  imageNotAllowedDesc: Unfortunately we cannot allow images like that on BeeDee.
+  imageNotAllowedDesc: "Malheureusement, nous ne pouvons pas autoriser ce type d'images sur BeeDee."
 # English for ⤵: Community guidelines
-  guidelinesLink: Community guidelines
+  guidelinesLink: Règles de la communauté
 # English for ⤵: Scroll for more options
-  scrollForMoreOptions: Scroll for more options
+  scrollForMoreOptions: "Faites défiler pour plus d'options"
 
 reportUserOptions:
 # English for ⤵: Fake profile
@@ -1600,7 +1600,7 @@ openToOptions:
 # English for ⤵: A play partner
   playPartner: Un·e partenaire de jeu
 # English for ⤵: A friends with benefits
-  friendsWithBenefits: A friends with benefits
+  friendsWithBenefits: Amis avec avantages
 # English for ⤵: A 24/7 lifestyle dynamic
   lifestyleDynamic: Une dynamique 24/7
 
@@ -1632,11 +1632,11 @@ relationOptions:
 # English for ⤵: Owned and Collared by
   ownedAndCollaredBy: Possedé par
 # English for ⤵: Degrader of
-  degraderOf: Degrader of
+  degraderOf: Dégradeur de
 # English for ⤵: Degradee of
-  degradeeOf: Degradee of
+  degradeeOf: Dégradé de
 # English for ⤵: Brat of
-  bratOf: Brat of
+  bratOf: Brat de
 # English for ⤵: Brat Tamer of
   bratTamerOf: Dresseur de
 # English for ⤵: Pet of
