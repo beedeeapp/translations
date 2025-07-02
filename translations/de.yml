@@ -80,9 +80,7 @@ openTo:
   warnLookingFor: Du wirst keine Profile sehen.
 # English for ⤵: Please select at least one connection type
   errorMsg: Bitte wähle mindestens eine für dich vorstellbare Beziehungsart aus.
-# English for ⤵: Please select at least one option of friend connections
-  errorMsgFriend: Bitte wähle mindestens eine Art von Freundschaft aus.
-# English for ⤵: Please select at least one option of partner connections
+# English for ⤵: Please select at least one option of connections
   errorMsgPartner: Bitte wähle mindestens eine Art von Partnerbeziehung aus
 # English for ⤵: Profile updated
   profileUpdatedToast: Profil aktualisiert
@@ -96,10 +94,6 @@ lookingFor:
   btnText: Weiter
 # English for ⤵: Update
   btnUpdate: Aktualisieren
-# English for ⤵: Partner(s)
-  partnerOpenTo: Partner
-# English for ⤵: Friendship
-  friendOpenTo: Freundschaft
 # English for ⤵: Open to
   openTo: Offen für
 # English for ⤵: |
@@ -125,7 +119,7 @@ AddBDSMTestResult:
 # English for ⤵: We determine the compatibility with your potential matches through the official BDSMTest. We will only show you compatible profiles and only show your profile to compatible people, for maximum privacy.
   infoBeforeImage: Wir bestimmen die Kompatibilität mit deinen potenziellen Matches durch den BDSMTest. Wir werden dir nur passende Profile anzeigen, und wir zeigen dein Profil nur Personen, die zu dir passen, um deine Privatsphäre bestmöglich zu schützen.
 # English for ⤵: Please answer the questions with your desired match in mind. E.g. agreeing to 'I enjoy being tied up' will result in matches who enjoy tying you up.
-  infoAfterImage: Bitte beantworte die Fragen ehrlich und denke an deine potenziellen Matches. Wenn du z.B. angibst “Ich mag es, gefesselt zu werden”, dann werden dir Matches angezeigt, die gerne fesseln.
+  infoAfterImage: "Bitte beantworte die Fragen ehrlich und denke an deine potenziellen Matches. Wenn du z.B. angibst \"Ich mag es, gefesselt zu werden\", dann werden dir Matches angezeigt, die gerne fesseln."
 
 BDSMTestResult:
 # English for ⤵: Update your BDSMTest results
@@ -153,10 +147,6 @@ Premium:
     ➔ Werde anderen Profilen häufiger angezeigt
 # English for ⤵: Premium is not yet available for purchase in the country your store account is linked to.
   premiumNotAvailable: Leider ist Premium in deinem Land momentan noch nicht verfügbar.
-# English for ⤵: Buying premium is unavailable on iOS for now.
-  premiumNotAvailableIOS: Premium ist momentan noch nicht für iOS verfügbar.
-# English for ⤵: Buying whips is unavailable on iOS for now.
-  productNotAvailableIOS: Auf iOS kann man momentan noch keine Peitschen kaufen.
 # English for ⤵: Product is not yet available for purchase in the country your store account is linked to.
   productNotAvailable: Dieses Produkt ist in deinem Land noch nicht verfügbar.
 # English for ⤵: Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later
@@ -174,13 +164,9 @@ Premium:
 # English for ⤵: Please get in touch via 
   contactSupportText: "Bitte melde dich bei uns per "
 # English for ⤵:  and include:
-  contactSupportInstructions: |
-     und gib Folgendes an:
-    
+  contactSupportInstructions: "und gib Folgendes an:"
 # English for ⤵: - The phone number and/or email address your BeeDee account is linked with.
-  supportDetailsBeeDee: |
-    - Die Telefonnummer und/oder E-Mail-Adresse, mit der dein BeeDee-Konto verknüpft ist.
-    
+  supportDetailsBeeDee: "- Die Telefonnummer und/oder E-Mail-Adresse, mit der dein BeeDee-Konto verknüpft ist."
 # English for ⤵: - The email address your 
   supportDetailsOtherAccount: "- Die E-Mail-Adresse, mit der "
 # English for ⤵:  account is linked with.
@@ -232,10 +218,28 @@ Premium:
   perMonth: monatlich
 # English for ⤵: no active discount found for this code
   discountCodeInvalid: keinen aktiven Rabatt gefunden für diesen Code
-# English for ⤵: Discount applies to the initial period only, full price will charged when the subscription renews
+# English for ⤵: Discount applies to the initial period only, full price will be charged when the subscription renews
   discountDescription: Der Rabatt gilt ausschließlich für den ersten Buchungszeitraum. Für jeden weiteren Buchungszeitraum wird der volle Preis berechnet.
 # English for ⤵: Recurring subscription, you can cancel it any time.
   cancelAnytimeWeb: Recurring subscription, you can cancel it any time.
+# English for ⤵: Have an Affiliate Code?
+  haveAffiliateCode: "Hast du einen Affiliate-Code?"
+# English for ⤵: Enter code
+  enterAffiliateCodePlaceholder: Code eingeben
+# English for ⤵: Redeem Code
+  redeemCodeButton: Code einlösen
+# English for ⤵: Please enter an affiliate code.
+  enterAffiliateCode: "Bitte gib einen Affiliate-Code ein."
+# English for ⤵: Affiliate code redeemed successfully! Whips added.
+  affiliateCodeSuccess: "Affiliate-Code erfolgreich eingelöst! Whips hinzugefügt."
+# English for ⤵: You have already used an affiliate code.
+  affiliateCodeAlreadyUsed: "Du hast bereits einen Affiliate-Code verwendet."
+# English for ⤵: Affiliate code is not valid.
+  affiliateCodeInvalid: "Affiliate-Code ist nicht gültig."
+# English for ⤵: Failed to redeem affiliate code.
+  affiliateCodeError: "Fehler beim Einlösen des Affiliate-Codes."
+# English for ⤵: Got an affiliate code? Tap here to enter.
+  revealAffiliateSectionButton: "Hast du einen Affiliate-Code? Hier tippen zum Eingeben."
 
 PrivacyAndTerms:
 # English for ⤵: Privacy Policy
@@ -264,20 +268,16 @@ profileComponent:
   settings: Einstellungen
 # English for ⤵: Discovery preferences
   partnerPreference: Entdeckungsvorlieben
-# English for ⤵: Partner preferences
-  devPartnerPreference: Partnervorlieben
-# English for ⤵: Friendship preferences
-  friendPreference: Freundschaftsvorlieben
 # English for ⤵: BeeDee
   beedee: BeeDee
 # English for ⤵: Version
   version: Version
-# English for ⤵: Premium
-  barPremium: Premium
+# English for ⤵: Manage Premium
+  barPremium: Manage Premium
 # English for ⤵: free account
   barNotPremium: "Gratis-Account"
-# English for ⤵: Platinum
-  barPlatinum: Platinum
+# English for ⤵: Manage Platinum
+  barPlatinum: Manage Platinum
 # English for ⤵: Verified
   barVerified: Verifiziert
 # English for ⤵: Verification pending
@@ -353,8 +353,6 @@ itsMatch:
   startChatting: Jetzt chatten
 # English for ⤵: Discover more partners
   discoverPartners: Entdecke mehr Partner
-# English for ⤵: Discover more friends
-  discoverFriends: Entdecke mehr Freunde
 
 deleteAccount:
 # English for ⤵: Delete Account
@@ -569,8 +567,6 @@ chat:
   all: Alle
 # English for ⤵: Partners
   partners: Partner
-# English for ⤵: Friendship
-  friendship: Freundschaft
 # English for ⤵: Loading your conversations...
   loadingConversations: Loading your conversations...
 
@@ -615,10 +611,6 @@ creditTextData:
 partnerDiscover:
 # English for ⤵: Discover profiles
   title: Profile entdecken
-# English for ⤵: Discover partners
-  devTitle: Partner entdecken
-# English for ⤵: Discover Friends
-  titleFriends: Freunde entdecken
 # English for ⤵: Out of free likes
   outOfLikes: "Keine Gratis-Likes mehr"
 # English for ⤵: No other potential matches in
@@ -695,10 +687,6 @@ partnerDiscover:
 Preferences:
 # English for ⤵: Discovery preferences
   title: Entdeckungseinstellungen
-# English for ⤵: Partner preferences
-  devTitle: Partnereinstellungen
-# English for ⤵: Friendship preferences
-  titleFriendship: Vorlieben bei Freundschaft
 # English for ⤵: Please select at least one gender you are open to
   errorMsg: Bitte wähle mindestens ein Geschlecht aus, für das du offen wärst.
 # English for ⤵: Age range
@@ -743,7 +731,7 @@ report:
   headerTitle: Diese Person melden
 # English for ⤵: Don't worry, your feedback is anonymous and they won't know that you've reported them.
   info: Keine Sorge, dein Feedback ist anonym und die Person wird nicht wissen, dass du sie gemeldet hast.
-# English for ⤵: Report
+# English for ⤵: Report and block
   buttonText: Melden und blockieren
 # English for ⤵: Extra info
   extraInfo: Extra Informationen
@@ -969,6 +957,8 @@ settings:
   tipsErrorMsgToast: Die Tipps zum Erfolg konnten nicht geladen werden. Bitte versuche es erneut
 # English for ⤵: Contact the helpdesk if your phone number has changed
   phoneCannotChanged: Bitte kontaktiere den Kundendienst, sollte sich deine Telefonnummer ändern.
+# English for ⤵: What's new on BeeDee
+  whatsNew: Was ist neu
 
 homeComp:
 # English for ⤵: BDSMTest Compatibility: 
@@ -993,10 +983,20 @@ preference:
   openToMeeting: "Offen für Treffen mit Leuten dieser Geschlechter:"
 # English for ⤵: See profiles from anywhere
   matchAnywhere: Profile von überall sehen
+# English for ⤵: Only show profiles from my country
+  onlyShowCountry: Nur Profile aus meinem Land anzeigen
 # English for ⤵: Update
   update: Aktualisieren
 # English for ⤵: Preferences updated
   PreferencesUpdatedToast: Vorlieben aktualisiert
+# English for ⤵: Age
+  age: Age
+# English for ⤵: Location
+  location: Location
+# English for ⤵: Gender
+  gender: Gender
+# English for ⤵: Partner preferences
+  title: Partner preferences
 
 signupWithPhone:
 # English for ⤵: Welcome to BeeDee!
@@ -1017,8 +1017,6 @@ signupWithPhone:
   tncText: Bedingungen
 # English for ⤵: Privacy policy
   privacyText: Datenschutzbestimmungen
-# English for ⤵: Continue
-  continue: Weiter
 # English for ⤵: Enter country name or country code
   countrySearchPlaceholder: Name oder Vorwahl deines Landes eingeben
 # English for ⤵: Something went wrong, please try again
@@ -1190,7 +1188,7 @@ commonText:
 # English for ⤵: Done! You can see your new results below.
   profileLoading: Fertig! Du kannst deine neuen Ergebnisse unten sehen.
 # English for ⤵: Click the back button (top left corner) to return to BeeDee
-  profileLoadingSmall: "Drücke den “Zurück”-Knopf(Oben links) um zu BeeDee zurückzukehren"
+  profileLoadingSmall: "Drücke den \"Zurück\"-Knopf(Oben links) um zu BeeDee zurückzukehren"
 # English for ⤵: These are the BDSMTest results of
   userBdsmTestResult: "Das sind die BDSMTest-Ergebnisse von"
 # English for ⤵: Something went wrong, please try again
@@ -1470,6 +1468,36 @@ incognitoMode:
 # English for ⤵: Open in Regular Mode
   openRegular: Open in Regular Mode
 
+selfEvalModal:
+# English for ⤵: Which of the following best describes your photo?
+  question: Which of the following best describes your photo?
+# English for ⤵: Completely SFW
+  completelySfwLabel: Completely SFW
+# English for ⤵: Safe for all audiences; family-friendly and professional images (e.g., holiday photos, vanilla profile pictures).
+  completelySfwDesc: "Safe for all audiences; family-friendly and professional images (e.g., holiday photos, vanilla profile pictures)."
+# English for ⤵: Mildly NSFW
+  mildlyNsfwLabel: Mildly NSFW
+# English for ⤵: Suggestive or revealing, but no explicit content (e.g., bikinis, fashion shots, seductive poses, revealing selfies).
+  mildlyNsfwDesc: Suggestive or revealing, but no explicit content (e.g., bikinis, fashion shots, seductive poses, revealing selfies).
+# English for ⤵: Erotic
+  eroticLabel: Erotic
+# English for ⤵: Contains nudity or sexual themes, but not explicit (e.g., lingerie, kink toys, underboob, intimate poses).
+  eroticDesc: Contains nudity or sexual themes, but not explicit (e.g., lingerie, kink toys, underboob, intimate poses).
+# English for ⤵: Pornographic
+  pornographicLabel: Pornographic
+# English for ⤵: Explicit sexual content or nudity (e.g., genital nudity, nipples, sexual acts, explicit images).
+  pornographicDesc: Explicit sexual content or nudity (e.g., genital nudity, nipples, sexual acts, explicit images).
+# English for ⤵: Upload Image
+  uploadImage: Upload Image
+# English for ⤵: Image not allowed
+  imageNotAllowedTitle: Image not allowed
+# English for ⤵: Unfortunately we cannot allow images like that on BeeDee.
+  imageNotAllowedDesc: Unfortunately we cannot allow images like that on BeeDee.
+# English for ⤵: Community guidelines
+  guidelinesLink: Community guidelines
+# English for ⤵: Scroll for more options
+  scrollForMoreOptions: Scroll for more options
+
 reportUserOptions:
 # English for ⤵: Fake profile
   fakeProfile: Falsches Profil
@@ -1526,9 +1554,9 @@ familyPlansOptions:
 # English for ⤵: Has kids, wants more
   hasKidsWantsMore: Has kids, wants more
 # English for ⤵: Has kids, unsure about more
-  hasKidsUnsureMore: Has kids, unsure about more
+  hasKidsUnsureAboutMore: Has kids, unsure about more
 # English for ⤵: Has kids, doesn't want more
-  hasKidsNoMore: "Has kids, doesn't want more"
+  hasKidsDoesntWantMore: "Has kids, doesn't want more"
 
 educationLevelOptions:
 # English for ⤵: High school
@@ -1565,8 +1593,6 @@ frequencyOptions:
   never: Never
 
 openToOptions:
-# English for ⤵: Friendship
-  friendship: Friendship
 # English for ⤵: A monogamous relationship
   monogamousRelationship: A monogamous relationship
 # English for ⤵: An open relationship
@@ -1581,24 +1607,6 @@ openToOptions:
   friendsWithBenefits: A friends with benefits
 # English for ⤵: A 24/7 lifestyle dynamic
   lifestyleDynamic: A 24/7 lifestyle dynamic
-# English for ⤵: A mentor
-  mentor: A mentor
-# English for ⤵: A mentee
-  mentee: A mentee
-# English for ⤵: Someone similar to me
-  similarPerson: Someone similar to me
-# English for ⤵: Someone to go to events with
-  eventPartner: Someone to go to events with
-# English for ⤵: A penpal
-  penpal: A penpal
-# English for ⤵: A friend group to join
-  friendGroup: A friend group to join
-
-lookingForOptions:
-# English for ⤵: partners
-  partners: partners
-# English for ⤵: friends
-  friends: friends
 
 relationOptions:
 # English for ⤵: Dominant of

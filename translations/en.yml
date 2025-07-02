@@ -51,8 +51,7 @@ openTo:
   btnText: Next
   warnLookingFor: "You won't see any profiles"
   errorMsg: Please select at least one connection type
-  errorMsgFriend: Please select at least one option of friend connections
-  errorMsgPartner: Please select at least one option of partner connections
+  errorMsgPartner: Please select at least one option of connections
   profileUpdatedToast: Profile updated
   emptyFieldMsg: Field cannot be empty
 
@@ -60,8 +59,6 @@ lookingFor:
   title: Looking for
   btnText: Next
   btnUpdate: Update
-  partnerOpenTo: Partner(s)
-  friendOpenTo: Friendship
   openTo: Open to
   updateMsg: |
     Updated what you
@@ -94,8 +91,6 @@ Premium:
     ➔ Be shown more to other users
     ➔ See who sent you a like
   premiumNotAvailable: Premium is not yet available for purchase in the country your store account is linked to.
-  premiumNotAvailableIOS: Buying premium is unavailable on iOS for now.
-  productNotAvailableIOS: Buying whips is unavailable on iOS for now.
   productNotAvailable: Product is not yet available for purchase in the country your store account is linked to.
   failedToFetch: "Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later"
   cancelAnyTimeAndroid: Recurring subscription, you can cancel any time in the Play Store
@@ -133,7 +128,16 @@ Premium:
   perMonth: per month
   cancelAnytimeWeb: Recurring subscription, you can cancel it any time.
   discountCodeInvalid: no active discount found for this code
-  discountDescription: Discount applies to the initial period only, full price will charged when the subscription renews
+  discountDescription: Discount applies to the initial period only, full price will be charged when the subscription renews
+  haveAffiliateCode: Have an Affiliate Code?
+  enterAffiliateCodePlaceholder: Enter code
+  redeemCodeButton: Redeem Code
+  enterAffiliateCode: Please enter an affiliate code.
+  affiliateCodeSuccess: Affiliate code redeemed successfully! Whips added.
+  affiliateCodeAlreadyUsed: You have already used an affiliate code.
+  affiliateCodeInvalid: Affiliate code is not valid.
+  affiliateCodeError: Failed to redeem affiliate code.
+  revealAffiliateSectionButton: Got an affiliate code? Tap here to enter.
 
 PaymentStatus:
   paymentSuccess: Payment successful!
@@ -160,13 +164,11 @@ profileComponent:
   myPartners: My Partners
   settings: Settings
   partnerPreference: Discovery preferences
-  devPartnerPreference: Partner preferences
-  friendPreference: Friendship preferences
   beedee: BeeDee
   version: Version
-  barPremium: Premium
+  barPremium: Manage Premium
   barNotPremium: free account
-  barPlatinum: Platinum
+  barPlatinum: Manage Platinum
   barVerified: Verified
   barAlmostVerified: Verification pending
   barNotVerified: Not verified
@@ -208,7 +210,6 @@ enableLocation:
 itsMatch:
   startChatting: Start chatting
   discoverPartners: Discover more partners
-  discoverFriends: Discover more friends
 
 deleteAccount:
   title: Delete Account
@@ -330,7 +331,6 @@ chat:
   chatRuleLinkText3: " at all times"
   all: All
   partners: Partners
-  friendship: Friendship
   loadingConversations: Loading your conversations...
 
 matchedChatComp:
@@ -357,8 +357,6 @@ creditTextData:
 
 partnerDiscover:
   title: Discover profiles
-  devTitle: Discover partners
-  titleFriends: Discover Friends
   outOfLikes: Out of free likes
   creditTitle: No other potential matches in
   creditSubtitle: your area are available right now
@@ -398,8 +396,6 @@ partnerDiscover:
 
 Preferences:
   title: Discovery preferences
-  devTitle: Partner preferences
-  titleFriendship: Friendship preferences
   errorMsg: Please select at least one gender you are open to
   ageRange: Age range
   maximumMiles: Maximum distance
@@ -424,7 +420,7 @@ bdsmUpdate:
 report:
   headerTitle: Report this person
   info: "Don't worry, your feedback is anonymous and they won't know that you've reported them."
-  buttonText: Report
+  buttonText: Report and block
   extraInfo: Extra info
   pleaseSelectValue: Please select a reason to continue
   pleaseAddMotivation: Please enter some extra info
@@ -543,6 +539,7 @@ settings:
   errorMsg: Failed to load frequently asked questions, please try again
   tipsErrorMsgToast: Failed to load tips for success, please try again
   phoneCannotChanged: Contact the helpdesk if your phone number has changed
+  whatsNew: "What's new on BeeDee"
 
 homeComp:
   compatible: "BDSMTest Compatibility: "
@@ -559,6 +556,11 @@ preference:
   matchAnywhere: See profiles from anywhere
   update: Update
   PreferencesUpdatedToast: Preferences updated
+  onlyShowCountry: Only show profiles from my country
+  age: Age
+  location: Location
+  gender: Gender
+  title: Partner preferences
 
 signupWithPhone:
   welcomeMsg: Welcome to BeeDee!
@@ -570,7 +572,6 @@ signupWithPhone:
   privacyText2: " and "
   tncText: Terms, Conditions
   privacyText: Privacy policy
-  continue: Continue
   countrySearchPlaceholder: Enter country name or country code
   registerError: Something went wrong, please try again
   loginError: Failed to log in, please try again
@@ -816,6 +817,22 @@ incognitoMode:
   description: For BeeDee to properly work, BeeDee needs access to features that are not available when browsing incognito. So unfortunately we cannot offer BeeDee to incognito browsers for now. Please use a regular browser session to continue.
   openRegular: Open in Regular Mode
 
+selfEvalModal:
+  question: Which of the following best describes your photo?
+  completelySfwLabel: Completely SFW
+  completelySfwDesc: "Safe for all audiences; family-friendly and professional images (e.g., holiday photos, vanilla profile pictures)."
+  mildlyNsfwLabel: Mildly NSFW
+  mildlyNsfwDesc: Suggestive or revealing, but no explicit content (e.g., bikinis, fashion shots, seductive poses, revealing selfies).
+  eroticLabel: Erotic
+  eroticDesc: Contains nudity or sexual themes, but not explicit (e.g., lingerie, kink toys, underboob, intimate poses).
+  pornographicLabel: Pornographic
+  pornographicDesc: Explicit sexual content or nudity (e.g., genital nudity, nipples, sexual acts, explicit images).
+  uploadImage: Upload Image
+  imageNotAllowedTitle: Image not allowed
+  imageNotAllowedDesc: Unfortunately we cannot allow images like that on BeeDee.
+  guidelinesLink: Community guidelines
+  scrollForMoreOptions: Scroll for more options
+
 reportUserOptions:
   fakeProfile: Fake profile
   inappropriateContent: Inappropriate content
@@ -847,8 +864,8 @@ familyPlansOptions:
   unsureAboutKids: Unsure about kids
   doesntWantKids: "Doesn't want kids"
   hasKidsWantsMore: Has kids, wants more
-  hasKidsUnsureMore: Has kids, unsure about more
-  hasKidsNoMore: "Has kids, doesn't want more"
+  hasKidsUnsureAboutMore: Has kids, unsure about more
+  hasKidsDoesntWantMore: "Has kids, doesn't want more"
 
 educationLevelOptions:
   highSchool: High school
@@ -871,7 +888,6 @@ frequencyOptions:
   never: Never
 
 openToOptions:
-  friendship: Friendship
   monogamousRelationship: A monogamous relationship
   openRelationship: An open relationship
   polyamorousRelationship: A polyamourous relationship
@@ -879,16 +895,6 @@ openToOptions:
   playPartner: A play partner
   friendsWithBenefits: A friends with benefits
   lifestyleDynamic: A 24/7 lifestyle dynamic
-  mentor: A mentor
-  mentee: A mentee
-  similarPerson: Someone similar to me
-  eventPartner: Someone to go to events with
-  penpal: A penpal
-  friendGroup: A friend group to join
-
-lookingForOptions:
-  partners: partners
-  friends: friends
 
 relationOptions:
   dominantOf: Dominant of

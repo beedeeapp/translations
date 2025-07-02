@@ -78,9 +78,7 @@ openTo:
   warnLookingFor: je kunt zo geen andere profielen zien
 # English for ⤵: Please select at least one connection type
   errorMsg: Kies minstens één connectie type
-# English for ⤵: Please select at least one option of friend connections
-  errorMsgFriend: Kies minstens één optie voor vrienden connecties
-# English for ⤵: Please select at least one option of partner connections
+# English for ⤵: Please select at least one option of connections
   errorMsgPartner: Kies minstens één optie voor partner connecties
 # English for ⤵: Profile updated
   profileUpdatedToast: Profiel opgeslagen
@@ -94,10 +92,6 @@ lookingFor:
   btnText: Volgende
 # English for ⤵: Update
   btnUpdate: Update
-# English for ⤵: Partner(s)
-  partnerOpenTo: Partner(s)
-# English for ⤵: Friendship
-  friendOpenTo: Vriendschap
 # English for ⤵: Open to
   openTo: Open voor
 # English for ⤵: |
@@ -152,10 +146,6 @@ Premium:
     ➔ See who sent you a like
 # English for ⤵: Premium is not yet available for purchase in the country your store account is linked to.
   premiumNotAvailable: Premium is nog niet voor aankoop beschikbaar in het land waar jouw account aan is gelinkt.
-# English for ⤵: Buying premium is unavailable on iOS for now.
-  premiumNotAvailableIOS: Premium kopen is nu nog niet mogelijk op iOS.
-# English for ⤵: Buying whips is unavailable on iOS for now.
-  productNotAvailableIOS: Whips kopen is nu nog niet mogelijk op iOS.
 # English for ⤵: Product is not yet available for purchase in the country your store account is linked to.
   productNotAvailable: Dit product is nog niet voor aankoop beschikbaar in het land waar jouw account aan is gelinkt.
 # English for ⤵: Failed to check with [platform] for the most up-to-date prices, please check your internet connection and try again later
@@ -173,13 +163,9 @@ Premium:
 # English for ⤵: Please get in touch via 
   contactSupportText: "Contacteer ons via "
 # English for ⤵:  and include:
-  contactSupportInstructions: |
-     en voeg toe:
-    
+  contactSupportInstructions: "en voeg toe:"
 # English for ⤵: - The phone number and/or email address your BeeDee account is linked with.
-  supportDetailsBeeDee: |
-    - Het telefoonnummer en/of e-mailadres waar jouw BeeDee account aan gelinkt is.
-    
+  supportDetailsBeeDee: "- Het telefoonnummer en/of e-mailadres waar jouw BeeDee account aan gelinkt is."
 # English for ⤵: - The email address your 
   supportDetailsOtherAccount: "- Het email-adress waar jouw "
 # English for ⤵:  account is linked with.
@@ -229,12 +215,30 @@ Premium:
   sixMonths: 6 maanden
 # English for ⤵: per month
   perMonth: per maand
-# English for ⤵: no active discount found for this code
-  discountCodeInvalid: Geen actieve korting gevonden voor deze code
-# English for ⤵: Discount applies to the initial period only, full price will charged when the subscription renews
-  discountDescription: De korting geldt alleen voor de initiële periode, de volledige prijs wordt in rekening gebracht wanneer het abonnement wordt verlengd.
 # English for ⤵: Recurring subscription, you can cancel it any time.
-  cancelAnytimeWeb: Recurring subscription, you can cancel it any time.
+  cancelAnytimeWeb: Terugkerende abonnement, je kunt het op elk moment opzeggen.
+# English for ⤵: no active discount found for this code
+  discountCodeInvalid: geen actieve korting gevonden voor deze code
+# English for ⤵: Discount applies to the initial period only, full price will be charged when the subscription renews
+  discountDescription: Korting geldt alleen voor de eerste periode, volledige prijs wordt berekend wanneer het abonnement verlengt
+# English for ⤵: Have an Affiliate Code?
+  haveAffiliateCode: Heb je een Affiliate Code?
+# English for ⤵: Enter code
+  enterAffiliateCodePlaceholder: Voer code in
+# English for ⤵: Redeem Code
+  redeemCodeButton: Code Inwisselen
+# English for ⤵: Please enter an affiliate code.
+  enterAffiliateCode: Voer een affiliate code in.
+# English for ⤵: Affiliate code redeemed successfully! Whips added.
+  affiliateCodeSuccess: Affiliate code succesvol ingewisseld! Whips toegevoegd.
+# English for ⤵: You have already used an affiliate code.
+  affiliateCodeAlreadyUsed: Je hebt al een affiliate code gebruikt.
+# English for ⤵: Affiliate code is not valid.
+  affiliateCodeInvalid: Affiliate code is niet geldig.
+# English for ⤵: Failed to redeem affiliate code.
+  affiliateCodeError: Het inwisselen van de affiliate code is mislukt.
+# English for ⤵: Got an affiliate code? Tap here to enter.
+  revealAffiliateSectionButton: Heb je een affiliate code? Tik hier om deze in te voeren.
 
 PrivacyAndTerms:
 # English for ⤵: Privacy Policy
@@ -263,20 +267,16 @@ profileComponent:
   settings: Instellingen
 # English for ⤵: Discovery preferences
   partnerPreference: Discovery preferences
-# English for ⤵: Partner preferences
-  devPartnerPreference: Partner voorkeuren
-# English for ⤵: Friendship preferences
-  friendPreference: Vriendschap voorkeuren
 # English for ⤵: BeeDee
   beedee: BeeDee
 # English for ⤵: Version
   version: Versie
-# English for ⤵: Premium
-  barPremium: Premium
+# English for ⤵: Manage Premium
+  barPremium: Manage Premium
 # English for ⤵: free account
   barNotPremium: gratis account
-# English for ⤵: Platinum
-  barPlatinum: Platinum
+# English for ⤵: Manage Platinum
+  barPlatinum: Manage Platinum
 # English for ⤵: Verified
   barVerified: Goedgekeurd
 # English for ⤵: Verification pending
@@ -351,8 +351,6 @@ itsMatch:
   startChatting: Begin te chatten
 # English for ⤵: Discover more partners
   discoverPartners: Ontdek meer partners
-# English for ⤵: Discover more friends
-  discoverFriends: Ontdek meer vrienden
 
 deleteAccount:
 # English for ⤵: Delete Account
@@ -567,8 +565,6 @@ chat:
   all: Alle
 # English for ⤵: Partners
   partners: Partners
-# English for ⤵: Friendship
-  friendship: Vriendschap
 # English for ⤵: Loading your conversations...
   loadingConversations: Conversaties aan het bijwerken...
 
@@ -613,10 +609,6 @@ creditTextData:
 partnerDiscover:
 # English for ⤵: Discover profiles
   title: Ontdek profielen
-# English for ⤵: Discover partners
-  devTitle: Ontdek partners
-# English for ⤵: Discover Friends
-  titleFriends: Ontdek Vrienden
 # English for ⤵: Out of free likes
   outOfLikes: Je hebt geen gratis likes meer
 # English for ⤵: No other potential matches in
@@ -693,10 +685,6 @@ partnerDiscover:
 Preferences:
 # English for ⤵: Discovery preferences
   title: Ontdekkingsvoorkeuren
-# English for ⤵: Partner preferences
-  devTitle: Partnervoorkeuren
-# English for ⤵: Friendship preferences
-  titleFriendship: Vriendschapsvoorkeuren
 # English for ⤵: Please select at least one gender you are open to
   errorMsg: Selecteer ten minste één geslacht waarvoor je openstaat
 # English for ⤵: Age range
@@ -741,7 +729,7 @@ report:
   headerTitle: Rapporteer deze persoon
 # English for ⤵: Don't worry, your feedback is anonymous and they won't know that you've reported them.
   info: Geen zorgen, je feedback is anoniem en zij weten niet dat je hen hebt gerapporteerd.
-# English for ⤵: Report
+# English for ⤵: Report and block
   buttonText: Rapporteer en blokkeer
 # English for ⤵: Extra info
   extraInfo: Extra info
@@ -967,6 +955,8 @@ settings:
   tipsErrorMsgToast: Het laden van de tips voor success is mislukt, probeer later opnieuw
 # English for ⤵: Contact the helpdesk if your phone number has changed
   phoneCannotChanged: Contacteer de helpdesk als je teloonnummer veranderd is
+# English for ⤵: What's new on BeeDee
+  whatsNew: Wat is er nieuw
 
 homeComp:
 # English for ⤵: BDSMTest Compatibility: 
@@ -991,10 +981,20 @@ preference:
   openToMeeting: "Open tot ontmoeten van mensen met deze genders:"
 # English for ⤵: See profiles from anywhere
   matchAnywhere: Zie profielen van overal
+# English for ⤵: Only show profiles from my country
+  onlyShowCountry: Toon alleen profielen uit mijn land
 # English for ⤵: Update
   update: Update
 # English for ⤵: Preferences updated
   PreferencesUpdatedToast: Voorkeuren opgeslaan
+# English for ⤵: Age
+  age: Age
+# English for ⤵: Location
+  location: Location
+# English for ⤵: Gender
+  gender: Gender
+# English for ⤵: Partner preferences
+  title: Partner preferences
 
 signupWithPhone:
 # English for ⤵: Welcome to BeeDee!
@@ -1015,8 +1015,6 @@ signupWithPhone:
   tncText: Algemene Voorwaarden
 # English for ⤵: Privacy policy
   privacyText: het privacy beleid
-# English for ⤵: Continue
-  continue: Doorgaan
 # English for ⤵: Enter country name or country code
   countrySearchPlaceholder: Voer landnaam of landcode in
 # English for ⤵: Something went wrong, please try again
@@ -1276,7 +1274,6 @@ additionalInfo:
 # English for ⤵: You have unsaved changes, are you sure you want to exit?
   unsavedDescription: "Je hebt nog niet-opgeslagen wijzigingen. Weet je zeker dat je wilt afsluiten?"
 
-
 enableLocationTutorial:
 # English for ⤵: Here's how to enable location services for this website:
   title: "Here's how to enable location services for this website:"
@@ -1469,6 +1466,36 @@ PaymentStatus:
 # English for ⤵: Please contact help desk if you are facing any issue regarding payment.
   contactHelpDesk: Please contact help desk if you are facing any issue regarding payment.
 
+selfEvalModal:
+# English for ⤵: Which of the following best describes your photo?
+  question: Which of the following best describes your photo?
+# English for ⤵: Completely SFW
+  completelySfwLabel: Completely SFW
+# English for ⤵: Safe for all audiences; family-friendly and professional images (e.g., holiday photos, vanilla profile pictures).
+  completelySfwDesc: "Safe for all audiences; family-friendly and professional images (e.g., holiday photos, vanilla profile pictures)."
+# English for ⤵: Mildly NSFW
+  mildlyNsfwLabel: Mildly NSFW
+# English for ⤵: Suggestive or revealing, but no explicit content (e.g., bikinis, fashion shots, seductive poses, revealing selfies).
+  mildlyNsfwDesc: Suggestive or revealing, but no explicit content (e.g., bikinis, fashion shots, seductive poses, revealing selfies).
+# English for ⤵: Erotic
+  eroticLabel: Erotic
+# English for ⤵: Contains nudity or sexual themes, but not explicit (e.g., lingerie, kink toys, underboob, intimate poses).
+  eroticDesc: Contains nudity or sexual themes, but not explicit (e.g., lingerie, kink toys, underboob, intimate poses).
+# English for ⤵: Pornographic
+  pornographicLabel: Pornographic
+# English for ⤵: Explicit sexual content or nudity (e.g., genital nudity, nipples, sexual acts, explicit images).
+  pornographicDesc: Explicit sexual content or nudity (e.g., genital nudity, nipples, sexual acts, explicit images).
+# English for ⤵: Upload Image
+  uploadImage: Upload Image
+# English for ⤵: Image not allowed
+  imageNotAllowedTitle: Image not allowed
+# English for ⤵: Unfortunately we cannot allow images like that on BeeDee.
+  imageNotAllowedDesc: Unfortunately we cannot allow images like that on BeeDee.
+# English for ⤵: Community guidelines
+  guidelinesLink: Community guidelines
+# English for ⤵: Scroll for more options
+  scrollForMoreOptions: Scroll for more options
+
 reportUserOptions:
 # English for ⤵: Fake profile
   fakeProfile: Nep profiel
@@ -1525,9 +1552,9 @@ familyPlansOptions:
 # English for ⤵: Has kids, wants more
   hasKidsWantsMore: Heb kinderen, wil meer kinderen
 # English for ⤵: Has kids, unsure about more
-  hasKidsUnsureMore: Has kids, unsure about more
+  hasKidsUnsureAboutMore: Has kids, unsure about more
 # English for ⤵: Has kids, doesn't want more
-  hasKidsNoMore: "Has kids, doesn't want more"
+  hasKidsDoesntWantMore: "Has kids, doesn't want more"
 
 educationLevelOptions:
 # English for ⤵: High school
@@ -1564,8 +1591,6 @@ frequencyOptions:
   never: Nooit
 
 openToOptions:
-# English for ⤵: Friendship
-  friendship: Vriendschap
 # English for ⤵: A monogamous relationship
   monogamousRelationship: Een monogame relatie
 # English for ⤵: An open relationship
@@ -1580,24 +1605,6 @@ openToOptions:
   friendsWithBenefits: Vrienden met voordelen
 # English for ⤵: A 24/7 lifestyle dynamic
   lifestyleDynamic: Een 24/7 lifestyle dynamic
-# English for ⤵: A mentor
-  mentor: Een mentor
-# English for ⤵: A mentee
-  mentee: Een mentee
-# English for ⤵: A penpal
-  penpal: Een penvriend
-# English for ⤵: A friend group to join
-  friendGroup: Een vriendengroep om deel te nemen
-# English for ⤵: Someone similar to me
-  similarPerson: Someone similar to me
-# English for ⤵: Someone to go to events with
-  eventPartner: Someone to go to events with
-
-lookingForOptions:
-# English for ⤵: partners
-  partners: partners
-# English for ⤵: friends
-  friends: vrienden
 
 relationOptions:
 # English for ⤵: Dominant of
@@ -1681,5 +1688,5 @@ genderOptions:
 
 otherOptions:
 # English for ⤵: Other
-  other: Other
+  other: Anders
 
